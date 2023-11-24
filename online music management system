@@ -1,0 +1,1555 @@
+
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="en-gb" />
+<meta name="_token" content />
+<meta name="robots" content="noydir,noodp" />
+<title>Music Management | Artist Management | Music Gateway</title>
+<meta name="description" content="Our Music Management and Artist Management services provide a tailored approach to working with you and industry professionals to help grow your career." />
+<link rel="canonical" href="https://www.musicgateway.com/music-management" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@Music_Gateway">
+<meta name="twitter:domain" content="https://musicgateway.com">
+<meta name="twitter:creator" content="@Music_Gateway">
+<meta name="twitter:title" content="Music Management">
+<meta name="twitter:description" content="Looking for music management but want to stay independent and work with a team that understands your goals and wishes? Look no further!">
+<meta name="twitter:image" content="https://s3-eu-west-1.amazonaws.com/musicgateway.public/metaImages/Twitter-600.png">
+<meta property="og:title" content="Music Management" />
+<meta property="og:image" content="https://support.musicgateway.com/wp-content/uploads/2020/09/Music-Management.jpg" />
+<meta property="og:description" content="Looking for music management but want to stay independent and work with a team that understands your goals and wishes? Look no further!">
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.musicgateway.com/music-management" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:site_name" content="Music Gateway" />
+<meta name="author" content="Music Gateway" />
+<meta property="og:updated_time" content="2019-08-22T09:31:30+00:00" />
+<meta property="article:published_time" content="2019-08-22T09:31:30+00:00" />
+<meta property="article:modified_time" content="2019-08-22T09:31:30+00:00" />
+<meta name="weibo:article:create_at" content="2019-08-22T09:31:30+00:00" />
+<meta name="weibo:article:update_at" content="2019-08-22T09:31:30+00:00" />
+<meta name="theme-color" content="#2196f3">
+
+<script src="https://accounts.google.com/gsi/client" async defer></script>
+
+
+<link rel="stylesheet" href="/marketing-website/dist/css/style.min.css?v=MG2-5.0.242" type="text/css" />
+<script type="application/ld+json">
+    {
+        "@context":"https://schema.org",
+        "@type":"Organization",
+        "name":"Music Gateway",
+        "url":"https://www.musicgateway.com",
+        "logo":"https://www.musicgateway.com/img/mglogo200.png",
+        "image":"https://www.musicgateway.com/img/mglogo200.png",
+        "contactPoint":[  
+            {  
+                "@type":"ContactPoint",
+                "telephone":"+442045099090",
+                "contactType":"customer support UK"
+            },
+            {  
+                "@type":"ContactPoint",
+                "telephone":"+16441108",
+                "contactType":"customer support US"
+            },
+            {  
+                "@type":"ContactPoint",
+                "telephone":"",
+                "contactType":"customer support WhatsApp"
+            }
+        ],
+        "address":{  
+            "@type":"PostalAddress",
+            "streetAddress":"40-44 Church St",
+            "addressLocality":"Reigate",
+            "addressRegion":"UK",
+            "postalCode":"RH2 0AJ"
+        },
+        "telePhone":"+442045099090",
+        "sameAs":[  
+            "https://www.facebook.com/MusicGateway",
+            "https://twitter.com/Music_Gateway",
+            "https://www.linkedin.com/company/music-gateway-ltd",
+            "http://vimeo.com/musicgateway"
+        ]
+    }
+    </script>
+<script>
+window.dataLayer = window.dataLayer || [{
+    'origin_url': 'www.musicgateway.com/music-management'
+}];
+
+function gtag() { dataLayer.push(arguments); }
+</script>
+<script>
+
+    // Cookies
+    function setCookie(cname, cvalue, exdays) {
+    var d = new Date();
+    d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+    var expires = "expires="+d.toUTCString();
+    document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/; domain=" + location.host.split(".").slice(1).join(".");
+    }
+
+    function getCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for (var i = 0; i < ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+    }
+    return null;
+    }
+
+    function clearCookie(name) {   
+    document.cookie = name + '=;expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+    }
+
+    // Get URL parameter
+    var getUrlParameter = function getUrlParameter(sParam) {
+        var sPageURL = window.location.search.substring(1),
+            sURLVariables = sPageURL.split('&'),
+            sParameterName,
+            i;
+
+        for (i = 0; i < sURLVariables.length; i++) {
+            sParameterName = sURLVariables[i].split('=');
+
+            if (sParameterName[0] === sParam) {
+                return sParameterName[1] === undefined ? true : decodeURIComponent(sParameterName[1]);
+            }
+        }
+    };
+
+
+    // No longer including posthog on marketing site, instead, tracking key information held in a cookie and passed on at point of signup 
+    if (!getCookie('phInitialPage')) {
+        setCookie('phInitialPage', window.location.href, 365);
+        setCookie('phOrigin', 'Management and Development', 365);
+    }
+
+    //setCookie('phPageHistory', getCookie('phPageHistory') + ', ' + window.location.pathname, 365);
+
+    if ( getUrlParameter('pseudoAffiliate') ) {
+        setCookie('phPseudoAffiliate', getUrlParameter('pseudoAffiliate'), 365);
+    }
+
+            planName = 'non-member'
+    
+    window.dataLayer.push({
+        'origin': getCookie('phOrigin'),
+        'originUrl': getCookie('phInitialPage'),
+        'plan': planName
+    });
+
+</script>
+
+<script>(function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-58L4J6D');</script>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=GMXWLEM1DYK"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){ dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'GMXWLEM1DYK');
+    </script>
+</head>
+
+<style>
+    @media only screen and (min-width: 1215px) and (max-width: 1410px) {
+        .management-nav-item,
+        .blog-nav-item {
+            display: none;
+        }
+        .login-button{
+            margin-right: 0px !important;
+            padding-right: 2px !important;
+        }
+    }
+</style>
+<body class="music-management iplookup-currencycode">
+<svg style="height: 0; width: 0; overflow: hidden; visibility: hidden; position: absolute; top: -100px;">
+<defs>
+<linearGradient x1="3.982%" y1="47.102%" x2="100%" y2="53.678%" id="buttonStroke">
+<stop stop-color="#8239EC" offset="0%" />
+<stop stop-color="#2296F3" offset="100%" />
+</linearGradient>
+</defs>
+</svg>
+<link rel="preconnect" href="https://accounts.google.com" crossorigin />
+<div id="meganav_cover"></div>
+<div id="meganav">
+<div id="megabar" class="mega-bar container">
+<a href="/" class="mega-section brand">
+<img class="note-logo" alt="Music gateway logo" width="28" height="41" src="/marketing-website/dist/img/components/meganav/i-music-gateway-note.svg" />
+<div class="site-name">Music Gateway</div>
+<div id="cobrand-logo"></div>
+</a>
+<div class="mega-section categories">
+<ul class="headings">
+<li id="artists-heading" class="group">Artists
+<div class="megagroup">
+<div id="artists-group" class="navigation-links">
+<div class="mega-sub-heading">Solutions for Artists
+<div class="included"><span class="mobile_hide">All this is included in your free Music Gateway account</span><span class="mobile_only">Included in your account</span></div>
+</div>
+<div class="nav-block-group">
+<a href="/free-music-distribution" class="nav-block l img" style="background-image: url('/marketing-website/dist/img/components/meganav/mega-distribution-bg.png');">
+<div class="nav-block-title" style="background-image: url('/marketing-website/dist/img/components/meganav/i-distribution.svg');">Music Distribution</div>
+<div class="nav-block-description">Release to over 300 DSPs including Spotify, Apple, Amazon and more.</div>
+</a>
+<a href="/music-licensing-companies-sync-licensing" class="nav-block m">
+<div class="nav-block-title" style="background-image: url('/marketing-website/dist/img/components/meganav/i-sync.svg');">Sync Licensing</div>
+<div class="nav-block-description">Pitch your music to feature on TV, movies and adverts.</div>
+</a>
+<a href="/music-publishing" class="nav-block m">
+<div class="nav-block-title" style="background-image: url('/marketing-website/dist/img/components/meganav/i-publishing.svg');">Music Publishing</div>
+<div class="nav-block-description">Boost your earnings by up to 50% by claiming publishing royalties.</div>
+</a>
+<a href="/free-online-mastering" class="nav-block m">
+<div class="nav-block-title" style="background-image: url('/marketing-website/dist/img/components/meganav/i-mastering.svg');">Online Mastering</div>
+<div class="nav-block-description">Use AI mastering to make your music vibrant and really pop.</div>
+</a>
+<a href="/artist-band-websites" class="nav-block m">
+<div class="nav-block-title" style="background-image: url('/marketing-website/dist/img/components/meganav/i-showcase.svg');">Artist Websites</div>
+<div class="nav-block-description">Build your showcase, get new fans and increase your revenue.</div>
+</a>
+<a href="/submit-music" class="nav-block m">
+<div class="nav-block-title" style="background-image: url('/marketing-website/dist/img/components/meganav/i-playlists.svg');">Playlist Submission</div>
+<div class="nav-block-description">Submit your music to premium playlists and curators.</div>
+</a>
+<a href="/music-promotion" class="nav-block m">
+<div class="nav-block-title" style="background-image: url('/marketing-website/dist/img/components/meganav/i-promo-music-promotion.svg');">Music Promotion</div>
+<div class="nav-block-description">Promote your music and gain access to our promo team.</div>
+</a>
+</div>
+<div class="mega-sub-heading">More free tools</div>
+<div class="nav-block-group s">
+<a href="/royalties-calculator" class="nav-block s">
+<div class="nav-block-title">Streaming royalty calculator</div>
+</a>
+<a href="/online-guitar-tuner" class="nav-block s">
+<div class="nav-block-title">Guitar tuner</div>
+</a>
+<a href="/free-file-transfer" class="nav-block s">
+<div class="nav-block-title">Large file transfer tool</div>
+</a>
+<a href="/wav-to-mp3-converter" class="nav-block s">
+<div class="nav-block-title">WAV to MP3 converter</div>
+</a>
+<a href="/band-name-generator" class="nav-block s">
+<div class="nav-block-title">Band name generator</div>
+</a>
+<a href="/rap-name-generator" class="nav-block s">
+<div class="nav-block-title">Rap name generator</div>
+</a>
+<a href="/words-that-rhyme-with" class="nav-block s">
+<div class="nav-block-title">Lyric rhyme tool</div>
+</a>
+<a href="/spotify-mixtape" class="nav-block s">
+<div class="nav-block-title">Spotify mixtape creator</div>
+</a>
+<a href="/spotify-pre-save" class="nav-block s">
+<div class="nav-block-title">Spotify pre-save links</div>
+</a>
+<a href="/bpm-tapper" class="nav-block s">
+<div class="nav-block-title">BPM tapper</div>
+</a>
+<a href="/isrc-finder" class="nav-block s">
+<div class="nav-block-title">ISRC finder</div>
+</a>
+<a href="/online-metronome" class="nav-block s">
+<div class="nav-block-title">Online metronome</div>
+</a>
+<a href="/song-key-bpm" class="nav-block s">
+<div class="nav-block-title">Key/BPM finder</div>
+</a>
+<a href="/song-lyrics" class="nav-block s">
+<div class="nav-block-title">Lyrics finder</div>
+</a>
+</div>
+</div>
+</div>
+</li>
+<li id="promotion-heading" class="group">Promotion
+<div class="megagroup">
+<div id="promotion-group" class="navigation-links">
+<div class="mega-sub-heading">Promotion</div>
+<div class="nav-block-group">
+<a href="/music-promotion" class="nav-block l img" style="background-image: url('/marketing-website/dist/img/components/meganav/mega-promo-bg.png'); grid-column: 1 / 2">
+<div class="nav-block-title" style="background-image: url('/marketing-website/dist/img/components/meganav/i-promo-music-promotion.svg');">Music Promotion</div>
+<div class="nav-block-description">Our leading team of professional promoters can help you from Spotify and social media optimisation to worldwide releases across TV, radio and the web.</div>
+</a>
+<a href="/spotify-promotion" class="nav-block m">
+<div class="nav-block-title" style="background-image: url('/marketing-website/dist/img/components/meganav/i-promo-spotify.svg');">Spotify Promotion</div>
+<div class="nav-block-description">We guarantee organic plays with through our network of influencers.</div>
+</a>
+<a href="/radio-promotion" class="nav-block m">
+<div class="nav-block-title" style="background-image: url('/marketing-website/dist/img/components/meganav/i-promo-radio.svg');">Radio promotion</div>
+<div class="nav-block-description">Our radio pluggers work with the biggest stations around the world.</div>
+</a>
+<a href="/music-marketing" class="nav-block m">
+<div class="nav-block-title" style="background-image: url('/marketing-website/dist/img/components/meganav/i-promo-marketing.svg');">Music Marketing</div>
+<div class="nav-block-description">Everything from social marketing to music videos.</div>
+</a>
+<a href="/music-promotion/music-pr" class="nav-block m">
+<div class="nav-block-title" style="background-image: url('/marketing-website/dist/img/components/meganav/i-promo-press.svg');">Press</div>
+<div class="nav-block-description">Build your fanbase with targeted articles and press campaigns.</div>
+</a>
+<a href="/vinyl-pressing" class="nav-block m">
+<div class="nav-block-title" style="background-image: url('/marketing-website/dist/img/components/meganav/i-vinyl-press.svg');">Vinyl Pressing</div>
+<div class="nav-block-description">Make an order or finance your vinyl production with a fan-funded pre-release campaign.</div>
+</a>
+</div>
+</div>
+</div>
+</li>
+<li id="management-heading" class="group">Management
+<div class="megagroup">
+<div id="management-group" class="navigation-links">
+<div class="mega-sub-heading">Management <span class="right-50pc">Spotlight on</span></div>
+<div class="nav-block-group">
+<a href="/music-management" class="nav-block m">
+<div class="nav-block-title" style="background-image: url('/marketing-website/dist/img/components/meganav/i-promo-music-management.svg');">Music Management</div>
+<div class="nav-block-description">Our managers work with you on your music where you need it most.</div>
+</a>
+<a href="/artist-development" class="nav-block m">
+<div class="nav-block-title" style="background-image: url('/marketing-website/dist/img/components/meganav/i-artist-development.svg');">Artist Development</div>
+<div class="nav-block-description">We focus on how to boost your career and connections.</div>
+</a>
+<a href="/artist-management" class="nav-block m">
+<div class="nav-block-title" style="background-image: url('/marketing-website/dist/img/components/meganav/i-promo-artist-management.svg');">Artist Management</div>
+<div class="nav-block-description">Connect with managers who have worked alongside huge artists.</div>
+</a>
+<a href="/online-music-education-the-academy" class="nav-block m">
+<div class="nav-block-title" style="background-image: url('/marketing-website/dist/img/components/meganav/i-promo-academy.svg');">The Academy</div>
+<div class="nav-block-description">On-demand professional e-learning courses and videos</div>
+</a>
+<a href="/artist-development" class="nav-block l img spotlight" style="background-image: url('/marketing-website/dist/img/components/meganav/mega-spotlight-bg.png');">
+<div class="carousel__viewport">
+<div class="carousel__slide">
+<div class="profile" style="background-image: url('/marketing-website/dist/img/components/meganav/spotlight-1.png');"></div>
+<div class="profile-description">
+<strong>Andrew Ash</strong> <em>Matched with an artist manager</em>
+<span>"It's been an absolute dream ... so helpful with the release of my last single. I know so much more about the music industry and how to navigate it and felt like they put their whole heart into me and my music."</span>
+</div>
+<div class="carousel__snapper"></div>
+</div>
+<div class="carousel__slide">
+<div class="profile" style="background-image: url('/marketing-website/dist/img/components/meganav/spotlight-2.png');"></div>
+<div class="profile-description">
+<strong>Ipek Ozsoy</strong> <em>Artist Manager</em>
+<span>Ipek is an entertainment consultant who mentors artists at every level. As a manager and talent development specialist, she can help with branding, PR/promo, live strategy and international markets.</span>
+</div>
+<div class="carousel__snapper"></div>
+</div>
+<div class="carousel__slide">
+<div class="profile" style="background-image: url('/marketing-website/dist/img/components/meganav/spotlight-3.png');"></div>
+<div class="profile-description">
+<strong>Josh Hicks</strong> <em>New artist</em>
+<span>"After I won the Open Mic, I was scouted by Music Gateway... It's so helpful. Before I had my manager - I didn't know what I was doing."</span>
+</div>
+<div class="carousel__snapper"></div>
+</div>
+<div class="carousel__slide">
+<div class="profile" style="background-image: url('/marketing-website/dist/img/components/meganav/spotlight-4.png');"></div>
+<div class="profile-description">
+<strong>Kym Musgrove</strong> <em>Artist Manager</em>
+<span>"Music Gateway is an empowering platform that helps artists gain the knowledge they need to build long term, sustainable careers. I love seeing the transformation."</span>
+</div>
+<div class="carousel__snapper"></div>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+</li>
+<li id="licensing-heading" class="group">Licensing
+<div class="megagroup">
+<div id="licensing-group" class="navigation-links">
+<div class="mega-sub-heading">Licensing</div>
+<div class="nav-block-group">
+<a href="/music-licensing-companies-sync-licensing" class="nav-block m">
+<div class="nav-block-title" style="background-image: url('/marketing-website/dist/img/components/meganav/i-sync.svg');">Artist representation</div>
+<div class="nav-block-description">Get your music on TV and movies by joining our sync agency.</div>
+</a>
+<a href="/music-library-music-licensing" class="nav-block m">
+<div class="nav-block-title" style="background-image: url('/marketing-website/dist/img/components/meganav/i-license-01.svg');">License our music</div>
+<div class="nav-block-description">We can match your project with the perfect audio.</div>
+</a>
+<a href="/film-score-composer" class="nav-block m">
+<div class="nav-block-title" style="background-image: url('/marketing-website/dist/img/components/meganav/i-composer.svg');">Hire a composer</div>
+<div class="nav-block-description">Bespoke compositions to compliment your media project.</div>
+</a>
+<a href="/music-supervision" class="nav-block m">
+<div class="nav-block-title" style="background-image: url('/marketing-website/dist/img/components/meganav/i-promo-music-management.svg');">Hire a music supervisor</div>
+<div class="nav-block-description">Take advantage of our award-winning music supervision team.</div>
+</a>
+</div>
+</div>
+</div>
+</li>
+<li>
+<a href="/pricing">Pricing</a>
+</li>
+<li>
+<a href="/blog">Blog</a>
+</li>
+</ul>
+</div>
+<div class="mega-section sso">
+<a href="https://app.musicgateway.com/sign-up" class="button">Login or Join for Free</a>
+<div class="small">or sign up with</div>
+<div class="sso-button-group">
+<div id="g_id_onload" data-client_id="942407166572-925rilfvne9h01445ide95okbqprdrhd.apps.googleusercontent.com" data-callback="handleCredentialResponse">
+</div>
+<div class="sso-button-small google g_id_signin" data-type="icon" data-shape="rectangular"></div>
+<div class="sso-button-small facebook" onclick="SSOSignups('facebook')"><img src="/marketing-website/dist/img/components/meganav/i-facebook-f.svg" alt="facebook icon" /></div>
+<div class="sso-button-small spotify" onclick="SSOSignups('spotify')"><img src="/marketing-website/dist/img/components/meganav/i-spotify.svg" alt="Spotify icon" /></div>
+</div>
+</div>
+<div id="mobile-meganav" class="mega-section mobile-meganav"><img width="28" height="12" alt="Burger menu" src="/marketing-website/dist/img/components/meganav/i-burger-menu.svg" /></div>
+<div id="mobile-meganav-nav" class="mobile-meganav-nav">
+<div id="mobile-meganav-nav-back"><img alt="Large chevron" src="/marketing-website/dist/img/components/meganav/i-chevron-large.svg" /></div>
+<div id="mobile-meganav-nav-exit"><img alt="close icon" src="/marketing-website/dist/img/components/meganav/i-close.svg" /></div>
+</div>
+</div>
+</div>
+<script>
+
+    // Meganav
+    window.addEventListener("resize", initMeganav);
+    
+    function initMeganav() {
+        if (window.innerWidth < 1215 ) {
+            document.getElementById('artists-heading').addEventListener('click', mnArtistShow);
+            document.getElementById('management-heading').addEventListener('click', mnManagementShow);
+            document.getElementById('promotion-heading').addEventListener('click', mnPromotionShow);
+            document.getElementById('licensing-heading').addEventListener('click', mnLicensingShow);
+            document.getElementById('artists-heading').removeEventListener('mouseover', mnArtistShow);
+            document.getElementById('management-heading').removeEventListener('mouseover', mnManagementShow);
+            document.getElementById('promotion-heading').removeEventListener('mouseover', mnPromotionShow);
+            document.getElementById('artists-heading').removeEventListener('mouseout', mnArtistHide);
+            document.getElementById('management-heading').removeEventListener('mouseout', mnManagementHide);
+            document.getElementById('promotion-heading').removeEventListener('mouseout', mnPromotionHide);
+        }    else {
+            document.getElementById('artists-heading').addEventListener('mouseout', mnArtistHide);
+            document.getElementById('management-heading').addEventListener('mouseout', mnManagementHide);
+            document.getElementById('promotion-heading').addEventListener('mouseout', mnPromotionHide);
+            document.getElementById('licensing-heading').addEventListener('mouseout', mnLicensingHide);
+            document.getElementById('artists-heading').addEventListener('mouseover', mnArtistShow);
+            document.getElementById('management-heading').addEventListener('mouseover', mnManagementShow);
+            document.getElementById('promotion-heading').addEventListener('mouseover', mnPromotionShow);
+            document.getElementById('licensing-heading').addEventListener('mouseover', mnLicensingShow);
+        }
+    }
+
+    document.getElementById('mobile-meganav').addEventListener('click', showMobileMegaNav);
+    document.getElementById('mobile-meganav-nav-exit').addEventListener('click', hideMobileMegaNav);
+
+    function mnArtistShow() {
+        groupActions('show', 'artists-group');
+    }
+    function mnArtistHide() {
+        groupActions('hide', 'artists-group');
+    }
+    function mnManagementShow() {
+        groupActions('show', 'management-group');
+    }
+    function mnManagementHide() {
+        groupActions('hide', 'management-group');
+    }
+    function mnPromotionShow() {
+        groupActions('show', 'promotion-group');
+    }
+    function mnPromotionHide() {
+        groupActions('hide', 'promotion-group');
+    }
+    function mnLicensingShow() {
+        groupActions('show', 'licensing-group');
+    }
+    function mnLicensingHide() {
+        groupActions('hide', 'licensing-group');
+    }
+    
+    groupOnly = document.getElementsByClassName('group');
+    for (var i = 0; i < groupOnly.length; i++) {
+        groupOnly[i].addEventListener('click', showMobileBack, false);
+    }
+    document.getElementById('mobile-meganav-nav-back').addEventListener('click', hideMobileBack);
+
+    function showMobileMegaNav() {
+        document.getElementById('megabar').classList.add('mobile');
+        document.getElementById('meganav_cover').classList.add('show');
+    }
+
+    function hideMobileMegaNav() {
+        document.getElementById('megabar').classList.remove('mobile');
+        document.getElementById('mobile-meganav-nav-back').style.display = 'none';
+        document.getElementById('meganav_cover').classList.remove('show');
+        hideMobileBack();
+    }
+
+    function showMobileBack() {
+        document.getElementById('mobile-meganav-nav-back').style.display = 'flex';
+    }
+
+    function hideMobileBack() {
+        document.getElementById('mobile-meganav-nav-back').style.display = 'none';
+        cl = document.getElementsByClassName('megagroup');
+        for (var i = 0; i < cl.length; i++) {
+            cl[i].style.display='none'
+        }
+        
+    }
+
+    function groupActions(action, id) {
+        if (action == 'show') {
+            document.getElementById(id).classList.add('show');
+            document.getElementById(id).parentNode.style.display = 'block';
+        } else if (action == 'hide') {
+            document.getElementById(id).classList.remove('show');
+            document.getElementById(id).parentNode.style.display = 'none';
+        } else if (action == 'toggle') {
+            if (document.getElementById(id).classList.contains('show')) {
+                document.getElementById(id).classList.remove('show');
+            } else {
+                document.getElementById(id).classList.add('show');
+            }
+        }
+    }
+
+    function SSOSignups(type){
+        if(type == 'facebook'){
+            window.location = 'https://app.musicgateway.com/log-in?facebooklogin=true'
+        }
+
+        else if (type == 'spotify'){
+            window.location = 'https://app.musicgateway.com/log-in?spotifylogin=true'
+        }
+    }
+
+    initMeganav();
+
+
+    //cobrand
+    if (getCookie('phPseudoAffiliate') == 'songbay') {
+        document.getElementById('cobrand-logo').style.backgroundImage = "url('/marketing-website/dist/img/pages/misc/songbay.png')";
+        document.getElementById('cobrand-logo').style.display = "block";
+    }
+    if (getCookie('phPseudoAffiliate') == 'musiccrowns') {
+        document.getElementById('cobrand-logo').style.backgroundImage = "url('/marketing-website/dist/img/pages/misc/musiccrowns.png')";
+        document.getElementById('cobrand-logo').style.display = "block";
+    }
+
+
+
+    function handleCredentialResponse(response) {
+    window.location.href = "https://app.musicgateway.com/log-in?googlesignup=" + response.credential;
+  //console.log("Encoded JWT ID token: " + response.credential);
+}
+    window.addEventListener('load', function (){
+        if(typeof google !== 'undefined'){
+            google.accounts.id.initialize({
+            client_id: "942407166572-925rilfvne9h01445ide95okbqprdrhd.apps.googleusercontent.com", // Replace with your Google Client ID
+            callback: handleCredentialResponse // We choose to handle the callback in client side, so we include a reference to a function that will handle the response
+            });
+        }
+
+    //google.accounts.id.prompt(); // Display the One Tap dialog
+    })
+
+</script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.4/tiny-slider.css"> <section class="section hero hero-bg is-medium has-text-centered p-l-0 p-r-0 musicManagment-bg">
+<div class="hero-padding">
+<div class="container">
+<div class="columns is-centered">
+<div class="column is-10 p-b-0">
+<h1 class="has-text-weight-light has-text-white">Music Management & Development</h1>
+<h2 class="has-text-white has-text-weight-bold">Discover your next steps, develop your music, grow your fanbase and collaborate with professionals across the industry to take your career to the next level.</h2>
+</div>
+</div>
+<a href="/music-management-form" class="button is-rounded is-gradient-solid has-text-weight-bold">Apply</a>
+</div>
+</div>
+<div class="fit-content m-x-auto">
+<a onclick="scrollToEl.scrollVerticalToElementById('main', 82);" href="#main" class="pointer scroll-down">
+
+<img alt="Chevron icon pointing down" src="/marketing-website/dist/img/svg/chev-down.svg">
+</a>
+</div>
+</section>
+<section class="artist-success is-hidden-touch" style="background-color:#222228">
+<div class="is-hidden-desktop features-mobile-shape"></div>
+<div class="container is-centered columns">
+<div class="column is-7 has-text-centered has-text-white">
+<h3 class="has-text-weight-light" style="font-size: 54px;">What Artists Say</h3>
+<div class="quotes">
+<div class="quote">
+<h4 class="has-text-weight-light" style="font-size: 24px;">“Music Gateway are always a pleasure to work with - dedicated and diligent in the work they do and the results they achieve speak for themselves.”</h4>
+<img alt="Blue and purple gradient divider" class="gradient-divider m-x-auto fit-content" src="/marketing-website/dist/img/svg/gradient-divider.svg">
+<p class="is-size-7 has-text-weight-semibold l-h-22 is-uppercase letter-spacing-1-5">Alex (Darling Boy)</p>
+<p class="has-text-grey is-size-7 text-right">Recording artist</p>
+</div>
+<div class="quote">
+<h4 class="has-text-weight-light" style="font-size: 24px;">“I am having an amazing experience with music gateway writing and recording my songs. Everything is very professional and I am looking forward to what this year will bring”</h4>
+<img alt="Blue and purple gradient divider" class="gradient-divider m-x-auto fit-content" src="/marketing-website/dist/img/svg/gradient-divider.svg">
+<p class="is-size-7 has-text-weight-semibold l-h-22 is-uppercase letter-spacing-1-5">Jovani</p>
+<p class="has-text-grey is-size-7 text-right">Recording artist</p>
+</div>
+<div class="quote">
+<h4 class="has-text-weight-light" style="font-size: 24px;">“Thanks to the Artist Development team I succeeded in finding that ideal niche where my eclectic profile perfectly fits the music market demands”</h4>
+<img alt="Blue and purple gradient divider" class="gradient-divider m-x-auto fit-content" src="/marketing-website/dist/img/svg/gradient-divider.svg">
+<p class="is-size-7 has-text-weight-semibold l-h-22 is-uppercase letter-spacing-1-5">Amónada Zeon</p>
+<p class="has-text-grey is-size-7 text-right">Recording artist</p>
+</div>
+<div class="quote">
+<h4 class="has-text-weight-light" style="font-size: 24px;">“The sessions I've had with Kidda Beats have given me some insights into the music industry that I'm already benefiting from and using to grow myself as an artist”</h4>
+<img alt="Blue and purple gradient divider" class="gradient-divider m-x-auto fit-content" src="/marketing-website/dist/img/svg/gradient-divider.svg">
+<p class="is-size-7 has-text-weight-semibold l-h-22 is-uppercase letter-spacing-1-5">Stefan Donchev</p>
+<p class="has-text-grey is-size-7 text-right">Recording artist</p>
+</div>
+<div class="quote">
+<h4 class="has-text-weight-light" style="font-size: 24px;">“I had the pleasure of working with Future Music Management and it was an unforgettable experience for me! They are very professional and helped me grow into the artist I am today”</h4>
+<img alt="Blue and purple gradient divider" class="gradient-divider m-x-auto fit-content" src="/marketing-website/dist/img/svg/gradient-divider.svg">
+<p class="is-size-7 has-text-weight-semibold l-h-22 is-uppercase letter-spacing-1-5">Sara Vukaylov</p>
+<p class="has-text-grey is-size-7 text-right">Recording artist</p>
+</div>
+<div class="quote">
+<h4 class="has-text-weight-light" style="font-size: 24px;">“Music Gateway has helped me transform my music career and help me achieve the goals i couldn’t do on my own”</h4>
+<img alt="Blue and purple gradient divider" class="gradient-divider m-x-auto fit-content" src="/marketing-website/dist/img/svg/gradient-divider.svg">
+<p class="is-size-7 has-text-weight-semibold l-h-22 is-uppercase letter-spacing-1-5">Jordan Nelson</p>
+<p class="has-text-grey is-size-7 text-right">Recording artist</p>
+</div>
+</div>
+</div>
+</div>
+<div class="quote-nav m-x-auto" style="grid-template-columns repeat(6,100px);">
+<div class="quote-item">
+<picture>
+<source srcset="/marketing-website/dist/img/quotes/music-promo/Alex_Darling_Boy.webp" type="image/webp">
+<source srcset="/marketing-website/dist/img/quotes/music-promo/Alex_Darling_Boy.jpg" type="image/jpeg">
+<img alt="Photo of Alex (Darling Boy)" src="/marketing-website/dist/img/quotes/music-promo/Alex_Darling_Boy.jpg">
+</picture>
+</div>
+<div class="quote-item">
+<picture>
+<source srcset="/marketing-website/dist/img/quotes/music-promo/Jovani.webp" type="image/webp">
+<source srcset="/marketing-website/dist/img/quotes/music-promo/Jovani.jpeg	" type="image/jpeg">
+<img alt="Photo of Jovani" src="/marketing-website/dist/img/quotes/music-promo/Jovani.jpeg	">
+</picture>
+</div>
+<div class="quote-item">
+<picture>
+<source srcset="/marketing-website/dist/img/quotes/music-promo/Amonada_Zeon.webp" type="image/webp">
+<source srcset="/marketing-website/dist/img/quotes/music-promo/Amonada_Zeon.jpeg" type="image/jpeg">
+<img alt="Photo of Amónada Zeon" src="/marketing-website/dist/img/quotes/music-promo/Amonada_Zeon.jpeg">
+</picture>
+</div>
+<div class="quote-item">
+<picture>
+<source srcset="/marketing-website/dist/img/quotes/music-promo/Stefan_Donchev.webp" type="image/webp">
+<source srcset="/marketing-website/dist/img/quotes/music-promo/Stefan_Donchev.png" type="image/jpeg">
+<img alt="Photo of Stefan Donchev" src="/marketing-website/dist/img/quotes/music-promo/Stefan_Donchev.png">
+</picture>
+</div>
+<div class="quote-item">
+<picture>
+<source srcset="/marketing-website/dist/img/quotes/music-promo/Sara_Vukaylov.webp" type="image/webp">
+<source srcset="/marketing-website/dist/img/quotes/music-promo/Sara_Vukaylov.jpg" type="image/jpeg">
+<img alt="Photo of Sara Vukaylov" src="/marketing-website/dist/img/quotes/music-promo/Sara_Vukaylov.jpg">
+</picture>
+</div>
+<div class="quote-item">
+<picture>
+<source srcset="/marketing-website/dist/img/quotes/music-promo/Jordan_Nelson.webp" type="image/webp">
+<source srcset="/marketing-website/dist/img/quotes/music-promo/Jordan_Nelson.jpeg" type="image/jpeg">
+<img alt="Photo of Jordan Nelson" src="/marketing-website/dist/img/quotes/music-promo/Jordan_Nelson.jpeg">
+</picture>
+</div>
+</section>
+<section id="main" class="streaming-promo">
+<div class="container has-text-white m-t-xxl">
+<div class="container columns content-section is-vcentered">
+<div class="column is-7">
+<img class="m-b-md" alt="Money icon graphic" src="/marketing-website/dist/img/svg/head-phone-icon.svg">
+<h3 class="has-text-weight-light">What is Music Management & Development?</h3>
+<p>At Music Gateway, we help independent artists like you achieve success through regular consultations with industry-leading managers. Whether you're just starting or are already an established artist, our Music Management & Development programme is tailored to your ambitions and needs. It's also an opportunity to learn to network with the key players in the music industry who might otherwise be unreachable to you on your own. </p>
+<p>Artists frequently tell us they battled for years on their own before starting Music Management & Development, but now feel energised and confident about what to do next. Together we can map out a clear, strategic path to success and work to achieve results every step of the way.</p>
+</div>
+<div class="column is-5">
+<img alt="Music management" src="/marketing-website/dist/img/pages/music-management/music-man-sec-1.webp">
+</div>
+</div>
+</div>
+</section>
+<section class="artist-success is-hidden-touch" style="background-color:#222228; margin-bottom: 120px;">
+<div class="is-hidden-desktop features-mobile-shape"></div>
+<div class="container is-centered columns">
+<div class="column is-7 has-text-centered has-text-white">
+<iframe width="800" height="450" src="https://www.youtube.com/embed/ietQlnsB3Zg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+</section>
+<section class="white-bg relative light-section">
+<div class="container columns content-section is-vcentered">
+<div class="column is-6">
+<picture>
+<source srcset="/marketing-website/dist/img/pages/music-management/music-man-sec-2.webp" type="image/webp">
+<img alt="Music manager" src="/marketing-website/dist/img/pages/music-management/music-man-sec-2.webp">
+</picture>
+</div>
+<div class="column is-6">
+<div class="right-section">
+<img alt="Music microphone icon" class="icon-img" src="/marketing-website/dist/img/svg/microphone-icon.svg">
+<h3 class="has-text-weight-light">Our Manager Team</h3>
+<p>Our Artist Managers will help to identify everything that has been holding you back. Depending on your focus and needs, you could work on your sound and production, artistic vision and brand, growing your fanbase, monetising your music, or inching closer to landing that dream opportunity.</p>
+<p>We have handpicked expert managers with a vast range of experience and connections. They have a diverse skill set and are ready to help you navigate the complexities of the music industry.</p>
+<p>Our credentials speak for themselves: the team has worked with the world's top artists, like The 1975, Emeli Sandé and Elton John, across music production, marketing and business management.</p>
+<a class="get-started-button svg-button" href="/music-management-form">
+<svg width="151" height="59" xmlns="http://www.w3.org/2000/svg">
+<g fill="none" fill-rule="evenodd">
+<text font-size="16" font-weight="500" fill="#000">
+<tspan x="33" y="35">Let's Chat</tspan>
+</text>
+<rect stroke="url(#buttonStroke)" stroke-width="2" x="1" y="1" width="145" height="57" rx="28.5"></rect>
+</g>
+</svg>
+</a>
+</div>
+</div>
+</div>
+</section>
+<section class="relative marketing-campaign has-text-white">
+<div class="container columns content-section is-vcentered">
+<div class="column is-6">
+<div>
+<svg class="icon-img" xmlns="http://www.w3.org/2000/svg" width="70" height="70">
+<defs>
+<linearGradient x1="0%" y1="-20.306%" x2="125.638%" y2="129.109%" id="a">
+<stop stop-color="#8338EC" offset="0%" />
+<stop stop-color="#2196F3" offset="100%" />
+</linearGradient>
+</defs>
+<g transform="translate(1 1)" fill="none" fill-rule="evenodd">
+<circle stroke="#27272E" opacity=".16" cx="34" cy="34" r="34" style="&#10;    stroke: white;&#10;" />
+<path d="M25 35.4h-5a1 1 0 00-1 1v10a1 1 0 001 1h5a1 1 0 001-1v-10a1 1 0 00-1-1zm10-4h-5a1 1 0 00-1 1v14a1 1 0 001 1h5a1 1 0 001-1v-14a1 1 0 00-1-1zm13.81-5.6l-5.51-7.4a1 1 0 00-1.6 0l-5.51 7.4c-.65.88-.29 1.6.8 1.6h2v19a1 1 0 001 1h5a1 1 0 001-1v-19h2c1.11 0 1.48-.72.82-1.6z" fill="url(#a)" />
+</g>
+</svg>
+<h3 class="has-text-weight-light">How We Work</h3>
+<p>Music Management & Development at Music Gateway works a little differently in that our managers do not take a percentage of your rights, instead working on a consultation basis to offer you expert advice, so you remain in control every step of the way. Supported by a successful in-house <a href="/music-promotion"> music promotion</a> team, we act as a springboard from where you are now to where you want to be next.</p>
+<p><b>Music Management & Development covers key areas</b><p>
+<ul>
+<li>Business Management</li>
+<li>Career Strategy</li>
+<li>Release Strategy</li>
+<li>Branding</li>
+<li>Social Media</li>
+<li>Promotion</li>
+<li>Production</li>
+<li>Event Production</li>
+<li>Networking</li>
+</ul>
+<a class="get-started-button svg-button" href="/music-management-form">
+<svg width="151" height="59" xmlns="http://www.w3.org/2000/svg">
+<g fill="none" fill-rule="evenodd">
+<text font-size="16" font-weight="500" fill="#fff">
+<tspan x="32" y="35">Learn More</tspan>
+</text>
+<rect stroke="url(#buttonStroke)" stroke-width="2" x="1" y="1" width="145" height="57" rx="28.5"></rect>
+</g>
+</svg>
+</a>
+</div>
+</div>
+<div class="column is-6">
+<picture>
+<source srcset="/marketing-website/dist/img/pages/music-management/music-man-sec-3.webp" type="image/webp">
+<img alt="Manager music" src="/marketing-website/dist/img/pages/music-management/music-man-sec-3.webp">
+</picture>
+</div>
+</div>
+</section>
+<section class="white-bg relative light-section">
+<div class="container columns content-section is-vcentered">
+<div class="column is-5">
+<picture>
+<source srcset="/marketing-website/dist/img/pages/music-management/music-man-sec-4.webp" type="image/webp">
+<img alt="Music management companies" src="/marketing-website/dist/img/pages/music-management/music-man-sec-4.webp">
+</picture>
+</div>
+<div class="column is-7">
+<div class="right-section" style="max-width: unset;">
+<img alt="Music microphone icon" class="icon-img" src="/marketing-website/dist/img/svg/microphone-icon.svg">
+<h3 class="has-text-weight-light p-b-m" style="max-width: unset;">Is Music Management & Development Right For Me?</h3>
+<ul style="margin-top: 20px;">
+<li style="max-width: unset;">Do you feel like your career isn’t progressing?</li>
+<li style="max-width: unset;">Are you unsure what you’re 'supposed' to be doing?</li>
+<li style="max-width: unset;">Do you feel overwhelmed at the thought of having to do everything by yourself?</li>
+<li style="max-width: unset;">Does the business side of the music industry feel daunting or unreachable?</li>
+<li style="max-width: unset;">Do you hate thinking about promoting your music online?</li>
+<li style="max-width: unset;">Do you wish you could make a living from your music?</li>
+<li style="max-width: unset;">Do you want to network with key players in the music industry?</li>
+</ul>
+<p>If you answered “Yes” to any of the above, then we can help.</p>
+<p>Discover your next steps with Music Management & Development to move your career along the scale. How fast you progress is up to you. Take the first step and apply today to start a conversion with our team.</p>
+<a class="get-started-button svg-button" href="/music-management-form">
+<svg width="151" height="59" xmlns="http://www.w3.org/2000/svg">
+<g fill="none" fill-rule="evenodd">
+<text font-size="16" font-weight="500" fill="#000">
+<tspan x="50" y="35">Apply</tspan>
+</text>
+<rect stroke="url(#buttonStroke)" stroke-width="2" x="1" y="1" width="145" height="57" rx="28.5"></rect>
+</g>
+</svg>
+</a>
+</div>
+</div>
+</section>
+<section class="relative marketing-campaign has-text-white">
+<div class="container has-text-white m-t-xxl">
+<div class="container columns content-section">
+<div class="column is-6 has-text-centered" style="
+    justify-content: start;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+">
+<div>
+<h3 class="has-text-weight-light">Artist Development</h3>
+<img alt="Blue and purple gradient divider" class="gradient-divider m-x-auto fit-content" src="/marketing-website/dist/img/svg/gradient-divider-small.svg">
+<p>Whether you're just starting out or looking to refine your existing brand, our team of experts can help. All we ask is that you are passionate and committed to growing as an artist.</p>
+</div>
+<div style="align-items: end; display: flex; height:100%;">
+<a class="get-started-button svg-button" href="/artist-development">
+<svg width="151" height="59" xmlns="http://www.w3.org/2000/svg">
+<g fill="none" fill-rule="evenodd">
+<text font-size="16" font-weight="500" fill="#fff">
+<tspan x="32" y="35">Read More</tspan>
+</text>
+<rect stroke="url(#buttonStroke)" stroke-width="2" x="1" y="1" width="145" height="57" rx="28.5"></rect>
+</g>
+</svg>
+</a>
+</div>
+</div>
+<div class="column is-6 has-text-centered" style="
+    justify-content: start;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+">
+<h3 class="has-text-weight-light">Artist Management</h3>
+<img alt="Blue and purple gradient divider" class="gradient-divider m-x-auto fit-content" src="/marketing-website/dist/img/svg/gradient-divider-small.svg">
+<p style="margin-top: 0px;">Whether you’re looking to develop a business strategy or secure a record deal, we’re here to help you navigate the industry and establish the right connections.</p>
+<div style="align-items: end; display: flex; height:100%;">
+<a class="get-started-button svg-button" href="/artist-management">
+<svg width="151" height="59" xmlns="http://www.w3.org/2000/svg">
+<g fill="none" fill-rule="evenodd">
+<text font-size="16" font-weight="500" fill="#fff">
+<tspan x="32" y="35">Read More</tspan>
+</text>
+<rect stroke="url(#buttonStroke)" stroke-width="2" x="1" y="1" width="145" height="57" rx="28.5"></rect>
+</g>
+</svg>
+</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="modal purchase-modal">
+<div class="modal-background"></div>
+<div class="modal-content">
+<div class="modal-contact-form has-text-white has-text-centered">
+<img alt="Music headphone icon" class="icon-img" src="/marketing-website/dist/img/svg/envelope-icon.svg">
+<div class="modal-copy">
+<h3 class="has-text-weight-light section-title m-b-lg m-t-xs modal-title"></h3>
+<p class="lead-text modal-body"></p>
+<p class="lead-text price-section">Price:
+<span class="price-text-gbp gbp"></span>
+<span class="price-text-usd usd"></span>
+<span class="price-text-eur eur"></span>
+</p>
+</div>
+<div class="thanks-el is-hidden">
+<p class="lead-text">Thank you, your payment has been processed<br>
+A member of the Music Promotions team will be in touch soon to arrange your call and any details.</p>
+</div>
+<div class="error-el is-hidden">
+<p class="lead-text">
+Your payment was not processed
+<br>
+There was an issue processing your payment, please check your payment details are correct.</p>
+</div>
+<div class="loading is-hidden">
+<img src="/marketing-website/dist/img/svg/loading-spinner.svg" alt="loading spinner">
+</div>
+<form id="payment-form">
+<input type="hidden" name="clientSecret" class="clientSecret">
+<input type="hidden" id="currency" name="currency" class="iplookup-currency-input currency" value="USD">
+<div class="field is-horizontal">
+<div class="field-body">
+<div class="field">
+<p class="control is-expanded ">
+<input type="text" name="name" class="name-input input dark" placeholder="Full name" autofocus required>
+</p>
+</div>
+<div class="field">
+<p class="control is-expanded">
+<input type="email" name="email" class="email-input input dark" placeholder="Email address" required>
+</p>
+</div>
+</div>
+</div>
+<div class="ui form text-left">
+<div class="card-and-button-wrapper">
+<div id="card-element"></div>
+<button id="card-button" class="process-payment button is-gradient-solid has-text-weight-bold">
+Buy Now
+</button>
+</div>
+<div id="card-errors" role="alert"></div>
+</div>
+<p style="font-size: 12px; max-width: 530px; margin-left: auto; margin-right: auto;" class="has-text-light-white text-center"><i class="icon fa-check-square-o" aria-hidden="true"></i> I authorise Music Gateway to send instructions to the financial institution that issued my card to take payments from my card account in accordance with the <a href="/terms-and-conditions">terms of my agreement</a> with you.</p>
+</form>
+</div>
+</div>
+<button class="modal-close is-large" aria-label="close"></button>
+</div>
+<section class="section">
+<div class="container">
+<div class="single-article">
+<p>
+<h2 id="h-music-management-everything-you-need-to-know">Music Management: Everything You Need To Know</h2>
+<figure class="wp-block-image size-large is-resized"><a href="https://support.musicgateway.com/wp-content/uploads/2022/01/800-x-500-Blog-Post-64.jpg"><img decoding="async" src="https://support.musicgateway.com/wp-content/uploads/2022/01/800-x-500-Blog-Post-64.jpg" alt="Music Management" class="wp-image-40391" width="843" height="527" /></a></figure>
+<p>The role of the music manager is shrouded in mystery and romanticism. Some managers become almost as famous in some ways as the artists they represent (think Scooter Braun or Brian Epstein) whilst others are unseen figures pulling the strings behind the scenes. One thing is clear, and that is music management is a complex and demanding job – the answer to the question of ‘what a music manager is’ is almost as deep as the role itself. In this blog, we’ll define what a music manager is, break down some of the tasks it incorporates, and take a brief look at why an artist might need music management and promotion.&nbsp;</p>
+<h2 id="h-what-types-of-music-management-are-there">What Types Of Music Management Are There?</h2>
+<p>What types of music manager jobs are there? This is a broad question to answer; music managers come in lots of different guises and the job description for one manager is radically different from the job description of another.&nbsp;</p>
+<h2 id="h-music-management">Music Management</h2>
+<p>When most people think of a music manager, they think of the traditional personal manager – someone who spends a lot of time with an <a href="https://www.musicgateway.com/blog/music-industry/music-business/underground-artist">artist</a> and handles a lot of the day-to-day tasks to ensure that everything runs to schedule. This includes managing an artist’s calendar, making sure they have everything needed for the day and making sure they are in the right place at the right time.&nbsp;&nbsp;</p>
+<h2 id="h-tour-management">Tour Management&nbsp;</h2>
+<p>There is also&nbsp;<a href="https://www.musicgateway.com/blog/music-industry/music-business/tour-manager">tour management</a>&nbsp;where the manager is responsible for all of the logistics of the road – from ensuring everyone has hotel rooms sorted, to making sure equipment arrives correctly at venues, to make sure the tour stays on track financially.</p>
+<h2 id="h-business-management">Business Management</h2>
+<p>Business management is the other large sector of managers in the music industry. A music business manager is concerned with the finances of an artist’s career – they ensure bills are paid, books are balanced, and taxes are correct. They often work with new investment opportunities and take care of everything down to managing the different revenue streams an artist might have. Business managers make sure that the <a href="https://www.musicgateway.com/blog/how-to/music-royalties">income</a> is properly collected and calculated.&nbsp;</p>
+<h2 id="h-what-does-a-music-manager-typically-do">What Does A Music Manager Typically Do?</h2>
+<figure class="wp-block-image size-large is-resized"><a href="https://support.musicgateway.com/wp-content/uploads/2022/01/800-x-500-Blog-Post-65.jpg"><img decoding="async" src="https://support.musicgateway.com/wp-content/uploads/2022/01/800-x-500-Blog-Post-65.jpg" alt="music managers looking for talent " class="wp-image-40392" width="838" height="524" /></a></figure>
+<p>Larger artists with lots of different, complex projects will often have multiple people who make up a management team, focusing on each of the above areas individually. However,&nbsp;<em>most</em>&nbsp;artists will generally have one manager that is responsible for everything. This includes the following tasks:</p>
+<h2 id="h-be-a-representative">Be A Representative</h2>
+<p>An artist manager is often the public representative of the artist – it is their job to manage incoming inquiries for an artist and pick out the opportunities that could be beneficial, as well as refuse the ones that might not be of interest. Obviously, an artist needs to trust their manager to make decisions on their behalf in these instances, and so being aligned on goals and values is very important.</p>
+<h2 id="h-build-partnerships">Build Partnerships</h2>
+<p>Music managers also need to make sure that they assemble a solid team around an artist. This can be everything from choosing the right partners such as a <a href="https://www.musicgateway.com/blog/how-to/how-to-start-successful-independent-record-label">record label</a>,&nbsp;<a href="https://www.musicgateway.com/blog/how-to/music-booking-agents">booking agent</a>, and PR specialists – to finding other business opportunities like brand partnerships. For example, Paul McGuinness (manager of U2 from 1978-2013), was behind some of the most innovative and successful developments in U2’s career. He orchestrated their 3D concert film series, coordinated the U2 branded iPod range, arranged a lucrative sponsorship deal with Blackberry, and was thanked for the first-ever live-streamed concert on <a href="https://www.musicgateway.com/blog/music-industry/music-business/youtube-artist-channel">YouTube</a>.&nbsp;</p>
+<p>A music manager not only needs to seek out and arrange traditional (and non-traditional) partnerships, but they also need to liaise with the different parties involved to ensure that everything and everyone works together as planned.</p>
+<h2 id="h-creative-vision">Creative Vision</h2>
+<figure class="wp-block-image size-large is-resized"><a href="https://support.musicgateway.com/wp-content/uploads/2022/01/800-x-500-Blog-Post-66.jpg"><img decoding="async" src="https://support.musicgateway.com/wp-content/uploads/2022/01/800-x-500-Blog-Post-66.jpg" alt="what does a music manager do" class="wp-image-40393" width="840" height="525" /></a></figure>
+<p>Whilst artistic direction usually comes primarily from an artist, it is a manager’s responsibility to be the guardian of the artist’s creative vision, while also understanding the executable realities. They must coordinate the different stakeholders and often negotiate between different parties to achieve this. It might be that an artist has a specific vision for their creation, but a label or other partner wants to push in a different direction – the manager will often be the person who walks the line to find the best compromise that works for everyone.</p>
+<p>A good example of this can be seen in the documentary for Genesis’ 2007 Turn It On Again tour when manager Tony Smith forcefully explains to a graphic production designer that the band’s vision for a graphic was not what had been delivered.</p>
+<h2 id="h-all-the-small-things">All the Small Things</h2>
+<p>Managers in the music business often find themselves dealing with all the other little bits that make up an artist’s career – this can be as simple as registering new songs with the Performance Rights Organisations so the artist can collect&nbsp;<a href="https://www.musicgateway.com/blog/how-to/music-royalties">royalties</a>, to booking taxis to get from a hotel to a venue, to manning the <a href="https://www.musicgateway.com/blog/how-to/how-to-make-your-own-merch">merch</a> stand at a <a href="https://www.musicgateway.com/blog/how-to/how-to-get-gigs-music-gigging-tips">gig</a>.&nbsp;</p>
+<p>Traditionally, a music manager’s role would be centred around finding the key partnerships that will underpin an artist’s career – a label, publisher, and agents. In the modern music era, with more and more artists going down the DIY route and establishing their own labels, and coordinating their own releases, managers find themselves working directly with <a href="https://www.musicgateway.com/free-music-distribution">distributors</a>, record manufacturers, booking agents, and press to support the artists’ goals.&nbsp;</p>
+<p>As an artist grows, a manager will often find they are less hands-on in the day-to-day things and more managerial, coordinating the efforts of a larger group of people.</p>
+<h2 id="h-what-is-the-average-salary-for-a-music-manager">What Is The Average Salary For A Music Manager?</h2>
+<figure class="wp-block-image size-large"><a href="https://support.musicgateway.com/wp-content/uploads/2023/08/Music-management-Longform-1.png"><img decoding="async" width="1024" height="576" src="https://support.musicgateway.com/wp-content/uploads/2023/08/Music-management-Longform-1-1024x576.png" alt="how to be a music manager" class="wp-image-64699" srcset="https://support.musicgateway.com/wp-content/uploads/2023/08/Music-management-Longform-1-1024x576.png 1024w, https://support.musicgateway.com/wp-content/uploads/2023/08/Music-management-Longform-1-300x169.png 300w, https://support.musicgateway.com/wp-content/uploads/2023/08/Music-management-Longform-1-768x432.png 768w, https://support.musicgateway.com/wp-content/uploads/2023/08/Music-management-Longform-1-1536x864.png 1536w, https://support.musicgateway.com/wp-content/uploads/2023/08/Music-management-Longform-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<p>A music manager’s salary is often a difficult thing to calculate, and it will also depend on how many clients they have.</p>
+<p>Traditionally, a music manager will take a cut of an artist’s total income of around 10-15%. This makes them quite unique in the music business because they take their cut from everything rather than just a single income stream – for example, a label will typically take a cut of record sales, and an agent will take a cut of ticket sales.&nbsp;</p>
+<p>The key thing to remember is that the manager takes their percentage of the gross of the total income. So if artists earn £50,000, but their costs amount to £48,000, the manager is still entitled to a cut of £50,000.&nbsp;</p>
+<p>More recently, a flat-fee business model for music managers has emerged where management companies charge a fixed fee – often starting around £400-£500 per month but growing depending on the manager – in exchange for management services. Obviously, this approach has pros and cons – it means the manager is guaranteed an income regardless of success so they can focus their efforts and attention on the artist and if successful, the artist is only committed to the flat fee. It could also be the case that there is less incentive for the manager to work hard for the artist, as they get paid either way! It’s worth doing research and working with a manager that is trusted, and with some proven experience where possible.</p>
+<p>According to Billboard, a manager of a developing act could bring in $30k to $200k per year whilst the owner of a management company with several clients could net over $1 million a year depending on how much success they have. Of course, if the manager looks after a very successful artist, then they could earn a very significant sum of money depending on their income.</p>
+<figure class="wp-block-image size-large is-resized"><a href="https://support.musicgateway.com/wp-content/uploads/2022/01/800-x-500-Blog-Post-67.jpg"><img decoding="async" src="https://support.musicgateway.com/wp-content/uploads/2022/01/800-x-500-Blog-Post-67.jpg" alt="salary for a music manager" class="wp-image-40394" width="838" height="524" /></a></figure>
+<h2 id="h-why-do-artists-need-management">Why Do Artists Need Management?</h2>
+<p>A career in music involves a huge amount of work. A lot of artists, especially in the early days, prefer to self-manage but in many cases, it makes sense to have a manager come on board at some point so that they can help artists navigate the more complex areas of the music industry. This also allows them to focus on the creation of their music.</p>
+<p>A manager can help artists choose the best partners for their music – including agents, accountants, lawyers,&nbsp;<a href="https://www.musicgateway.com/blog/music-industry/music-business/music-promoter">event promoters</a>, and pluggers – any other key figures that will help grow their&nbsp;<a href="https://www.musicgateway.com/blog/how-to/music-branding-build-a-brand">brand</a>.&nbsp;In the same way that a&nbsp;<a href="https://www.musicgateway.com/blog/how-to/music-mastering">mastering</a>&nbsp;engineer is valuable as a second pair of ears on a <a href="https://www.musicgateway.com/blog/how-to/mixing-music">mix</a> – a music manager can also offer a different, removed perspective that can help artists make positive decisions about their art and their career.</p>
+<p>There is a level of credibility that comes with having some kind of representation which can result in more positive interactions with labels and agents than if artists are approaching them alone.&nbsp;</p>
+<h2>What To Look For In A Music Manager</h2>
+<figure class="wp-block-image size-large is-resized"><a href="https://support.musicgateway.com/wp-content/uploads/2022/01/800-x-500-Blog-Post-68.jpg"><img decoding="async" src="https://support.musicgateway.com/wp-content/uploads/2022/01/800-x-500-Blog-Post-68.jpg" alt="azoff music management" class="wp-image-40395" width="840" height="525" /></a></figure>
+<p>There are a few ways to find a good manager in the <a href="https://www.musicgateway.com/music-industry-newsletter">music industry</a>. Finding a music manager that is a good fit is a difficult task. In many cases it might depend on the different options you have available to you as an artist or what you are looking for. But don’t worry, we’ve got a ton of advice &#8211; you’ll be at the grammy awards in no time!</p>
+<p>Broadly speaking there are two main places an artist will find a music manager:</p>
+<h2 id="h-an-entrepreneur-who-loves-the-music">An Entrepreneur Who Loves The Music</h2>
+<p>This is a rare find in today’s music business. But certainly still happens such as in the story of the Beatles’ manager, Brian Epstein. He is often referred to as the fifth Beatle.</p>
+<p>Epstein was running his family record shop when he heard the Beatles. He convinced them to sign a management deal.</p>
+<p>Epstein had no experience with music management but he was a great entrepreneur. He saw something in the Beatles and his passion for their music drove them forward as he shaped the majority of their career until his death in 1967.</p>
+<p>A music <a href="https://www.musicgateway.com/creative-professionals/artist-management">manager</a> can be simply a friend of the <a href="https://www.musicgateway.com/artist-branding-music-consultancy">artist</a>. They can step into management duties and helps shape the early part of their career.</p>
+<h2 id="h-a-well-connected-professional-manager">A Well-Connected Professional Manager</h2>
+<figure class="wp-block-image size-large"><a href="https://support.musicgateway.com/wp-content/uploads/2023/08/Music-management-Longform-2.png"><img decoding="async" width="1024" height="576" src="https://support.musicgateway.com/wp-content/uploads/2023/08/Music-management-Longform-2-1024x576.png" alt="music management company" class="wp-image-64700" srcset="https://support.musicgateway.com/wp-content/uploads/2023/08/Music-management-Longform-2-1024x576.png 1024w, https://support.musicgateway.com/wp-content/uploads/2023/08/Music-management-Longform-2-300x169.png 300w, https://support.musicgateway.com/wp-content/uploads/2023/08/Music-management-Longform-2-768x432.png 768w, https://support.musicgateway.com/wp-content/uploads/2023/08/Music-management-Longform-2-1536x864.png 1536w, https://support.musicgateway.com/wp-content/uploads/2023/08/Music-management-Longform-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<p>Perhaps more common in today’s music industry – professional managers with multiple <a href="https://www.musicgateway.com/artist-band-websites">artists</a> on their roster and proven established key <a href="https://www.musicgateway.com/blog/how-to/how-to-get-connected-in-the-music-industry-music-industry-networking-tips">contacts</a> can be a gold mine to artists looking to grow their careers.</p>
+<p>Both of the above routes to management have their own pros and cons. On the one hand, a friend or <a href="https://www.musicgateway.com/blog/how-to/fanbase">fan</a> who sees something in the artist can be incredibly powerful.</p>
+<p>Potential managers must be devoted to that artist and their passion for the <a href="https://www.musicgateway.com/music-industry-jobs">music</a> &#8211; it can make all the difference.</p>
+<p>On the other hand, if they have no management experience, there will be a very steep learning curve as they seek to understand the nuances of the music business quickly.</p>
+<p>They will need to have the ability to break down some doors as they won’t have the immediate contacts a professional manager might have.</p>
+<p>Flipping the coin, you can look to get a music manager who will have those proven <a href="https://www.musicgateway.com/blog/how-to/how-to-get-connected-in-the-music-industry-music-industry-networking-tips">contacts</a>. But they will also have a larger roster of artists. You could find yourself going down the list of priorities as other hotter tickets start to rise.</p>
+<p>In a recent interview with <a href="https://www.musicgateway.com/spotify-promotion">Spotify</a>, Billy Corgan of Smashing Pumpkins spoke candidly about how as a young artist he was frustrated about how much people working on the business side would fight for his music.</p>
+<p>He explained that professionals in the <a href="https://www.musicgateway.com/blog/how-to/which-music-business-degree-is-for-you">music business</a> have long-term careers. Throughout their careers, they will likely work with multiple artists who come and go and so their priority will be maintaining their good relationships with their contacts. Not holding feet to the fire for artists that will probably come and go.</p>
+<h2 id="h-attributes">Attributes</h2>
+<figure class="wp-block-image size-large is-resized"><a href="https://support.musicgateway.com/wp-content/uploads/2022/01/800-x-500-Blog-Post-69.jpg"><img decoding="async" src="https://support.musicgateway.com/wp-content/uploads/2022/01/800-x-500-Blog-Post-69.jpg" alt="how to get a manager for music" class="wp-image-40396" width="839" height="524" /></a></figure>
+<p>So when it comes to working out what to look for in an artist manager, it will largely depend on what you need in your career.</p>
+<p>Is it someone who deeply understands the industry and can connect with you? But perhaps may move on if the opportunity isn’t there? Or would you prefer to have someone less connected but hungry and passionate about your <a href="https://www.musicgateway.com/free-music-tools">music</a>?</p>
+<p>Regardless of the background of your manager, some universal qualities will include high organisational ability (lots of plates will be spinning), great interpersonal savvy and high intellectual capacity (there’s going to be a lot to learn and understand) married with entrepreneurial skills.</p>
+<p>Your manager needs to be able to spot and cultivate business opportunities in an ever-changing marketplace.</p>
+<p>Before you look for a manager, it’s also important to look inwards at your own position in your career. Are you at the point where your total offering is almost there and you are already <a href="https://www.musicgateway.com/music-promotion">growing your career</a> and a manager will help that growth?</p>
+<p>If you are still quite junior in your journey, there are some managers who will take on <a href="https://www.musicgateway.com/blog/how-to/top-tips-on-how-to-write-the-best-artist-bio">artists</a> with the intention of <a href="https://www.musicgateway.com/music-management">developing </a>them but it’s important to be clear about expectations on both sides.</p>
+<h2 id="h-finances">Finances</h2>
+<figure class="wp-block-image size-large is-resized"><a href="https://support.musicgateway.com/wp-content/uploads/2022/01/800-x-500-Blog-Post-70.jpg"><img decoding="async" src="https://support.musicgateway.com/wp-content/uploads/2022/01/800-x-500-Blog-Post-70.jpg" alt="music manager salary" class="wp-image-40397" width="843" height="527" /></a></figure>
+<p>Financially, managers typically work on a commission basis. A common number is 20%. So, it’s important to consider if you are ready to give away 1/5 of your income. If you are, what kind of growth do you expect in return for the 20%?</p>
+<p>It’s a good idea to be careful about how this percentage is calculated. A lot of managers will push for 20% of gross income. Additionally, they’ll insist they are paid first before your other costs (of which there will often be many!).</p>
+<p>Other management companies offer management in return for a monthly flat fee. This can be a good leveller for artists as a flat fee arrangement ensures all artists on a roster are treated equally.</p>
+<p>This is because there’s no incentive to put work towards one artist over another, so think about this when hiring a manager.</p>
+<p>If you think you are financially ready to have a manager, also consider what you want your <a href="https://www.musicgateway.com/creative-professionals/artist-management">manager</a> to do for you. Make sure you are clear with them at the start about what your expectations are.</p>
+<p>Also, try to put yourself in the strongest possible position by understanding the <a href="https://www.musicgateway.com/music-industry-newsletter">music business</a> in a good level of detail. This is so you can have productive business meetings with your management.</p>
+<p>If you are signing a contract, be sure to have it checked over by a music <a href="https://www.musicgateway.com/blog/how-to/what-is-an-entertainment-lawyer-top-examples">lawyer</a>. Your manager will be involved in pretty much every part of your career. The last thing you want is for you to be tied to a manager taking advantage of you.</p>
+<h2 id="h-how-to-find-a-music-manager">How To Find A Music Manager</h2>
+<figure class="wp-block-image size-large"><a href="https://support.musicgateway.com/wp-content/uploads/2023/08/Music-management-Longform-3.png"><img decoding="async" width="1024" height="576" src="https://support.musicgateway.com/wp-content/uploads/2023/08/Music-management-Longform-3-1024x576.png" alt="find a music manager" class="wp-image-64701" srcset="https://support.musicgateway.com/wp-content/uploads/2023/08/Music-management-Longform-3-1024x576.png 1024w, https://support.musicgateway.com/wp-content/uploads/2023/08/Music-management-Longform-3-300x169.png 300w, https://support.musicgateway.com/wp-content/uploads/2023/08/Music-management-Longform-3-768x432.png 768w, https://support.musicgateway.com/wp-content/uploads/2023/08/Music-management-Longform-3-1536x864.png 1536w, https://support.musicgateway.com/wp-content/uploads/2023/08/Music-management-Longform-3.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<p>If you’re an artist or band and you think you are ready for management, here are a few areas where you might find a manager and music management companies/ artist management companies to look for. Choosing Music <a href="https://www.musicgateway.com/artist-development">Artist management</a> can take time and it’s important not to rush. You also don’t need to worry too much about ‘finding music managers near me’. Lots of managers will travel to you, there are always music managers looking for talent! Don’t forget the power of social media &#8211; you might even stumble across one by accident!</p>
+<h2 id="h-referrals-introductions">Referrals &amp; Introductions</h2>
+<p>If you are an active part of the scene, speak to other artists about their experiences. Are they aware of good managers that might be able to help you grow your career?</p>
+<p>Having these kinds of referrals can be a good way of making sure your prospective manager is a good fit and can actually deliver on what you need them to.</p>
+<p>However, be careful. If your manager has a roster of artists that are all quite similar problems can arise. For example, when a new opportunity comes up for that kind of artist, you may not be at the top of the queue.</p>
+<p>Outside of other artists, you can also get referrals from other music business figures you work with. For example, your <a href="https://www.musicgateway.com/blog/how-to/music-booking-agents">booking agent</a> or lawyer may know of a good manager that would pair with you productively.</p>
+<h2 id="h-music-directories">Music Directories</h2>
+<figure class="wp-block-image size-large is-resized"><a href="https://support.musicgateway.com/wp-content/uploads/2022/01/800-x-500-Blog-Post-71.jpg"><img decoding="async" src="https://support.musicgateway.com/wp-content/uploads/2022/01/800-x-500-Blog-Post-71.jpg" alt="music management jobs" class="wp-image-40398" width="838" height="524" /></a></figure>
+<p>Publications like the Unsigned Guide have a whole section of the guide dedicated to music managers. They are a great source of information in terms of contact details.</p>
+<p>However, be cautious when approaching managers. Do a lot of research and try to make sure that the managers you are targeting are a good fit for your music and your <a href="https://www.musicgateway.com/blog/music-industry/music-business/band-photos-guide">band</a>. Also, definitely don’t send blanket emails!</p>
+<p>When you have narrowed down your list, it will also pay to make sure you have all of your ducks in a row. Make sure your <a href="https://www.musicgateway.com/blog/how-to/epk-meaning-benefits-and-how-to-create-an-electronic-press-kit">EPK</a> is full of recent <a href="https://www.musicgateway.com/blog/music-industry/music-business/band-photos-guide">photos</a> that look fantastic and that you can demonstrate that you have a compelling story with good metrics around your growing fanbase.</p>
+<p>Be sure to list notable performances already under your belt.</p>
+<h2 id="h-look-in-your-existing-network">Look In Your Existing Network</h2>
+<p>It’s possible that you already have in your <a href="https://www.musicgateway.com/blog/how-to/how-to-get-connected-in-the-music-industry-music-industry-networking-events-uk">network</a> someone looking to break into the music industry. The opportunity to manage you might be the foot in the door they are also looking for.</p>
+<p>It’s also possible that you have a friend with some excellent transferrable skills who can learn on the job and help you grow your career.</p>
+<p>As we mentioned above, this might mean that your new manager is a little light on key connections. But it could also mean that you have a manager you can really trust who will die in a ditch for you and your music; which in itself can be a really valuable asset.</p>
+<p>Just choose wisely if you are going to recruit a friend and make sure that they are dedicated to helping you achieve your goals.</p>
+<p>A friend who is lukewarm about your music and with zero connections will typically not be able to dig their heels in when the going gets tough.</p>
+<h2 id="h-the-musicians-union-music-managers-forum">The Musicians Union &amp; Music Managers Forum</h2>
+<p>Organisations like the Musicians Union and Music Managers Forum are industry bodies dedicated to different aspects of the music business.</p>
+<p>Membership of these kinds of organisations can be really valuable and offer a lot of benefits but more than that, they also give a window into the professionals working in the market and your local Musicians Union may even <a href="https://www.musicgateway.com/free-music-distribution">distribute</a> lists of local music professionals that you can interact with.</p>
+<h2 id="h-music-gateway">Music Gateway</h2>
+<figure class="wp-block-image size-large is-resized"><a href="https://support.musicgateway.com/wp-content/uploads/2022/01/800-x-500-Blog-Post-72.png"><img decoding="async" src="https://support.musicgateway.com/wp-content/uploads/2022/01/800-x-500-Blog-Post-72.png" alt="music gateway music managers and artist development service" class="wp-image-40399" width="838" height="524" /></a></figure>
+<p>You can find <a href="https://www.musicgateway.com/music-management">Music Management</a>/ music managers for hire right here with <a href="https://www.musicgateway.com/">Music Gateway</a>, plus Music Promotions! Our motto is empowering creatives and we’ve built a strong reputation in the music industry for offering the opportunity of growth and development to artists.</p>
+<p>We’ve worked with artists who are just starting their careers, all the way up to <a href="https://www.musicgateway.com/blog/how-to/grammys-guide">Grammy</a>-nominated producers. We’re here to level the playing field, and improve your chances of success in your music career.</p>
+<p>Our <a href="https://www.musicgateway.com/artist-development">music management</a> and promotion services are tailored to each artist, and we have options for a range of budgets. Make sure to <a href="https://www.musicgateway.com/artist-development">take a look</a> to find out more and speak with a member of the Artist Development team about how we can help further your career.</p>
+<h2 id="h-music-management-faqs">Music Management FAQs</h2>
+<p><strong>How much does Music Management cost?</strong></p>
+<p>Pricing starts from £115 depending on your package. We tailor each management package to your needs – so have a chat with a member of the team to find out more.</p>
+<p><strong>Do we take a commission or any of your rights?</strong></p>
+<p>No, we don’t take any commission or any of your rights whatsoever! Our management is the same as a traditional artist manager but acts more like a consultancy – you keep 100% of your revenue, and you just pay for your time with us.</p>
+<p><strong>How are we different from traditional music management?</strong></p>
+<p>Traditionally, a <a href="https://www.musicgateway.com/blog/music-industry/music-business/how-to-find-a-music-manager">manager</a> in the music industry would look after the ins and outs of all your affairs, and take a commission on everything you earn. It is also common for a manager to own some of the rights to your music.&nbsp;</p>
+<p>With us, you keep 100% of your rights and we take no commission. We’re here to help you navigate the industry and help you be the best artist you can be. We want to empower you to succeed, whilst remaining independent.</p>
+<p><strong>Who will be my manager?</strong></p>
+<p>We have got a great team of artist managers from the music sector waiting to work with exciting new talent. We will always match you with the best manager for your <a href="https://www.musicgateway.com/blog/music-industry/music-business/different-genres-of-music">genre</a>, experience and skill set – however, we also want you to feel comfortable with who you are working with, as it’s a big step in your career development.&nbsp;</p>
+<p><strong>Will I become famous?</strong></p>
+<p>No one can ever guarantee fame – and if fame is your motivation, you’re getting into the industry for the wrong reason but we hope you’ll be an award-winning artist one day!</p>
+<p><strong>Can you help me get a record deal, publisher, booking agent etc?</strong></p>
+<p>We will work with you to help you achieve your goals. We will work with you to set realistic targets so that you can monitor your progress towards your end ambition.</p>
+<p><strong>Do you listen to my music and give advice?</strong></p>
+<p>Of course! We want to help you get the best out of your music – so we will offer you tailored advice to help develop your career and your music.&nbsp;</p>
+<p><strong>Can I leave if I don’t like it or change manager?</strong></p>
+<p>Yes, it’s important that you understand our entire focus is success and empowerment with each artist and working on your growth. So if there are any concerns, we would seek to address them immediately.</p>
+<p><strong>Can you help me secure gigs and a booking agent?</strong></p>
+<p>Yes, that’s possible but will all depend on where you are in your career and the level of your performance. <a href="https://www.musicgateway.com/blog/how-to/music-booking-agents">Agents</a> want artists with unique talent, but most of all traction and a <a href="https://www.musicgateway.com/blog/how-to/fanbase">fanbase</a> as they have to present you and reasons why you should be booked at <a href="https://www.musicgateway.com/blog/how-to/best-live-music-venues-in-the-us">venues</a> and <a href="https://www.musicgateway.com/blog/music-industry/live-music/festival-checklist">festivals</a>, so we can work hard getting you to that position if that’s your goal.</p>
+<p><strong>Do you promote my songs?</strong></p>
+<p>Yes and no, there will be elements of <a href="https://www.musicgateway.com/music-promotion">promotion</a> and advice on helping you with your <a href="https://www.musicgateway.com/blog/how-to/best-time-to-release-music">releases</a> and self-promotion of course. We provide our roster with exclusive discounts on all our promotional services across digital marketing/<a href="https://www.musicgateway.com/blog/how-to/promote-music-social-media">social media marketing</a> (direct to fan), <a href="https://www.musicgateway.com/blog/how-to/how-to-get-your-music-on-pandora-radio">radio</a> plugging, <a href="https://www.musicgateway.com/blog/how-to/how-to-get-verified-on-spotify">Spotify </a>promotion and PR.</p>
+<p><strong>Will I get connected to other professionals in the industry to further my career in music?</strong></p>
+<p>Yes 100%, when you are ready we will help introduce you to Music <a href="https://www.musicgateway.com/blog/how-to/how-to-find-a-music-producer-that-is-perfect-for-you">Producers</a>, <a href="https://www.musicgateway.com/blog/music-news/recording-studios-in-london">Studios</a>, <a href="https://www.musicgateway.com/blog/how-to/the-best-songwriting-tips-for-2020">Songwriters</a>, <a href="https://www.musicgateway.com/blog/how-to/music-labels-top-record-labels">Record Labels</a>, <a href="https://www.musicgateway.com/blog/how-to/music-jobs-the-publisher-who-why-how-where-when">Music Publishers</a> and even traditional high-level management in the music business if you want to go down that route.</p>
+<p><strong>Will my time with my manager be restricted?</strong></p>
+<p>This will depend on your tier with us and your needs, the more up the career ladder, you are the less time you may need to manage. We set an allocation per month based on your needs and this is used in a flexible way, again around your needs, so the answer is yes but it’s not a hard-lined process.</p>
+<p><strong>Will you do my social media management?</strong></p>
+<p>We can manage your socials, but it isn’t included with your manager, if this is a need we are happy to discuss and provide this support.</p>
+<h3 id="h-now-you-know-everything-about-music-management"><strong>Now You Know Everything About Music Management!</strong></h3>
+<p>The right music manager can turn a good artist into a great one and really help build a sustainable and successful career. Equally, there are artists who want to remain more independent because that works better for them – artists like Chance the Rapper and Joey Bada$$ have made decisions to reject the traditional models of the music industry and self-manage the business side of their music. At the end of the day, it has to work for each artist and <a href="https://www.musicgateway.com/blog/music-industry/music-business/how-to-find-a-music-manager">whether a music manager is right</a> for them now or further down the road (or not at all) is totally down to each individual!</p>
+</p>
+</div>
+</div>
+</section>
+<section class="section">
+<div class="container cta has-text-centered has-text-white p-t-xxl p-b-xxl">
+<div class="hero">
+<div class="hero-body">
+<div class="cta-content p-xxl">
+<img class="mg-logo-svg" src="/marketing-website/dist/img/MusicGatewayLogo.svg" alt="Music Gateway Company Logo">
+<h5 class="has-text-weight-semibold">START YOUR APPLICATION TODAY</h5>
+<h4 class="has-text-white has-text-weight-light">Tell us about your <strong>career</strong> &
+<strong>promotional</strong> needs</h4>
+<a href="/music-promotion-form/step-1" class="button is-light is-outlined is-rounded m-t-xxl">Apply</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!--[if (lt IE 9)]><script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.helper.ie8.js"></script><![endif]-->
+<script data-cfasync="false" src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"></script>
+<script>
+      // Sliders
+      document.addEventListener('DOMContentLoaded', function() {
+                    var quotesSlider = tns({
+        container: '.quotes',
+        items: 1,
+        slideBy: 1,
+        autoplay: true,
+        autoplayButton: false,
+        autoplayButtonOutput: false,
+                      controlsText: ['<img alt="Chevron left icon button - navigate gallery left" src="/marketing-website/dist/img/svg/left-chev-button.svg">',
+                          '<img alt="Chevron right icon button - navigate gallery riht" src="/marketing-website/dist/img/svg/right-chev-button.svg">'
+    ],
+    navContainer: ".quote-nav",
+    navAsThumbnails: true,
+    mouseDrag: true,
+    arrowKeys: true,
+    gutter: 10,
+    });
+            }); 
+</script>
+<style>
+    .tns-item:not(.tns-slide-active){
+        visibility: hidden;
+    }
+    </style>
+<footer class="has-dark-bg">
+<div class="container overflow-hidden">
+<div class="columns m-b-xxl">
+<div class="column is-narrow-desktop is-narrow-widescreen is-narrow-fullhd p-r-xxl is-hidden-tablet-only">
+<a href="/">
+<img class="mg-logo-svg" src="/marketing-website/dist/img/MusicGatewayLogo.svg" alt="Music Gateway Company Logo">
+</a>
+</div>
+<div class="column">
+<h3 class="has-text-weight-semibold m-b-md has-text-white">USEFUL LINKS</h3>
+<br>
+<ul>
+<li>
+<a href="/artist-development">Artist Development</a>
+</li>
+<li>
+<a href="/band-name-generator">Band Name Generator</a>
+</li>
+<li>
+<a href="/blog">Blog</a>
+</li>
+<li>
+<a href="/bpm-tapper">BPM Tapper</a>
+</li>
+<li>
+<a href="/case-studies-reviews-testimonials-success">Case Studies</a>
+</li>
+<li>
+<a href="/film-investors">Film Investors</a>
+</li>
+<li>
+<a href="/artist-band-websites">Free Artist / Band Showcase Page</a>
+</li>
+<li>
+<a href="/free-file-transfer">Free Large File Transfer</a>
+</li>
+<li>
+<a href="/free-online-mastering">Free Mastering</a>
+</li>
+<li>
+<a href="/free-music-tools">Free Music Tools</a>
+</li>
+<li>
+<a href="/spotify-pre-save">Free Pre-Save Links</a>
+</li>
+<li>
+<a href="/gifts-for-musicians/gift-card">Gifts For Musicians</a>
+</li>
+<li>
+<a href="/online-guitar-tuner">Online Guitar Tuner</a>
+</li>
+<li>
+<a href="/online-metronome">Online Metronome</a>
+</li>
+<li>
+<a href="/history-of-music-industry">History of Music</a>
+</li>
+<li>
+<a href="/isrc-finder">ISRC Finder</a>
+</li>
+<li>
+<a href="/music-jobs">Jobs Board</a>
+</li>
+<li>
+<a href="/song-key-bpm">Key/BPM finder</a>
+</li>
+<li>
+<a href="/log-in">Login</a>
+</li>
+<li>
+<a href="/song-lyrics">Lyrics finder</a>
+</li>
+<li>
+<a href="/words-that-rhyme-with">Lyric Rhyme Tool</a>
+</li>
+<li>
+<a href="/music-genres-map">Music Genres Map</a>
+</li>
+<li>
+<a href="/music-events-calendar">Music Industry Events Calendar</a>
+</li>
+<li>
+<a href="/music-industry-jargon-buster">Music Industry Jargon Buster</a>
+</li>
+<li>
+<a href="/music-industry-newsletter">Music Industry Newsletter</a>
+</li>
+<li>
+<a href="/music-industry-resources">Music Industry Resources</a>
+</li>
+<li>
+<a href="/networkuser">Network User Login</a>
+</li>
+<li>
+<a href="/partners">Partners</a>
+</li>
+<li>
+<a href="/pricing">Pricing</a>
+</li>
+<li>
+<a href="/radio-stations">Radio Stations Worldwide</a>
+</li>
+<li>
+<a href="/rap-name-generator">Rap Name Generator</a>
+</li>
+<li>
+<a href="https://app.musicgateway.com/sign-up">Sign Up</a>
+</li>
+<li>
+<a href="/spotify-discover-music">Spotify Discover Music</a>
+</li>
+<li>
+<a href="/spotify-mixtape">Spotify Mixtape Creator</a>
+</li>
+<li>
+<a href="/royalties-calculator">Streaming Royalties Calculator</a>
+</li>
+<li>
+<a href="/wav-to-mp3-converter">Wav to MP3 Converter</a>
+</li>
+<li>
+<a href="/vinyl-pressing">Vinyl Pressing</a>
+</li>
+</ul>
+</div>
+<div class="column">
+<h3 class="has-text-weight-semibold m-b-md has-text-white">FEATURES</h3>
+<br>
+<ul>
+<li>
+<a href="/music-cloud-file-storage">Cloud Storage For Creatives</a>
+</li>
+<li>
+<a href="/free-music-distribution/cover-songs-licensing">Cover Song Licensing</a>
+</li>
+<li>
+<a href="/features">Features Overview</a>
+</li>
+<li>
+<a href="/music-library-music-licensing">For Music Licensing &amp; Search</a>
+</li>
+<li>
+<a href="/live-and-loud-sessions">Live and Loud Sessions</a>
+</li>
+<li>
+<a href="/manage-your-demo-submissions">Manage Demo Submissions</a>
+</li>
+<li>
+<a href="/free-music-distribution">Music Distribution</a>
+</li>
+<li>
+<a href="/music-industry-jobs">Music Industry Jobs</a>
+</li>
+<li>
+<a href="/create-music-playlists">Music Industry Playlists</a>
+</li>
+<li>
+<a href="/music-marketing">Music Marketing</a>
+</li>
+<li>
+<a href="/music-promotion">Music Promotion</a>
+</li>
+<li>
+<a href="/music-promotion/music-pr">Music PR & Press</a>
+</li>
+<li>
+<a href="/music-licensing-companies-sync-licensing">Music Sync Licensing</a>
+</li>
+<li>
+<a href="/private-network-solution">Private Network</a>
+</li>
+<li>
+<a href="/spotify-promotion">Spotify Promotion</a>
+</li>
+<li>
+<a href="/spotify-playlist-submission">Spotify Playlist Submission</a>
+</li>
+<li>
+<a href="/submit-music-demo-submission">Submit Your Music Demos</a>
+</li>
+<li>
+<a href="/music-promotion/tiktok-promotion">TikTok Promotion</a>
+</li>
+<li>
+<a href="/unsigned-artists">Unsigned Artists &amp; Bands</a>
+</li>
+</ul>
+</div>
+<div class="column">
+<h3 class="has-text-weight-semibold m-b-md has-text-white">MUSIC GATEWAY</h3>
+<br>
+<ul>
+<li>
+<a href="/creative-professionals/advertising-agency">Advertising Agencies</a>
+</li>
+<li>
+<a href="/artist-management">Artist Management</a>
+</li>
+<li>
+<a href="/cast-a-movie">Cast a movie</a>
+</li>
+<li>
+<a href="/creative-professionals">Creative Industry Roles</a>
+</li>
+<li>
+<a href="/get-paid-to-listen-to-music">Curators</a>
+</li>
+<li>
+<a href="/film-distribution">Film Distribution</a>
+</li>
+<li>
+<a href="/film-investment">Film Investment</a>
+</li>
+<li>
+<a href="/film-budget">Film Budget</a>
+</li>
+<li>
+<a href="/film-marketing">Film Marketing</a>
+</li>
+<li>
+<a href="/creative-professionals/video-game-publishers">Games Publishers</a>
+</li>
+<li>
+<a href="/creative-professionals/indie-bands">Indie Bands</a>
+</li>
+<li>
+<a href="/creative-professionals/independent-filmmakers">Independent Filmmakers</a>
+</li>
+<li>
+<a href="/creative-professionals/musician">Musician</a>
+</li>
+<li>
+<a href="/creative-professionals/music-artists">Music Artists</a>
+</li>
+<li>
+<a href="/creative-professionals/music-composer">Music Composer</a>
+</li>
+<li>
+<a href="/music-fund">Ignite Music Fund</a>
+</li>
+<li>
+<a href="/partners">Music Industry Partners</a>
+</li>
+<li>
+<a href="/music-management">Music Management</a>
+</li>
+<li>
+<a href="/creative-professionals/music-producer">Music Producer</a>
+</li>
+<li>
+<a href="/creative-professionals/music-publishing">Music Publishing</a>
+</li>
+<li>
+<a href="/music-sales-representatives-jobs">Music Sales Representatives Jobs</a>
+</li>
+<li>
+<a href="/music-supervision">Music Supervision</a>
+</li>
+<li>
+<a href="/creative-professionals/production-music-library">Production Music Library</a>
+</li>
+<li>
+<a href="/creative-professionals/radio-stations">Radio Stations</a>
+</li>
+<li>
+<a href="/radio-promotion">Radio Promotion</a>
+</li>
+<li>
+<a href="/creative-professionals/record-labels">Record Labels</a>
+</li>
+<li>
+<a href="/creative-professionals/recording-studios">Recording Studios</a>
+</li>
+<li>
+<a href="/creative-professionals/songwriter">Songwriter</a>
+</li>
+<li>
+<a href="/sync-session">Sync Sessions</a>
+</li>
+<li>
+<a href="/online-music-education-the-academy">The Academy</a>
+</li>
+</ul>
+</div>
+<div class="column">
+<h3 class="has-text-weight-semibold m-b-md has-text-white">CONTACT</h3>
+<br>
+<ul>
+<li>
+<a href="/about-us">About Us</a>
+</li>
+<li>
+<a rel="noreferrer noopener" target="_blank" href="https://help.musicgateway.com/">Support</a>
+</li>
+<li>
+<a href="/contact-us">Contact</a>
+</li>
+<li>
+<a href="/terms-and-conditions">Terms and Conditions</a>
+</li>
+<li>
+<a href="/privacy-policy">Privacy Policy</a>
+</li>
+<li>
+<a href="/acceptable-use-policy">Acceptable Use Policy</a>
+</li>
+<li>
+<a href="/reporting-infringements">Reporting Infringements</a>
+</li>
+</ul>
+<br>
+<div class="highlight">
+<div class="m-b-sm">
+<a href="tel:+442045099090">
+<img style="width:14px; height:14px;" class="m-r-md" src="/marketing-website/dist/img/svg/phone-icon.svg" alt="Telephone icon">
+<span>+44 (0) 20 4509 9090 <span class="phone-country">(UK)</span></span>
+</a><br>
+<a href="tel:+16441108">
+<div class="is-inline-block icon-spacer"></div>
+<span>+1 (833) 644 1108 <span class="phone-country">(USA)</span></span>
+</a><br>
+
+<br>
+</div>
+<div>
+<a href="/cdn-cgi/l/email-protection#394a4c4949564b4d79544c4a505a5e584d5c4e5840175a5654">
+<img style="width:15px; height:12px;" class="m-r-md" src="/marketing-website/dist/img/svg/email-envelope-icon.svg" alt="Email envelope icon">
+<span><span class="__cf_email__" data-cfemail="0774727777687573476a72746e646066736270667e2964686a">[email&#160;protected]</span></span>
+</a>
+</div>
+</div>
+<br>
+<div class="nav social-icons" style="min-width: 260px;">
+<a rel="noopener" rel="noreferrer" class="footer-m-l-sm" href="https://www.instagram.com/musicgateway/?hl=en" target="_blank">
+<img style="width:47px; height:47px;" src="/marketing-website/dist/img/svg/Instagram-icon.svg" alt="Instagram icon">
+</a>
+<a rel="noopener" rel="noreferrer" class="footer-m-l-sm" href="https://www.facebook.com/MusicGateway" target="_blank">
+<img style="width:47px; height:47px;" src="/marketing-website/dist/img/svg/Facebook-icon.svg" alt="Facebook icon">
+</a>
+<a rel="noopener" rel="noreferrer" class="footer-m-l-sm" href="https://twitter.com/Music_Gateway" target="_blank">
+<img style="width:47px; height:47px;" src="/marketing-website/dist/img/svg/twitter-button.svg" alt="Twitter icon">
+</a>
+<a rel="noopener" rel="noreferrer" class="footer-m-l-sm m-r-sm" href="https://vimeo.com/musicgateway" target="_blank">
+<img style="width:47px; height:47px;" src="/marketing-website/dist/img/svg/Vimeo-icon.svg" alt="Vimeo icon">
+</a>
+</div>
+<div class="nav social-icons">
+<a rel="noopener" rel="noreferrer" class="footer-m-l-sm" href="https://www.linkedin.com/company/music-gateway/" target="_blank">
+<img style="width:47px; height:47px;" src="/marketing-website/dist/img/svg/LinkedIn-icon.svg" alt="Linkedin icon">
+</a>
+<a rel="noopener" rel="noreferrer" class="footer-m-l-sm" href="https://www.youtube.com/channel/UClZIv-cxndXmChbzPwuBp4Q" target="_blank">
+<img style="width:47px; height:47px;" src="/marketing-website/dist/img/svg/youtube-icon.svg" alt="Youtube icon">
+</a>
+
+</div>
+<div style="padding: 0 30px;"><img src="/marketing-website/dist/img/svg/spotify_partner.svg" alt="Spotify Official Partner" /></div>
+</div>
+</div>
+<div class="m-x-auto scroll-to-top">
+<a onclick="scrollToEl.scrollVerticalToElementById('meganav', 82);" href="#navbar" title="Scroll to the top of the page">
+<img style="width:47px; height:47px;" alt="Chevron pointing upwards icon - scroll to top" src="/marketing-website/dist/img/svg/scroll-to-top-button.svg">
+</a>
+</div>
+<p class="is-size-7 has-text-centered m-t-xxl m-b-sm has-text-medium-grey">© 2023 Music Gateway Ltd</p>
+<p class="is-size-7 has-text-centered m-b-md has-text-medium-grey">Registered & Trademarked in the United
+Kingdom.</p>
+</div>
+</footer>
+
+
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/marketing-website/dist/js/main.min.js?v=MG2-5.0.242"></script>
+<link rel="preconnect" href="https://public.profitwell.com" crossorigin />
+<script id="profitwell-js" data-pw-auth="6a1fac98b647dd8ebfc52cdf9164867f">
+    (function(i,s,o,g,r,a,m){i[o]=i[o]||function(){(i[o].q=i[o].q||[]).push(arguments)};
+    a = s.createElement(g);
+    m = s.getElementsByTagName(g)[0];
+    a.async = 1;
+    a.src = r + '?auth=' +
+        s.getElementById(o + '-js').getAttribute('data-pw-auth');
+    m.parentNode.insertBefore(a, m);
+    })(window, document, 'profitwell', 'script', 'https://public.profitwell.com/js/profitwell.js');
+
+    profitwell('start', {});
+</script>
+<script>
+    function showBFAd() {
+        if (getCookie('bfad') != 'hidden') {
+            document.getElementById('promo-bf2021').id = 'promo-bf2021-active';
+            return false;
+        }
+    }
+
+    // Cookie functions 
+    function setCookie(name, value, days) {
+        var expires = "";
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + (value || "") + expires + "; path=/";
+    }
+
+    function getCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+
+    // This function replaces the old identity
+    
+    var className = document.getElementsByClassName('ifIdentityTrue');
+    for(var index=0;index < className.length;index++){
+        className[index].style.display = 'none';
+    }
+
+    if (getCookie('music_gateway_session')) {
+        var className = document.getElementsByClassName('ifIdentityTrue');
+        for(var index=0;index < className.length;index++){
+            className[index].style.display = 'block';
+        }
+        var className = document.getElementsByClassName('ifIdentityFalse');
+        for(var index=0;index < className.length;index++){
+            className[index].style.display = 'none';
+        }
+    } else {
+            }
+    
+
+</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'82b076671bce8fa4',t:'MTcwMDgxNjQzNy44NDQwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>
