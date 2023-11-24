@@ -1,0 +1,317 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+
+    <title>Libib | Library management web app</title>
+
+    <meta name="description" content="Libib is a cloud based library management and circulation system for schools, organizations, and individuals.">
+
+    <meta name="apple-mobile-web-app-title" content="Libib | Web">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="google" content="notranslate" />
+
+    <link rel="shortcut icon" href="/img/favicon.png" />
+    <link rel="icon" type="image/vnd.microsoft.icon" href="/img/favicon.png">
+    <link rel="icon" type="image/x-icon" href="/img/favicon.png">
+    <link rel="icon" href="/img/favicon.png" />
+    <link rel="apple-touch-icon" href="/img/libib-webapp-icon.png"/>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script defer data-domain="libib.com" src="https://d2owygzutcldbs.cloudfront.net/js/script.js"></script>
+
+    <!-- Roboto / Open Sans (logo) -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300&display=swap" rel="stylesheet">
+
+    <!-- Foundation -->
+    <link rel="stylesheet" href="/css/foundation.css?v=19">
+    <link rel="stylesheet" href="/css/notification.css?v=19">
+    <link rel="stylesheet" href="/css/public/style.css?v=19">
+
+</head>
+
+<body class="home-tpl">
+    <div class="navbar-spacer"></div>
+<div id="navbar">
+  <div class="grid-container">
+    <div class="grid-x">
+      <div class="cell small-4 medium-4 large-2"><a id="logo" class="text-left" title="Homepage" href="/">libib</a></div>
+      <div class="cell small-8 medium-8 large-10">
+        <a href="#" id="mobile-menu" class="hide-for-large hide-text">Menu</a>
+        <ul class="menu align-right">
+          <li><a title="Pricing & Features" href="/pricing" class="nav-item">Pricing</a></li>
+          <li><a title="Support Site" href="https://support.libib.com" target="_blank" class="nav-item">Support</a></li>
+          <li><a title="Contact Us" href="/contact" class="nav-item">Contact Us</a></li>
+          <li>
+                          <a id="login-button" title="Login" href="/login" class="nav-item button dark big-br margin-left">Login</a>
+                      </li>
+                    <li>
+            <a title="Create Account" href="/register" class="nav-item button dark big-br margin-left-large">Get Started</a>
+          </li>
+                  </ul>
+      </div>
+    </div>
+  </div>
+</div>
+    <div class="hero section">
+    <div class="grid-container">
+        <div class="grid-x align-center">
+            <div class="cell small-12 medium-10 large-8">
+                <h1 class="text-center">Cloud Cataloging</h1>
+                <p class="lead text-center hide-for-small-only">Your library has never looked so good.<br>Books, Movies, Music and Video Games.</p>
+                <p class="text-center padding-top-20"><a href="/register" class="button large big-br">Get Started</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="create-share" class="light-blue section">
+    <div class="grid-container">
+        <div class="grid-x align-center">
+            <div class="cell small-12">
+                <div class="hero-image">
+                    <div class="hero-image-bg">
+                        <video class="lazy-video" poster="/img/public/home/featured-poster.png" class="gif-replace" style="width: 100%; max-width: 100%; height: auto;" autoplay muted loop playsinline>
+                            <source data-src="/img/public/home/feature.mp4" type="video/mp4" />
+                        </video>
+                    </div>
+                </div>
+            </div>
+            <div class="cell small-12 medium-10 large-8 padding-top-20">
+                <h2 class="text-center">Create & Share Your Collection</h2>
+                <p class="text-center">Our library management service caters to libraries, schools, organizations, and home catalogs. Our online software lets you create multiple collections, catalog books, movies, music, and video games, create tags, leave notes, import/export, share your collections and much more. We offer two different subscription options to best fit your needs. Libib is the best place for cataloging and managing your media available online. Now which version is the best for you?</p>
+                <p class="text-center padding-top-20"><a href="/pricing" class="button large big-br">Compare Plans</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="features" class="section">
+    <div class="grid-container">
+        <div class="grid-x align-center grid-padding-x grid-padding-y margin-bottom-120">
+            <div class="cell large-6 medium-12 small-12">
+                <h3>Automatic Data for Books, Movies, Music and Video Games</h3>
+                <p class="lead">Just scan your ISBN/UPC barcode using a physical scanner or our free mobile apps and we take care of the rest.</p>
+            </div>
+            <div class="cell large-6 medium-12 small-12">
+                <!-- <img style="max-width: 100%; height: auto;" src="/img/public/home/automatic-data.jpg" /> -->
+                <video class="lazy-video gif-replace blue-shadow" poster="/img/public/home/automatic-data.jpg" style="border-radius: 10px; width: 105%; max-width: 105%; height: auto;" autoplay muted loop playsinline>
+                    <source data-src="/img/public/home/automatic-data-alt.mp4" type="video/mp4" />
+                </video>
+            </div>
+        </div>
+        <div style="position: relative;" class="grid-x align-center grid-padding-x grid-padding-y margin-bottom-120">
+            <div class="cell large-6 medium-12 small-12 order-1 large-order-1 medium-order-2 small-order-2">
+                <img class="edge-image" src="/img/public/home/cloud.jpg" />
+            </div>
+            <div class="cell large-6 medium-12 small-12 order-2 large-order-2 medium-order-1 small-order-1">
+                <h3>Cloud Sync keeps your collections updated across multiple devices.</h3>
+                <p class="lead">Access your collections from anywhere on virtually any device.</p>
+            </div>
+        </div>
+        <div class="grid-x align-center grid-padding-x grid-padding-y margin-bottom-120">
+            <div class="cell large-6 medium-12 small-12">
+                <h3>Create up to 100 mixed media collections.</h3>
+                <p class="lead">Mix and match media types freely. We’re flexible on purpose so you can organize your collections to fit your needs. Books, movies, music, and games - keep them together or separate.</p>
+            </div>
+            <div class="cell large-6 medium-12 small-12">
+                <img class="blue-shadow" style="width: 100%; height: auto;" src="/img/public/home/mixed-media-blue.jpg" />
+            </div>
+        </div>
+        <div style="position: relative" class="grid-x align-center grid-padding-x grid-padding-y margin-bottom-50">
+            <div class="cell large-6 medium-12 small-12 order-1 large-order-1 medium-order-2 small-order-2">
+                <img class="edge-image edge-adjust" src="/img/public/home/published-update.jpg" />
+            </div>
+            <div class="cell large-6 medium-12 small-12 order-2 large-order-2 medium-order-1 small-order-1">
+                <h3>Libib Pro Users Can Access Even More Power.</h3>
+                <p class="lead">Need lending, patron management, custom fields, barcode management, single click restorations, or an interactive online library? Libib Pro brings an abundance of additional enhancements to the table.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="testimonials" class="section light-bg-grad">
+    <div id="sully-testimonial" class="show-for-large"><img src="/img/public/sully-testimonials-01.svg" /></div>
+    <div class="grid-container">
+        <div class="grid-x align-center">
+            <div class="cell medium-10">
+                <h3 class="text-center">Over 450,000 Happy Customers</h3>
+                <p style="max-width: 750px; margin: auto;" class="lead text-center">Libib has been built from the ground up based directly on user feedback.</p>
+            </div>
+        </div>
+        <!-- <div class="grid-x padding-top-40">
+            <div class="cell medium-6">
+                <blockquote>My Amazing quote about Libib and how awesome it is. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</blockquote>
+                <div class="quote-author">Scott Siemens &dash; Founder</div>
+            </div>
+        </div>
+        <div class="grid-x padding-top-40">
+            <div class="cell medium-6 medium-offset-2">
+                <blockquote>My Amazing quote about Libib and how awesome it is. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</blockquote>
+                <div class="quote-author">Scott Siemens &dash; Founder</div>
+            </div>
+        </div>
+        <div class="grid-x padding-top-40">
+            <div class="cell medium-6">
+                <blockquote>My Amazing quote about Libib and how awesome it is. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</blockquote>
+                <div class="quote-author">Scott Siemens &dash; Founder</div>
+            </div>
+        </div> -->
+    </div>
+</div>
+<div id="customers" class="section">
+    <div class="grid-container">
+        <div class="grid-x align-center">
+            <div class="cell medium-10">
+                <h3 class="text-center">Trusted by Big Names</h3>
+            </div>
+        </div>
+        <div class="grid-x padding-top-40">
+            <div class="cell medium-12">
+                <table id="logos" class="unstriped no-border">
+                    <tbody>
+                        <tr>
+                            <td><img src="img/public/logos/google.jpg" /></td>
+                            <td><img src="img/public/logos/harvard.jpg" /></td>
+                            <td><img src="img/public/logos/underarmour.jpg" /></td>
+                            <td><img src="img/public/logos/peace-corp.jpg" /></td>
+                            <td><img src="img/public/logos/nasa.jpg" /></td>
+                        </tr>
+                        <tr>
+                            <td><img src="img/public/logos/kipp.jpg" /></td>
+                            <td><img src="img/public/logos/ea.jpg" /></td>
+                            <td><img src="img/public/logos/ck.jpg" /></td>
+                            <td><img src="img/public/logos/cambridge.jpg" /></td>
+                            <td><img src="img/public/logos/mailchimp.jpg" /></td>
+                        </tr>
+                        <tr>
+                            <td><img src="img/public/logos/salvation-army.jpg" /></td>
+                            <td><img src="img/public/logos/berkeley.jpg" /></td>
+                            <td><img src="img/public/logos/target.jpg" /></td>
+                            <td><img src="img/public/logos/airbnb.jpg" /></td>
+                            <td><img src="img/public/logos/sony.jpg" /></td>
+                        </tr>
+                        <tr>
+                            <td><img src="img/public/logos/disney.jpg" /></td>
+                            <td><img src="img/public/logos/ubisoft.jpg" /></td>
+                            <td><img src="img/public/logos/nickelodeon.jpg" /></td>
+                            <td><img src="img/public/logos/yelp.jpg" /></td>
+                            <td><img src="img/public/logos/nat-geo.jpg" /></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="apps" class="light-blue section mountain">
+    <div class="grid-container">
+        <div class="grid-x">
+            <div class="cell medium-12 large-7 text-center">
+                <img class="apps-image" src="/img/public/home/apps.png" />
+            </div>
+            <div class="cell medium-12 large-5">
+                <h2>We got Apps!</h2>
+                <p class="lead">Scan, browse, and manage your library from anywhere. Take your collection on the go!</p>
+                <p>
+                    <a target="_blank" href="https://apps.apple.com/us/app/libib/id721908216" id="apple-app-store" class="store-badge hide-text" title="Apple App Store">Download on the Apple App Store</a>
+                    <a target="_blank" href="https://play.google.com/store/apps/details?id=com.libib.app" id="google-play-store" class="store-badge hide-text" title="Google Play Store">Get it on Google Play Store</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  var lazyVideos = [].slice.call(document.querySelectorAll("video.lazy-video"));
+
+  if ("IntersectionObserver" in window) {
+    var lazyVideoObserver = new IntersectionObserver(function(entries, observer) {
+      entries.forEach(function(video) {
+        if (video.isIntersecting) {
+          for (var source in video.target.children) {
+            var videoSource = video.target.children[source];
+            if (typeof videoSource.tagName === "string" && videoSource.tagName === "SOURCE") {
+              videoSource.src = videoSource.dataset.src;
+            }
+          }
+
+          video.target.load();
+          video.target.classList.remove("lazy-video");
+          lazyVideoObserver.unobserve(video.target);
+        }
+      });
+    });
+
+    lazyVideos.forEach(function(lazyVideo) {
+      lazyVideoObserver.observe(lazyVideo);
+    });
+  }
+});
+</script>    <div id="footer" class="section dark-blue">
+    <div class="grid-container">
+        <div class="grid-x">
+            <div class="cell small-12 medium-12 large-7">
+                <div class="grid-x">
+                    <div class="cell small-6 medium-3 large-3">
+                        <ul class="footer-menu">
+                            <li class="footer-nav-title">Platform</li>
+                            <li><a title="Homepage" href="/">Home</a></li>
+                            <li><a title="Pricing & Features" href="/pricing">Pricing</a></li>
+                            <li><a title="Login" href="/login">Login</a></li>
+                            <li><a title="Create Account" href="/register">Sign Up</a></li>
+                        </ul>
+                    </div>
+                    <div class="cell small-6 medium-3 large-3">
+                        <ul class="footer-menu">
+                            <li class="footer-nav-title">Learn</li>
+                            <li><a title="Contact Us" href="/contact">Contact</a></li>
+                            <li><a title="Support Site" href="https://support.libib.com" target="_blank">Support</a></li>
+                            <li><a title="Libib Blog" href="https://blog.libib.com" target="_blank">Blog</a></li>
+                            <li><a title="FAQs" href="https://support.libib.com/faqs" target="_blank">FAQs</a></li>
+                            <li><a title="Careers" href="/careers">Careers</a></li>
+                        </ul>
+                    </div>
+                    <div class="cell small-6 medium-3 large-3">
+                        <ul class="footer-menu">
+                            <li class="footer-nav-title">Policies</li>
+                            <li><a title="Privacy Policy" href="/privacy-policy">Privacy</a></li>
+                            <li><a title="Security Policy" href="/security-policy">Security</a></li>
+                            <li><a title="Terms of Service" href="/terms-of-service">Terms</a></li>
+                            <li><a title="Sitemap" href="/sitemap">Sitemap</a></li>
+                        </ul>
+                    </div>
+                    <div class="cell small-6 medium-3 large-3">
+                        <ul class="footer-menu">
+                            <li class="footer-nav-title">Social</li>
+                            <li><a title="Libib YouTube" href="https://youtube.com/libib" target="_blank">YouTube</a></li>
+                            <li><a title="Libib Post News" href="https://post.news/@/libib" target="_blank">Post News</a></li>
+                            <li><a title="Libib TikTok" href="https://www.tiktok.com/@libib" target="_blank">TikTok</a></li>
+                            <li><a title="Libib Instagram" href="https://instagram.com/libib" target="_blank">Instagram</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="cell small-12 medium-8 medium-offset-2 large-4 large-offset-1">
+                <div id="footer-logo"></div>
+                <p class="light-text">
+                    Whether you have 50 items or 5,000 items, your library is precious. With Libib, managing your own privacy library of books, movies, music &amp; games is a snap. Create your account today.                </p>
+            </div>
+        </div>
+        <div class="grid-x padding-top-100">
+            <div class="cell small-12">
+                <p class="text-center light-text copyright">&copy; libib.com / All rights reserved</p>
+            </div>
+        </div>
+    </div>
+</div>
+        <!-- LOAD SCRIPTS -->
+    <!-- LOAD SCRIPTS -->
+    <script src="/js/what-input.js?v=19"></script>
+    <script src="/js/foundation.min.js?v=19"></script>
+    <script src="/js/public/script.js?v=19"></script>
+    <script src="/js/notification.js?v=19"></script>
+    <script src="/js/postform.js?v=19"></script>
+</body>
+</html>
