@@ -1,0 +1,2672 @@
+
+ <!DOCTYPE html>
+<html xmlns:og="http://ogp.me/ns#" lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="author" content="">
+
+   <title>OSRTC Bus Ticket Booking, Bus Timings, OSRTC Bus Timetable | AbhiBus</title>
+       <meta name="description" content="OSRTC bus ticket booking online at Abhibus and get the best bus booking offer. Check out OSRTC bus timings, live tracking and bus ticket reservation online for all routes.">
+    <meta name="keywords" content="osrtc, osrtcbus.in, osrtc bus">
+
+	
+	    <meta property="og:title" content= " Book OSRTC Bus Tickets Online - OSRTC Bus Timings, Price"/>
+    <meta property="og:type" content="company" />
+    <meta property="og:url" content="https://www.abhibus.com/operator/1320/OSRTC" />
+    <meta property="og:image" href="https://static.abhibus.com/img/logos/logo1.png" />
+    <meta property="og:site_name" content="www.abhibus.com" />
+    <meta property="og:description" content="Book OSRTC Bus tickets online from Abhibus to get lowest bus fares. Check bus types, bus routes, amenities and bus timings. Book your tickets on OSRTC to get the best deals." />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+		
+			<meta name="robots" content="noindex, nofollow">
+		
+    <link rel="canonical"  href="https://www.abhibus.com/operator/1320/OSRTC" />
+    
+    <link rel="alternate" hreflang="en-IN" href="https://www.abhibus.com/operator/1320/OSRTC"> 
+	<meta name="robots" content="max-image-preview:large" />
+    
+    
+	
+	
+	
+	
+    <link rel="icon" href="https://static.abhibus.com/img/icons/favicon.ico" type="image/x-icon">
+	 <link type="text/css" rel="stylesheet" href="https://www.abhibus.com/css/jquery-ui.css" type="text/css" />
+	<link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+
+    <!-- Bootstrap Core CSS -->
+     <link href="https://www.abhibus.com/css/abhicash_landing/bootstrap.min.css?v=1" rel="stylesheet">
+    <link href="https://static.abhibus.com/assets/css/theme.css" rel="stylesheet">
+
+	<!-- Custom CSS -->
+	<link href="https://www.abhibus.com/css/abhicash_landing/3-col-portfolio_0_0_1.css" rel="stylesheet">
+	<script src="https://www.abhibus.com/js/libs/jquery.js"></script>
+		<script src="https://www.abhibus.com/js/bootstrap.bundle.min.js"></script>
+		<style>
+		.abhi-pop-title-wrapper .close {
+			min-width: 0% !important;
+			margin-top: 10px;
+			margin-top: -14px;
+		}
+
+		.abhi-pop-content .abhi-pop-login {
+			position: relative;
+			top: -25px;
+		}
+
+		#navbarResponsive .nav-item.active a {
+			color: #FFF !important;
+		}
+
+		@media (max-width: 767.98px) {
+			#navbarResponsive.show {
+				width: 100%;
+			}
+			.main-nav .navbar-brand {
+				width: 80%;
+			}
+			.sidenav {
+				height: 100%;
+				width: 0;
+				position: fixed;
+				z-index: 999;
+				top: 0;
+				left: 0;
+				background-color: #f4f4f4;
+				overflow-x: hidden;
+				transition: 0.5s;
+				padding-top: 60px;
+				box-shadow: 5px 5px 100px #000;
+			}
+			.sidenav a {
+				padding: 20px 8px 20px 32px;
+				text-decoration: none;
+				font-size: 18px;
+				color: #000;
+				display: block;
+				transition: 0.3s;
+			}
+			.sidenav a:hover {
+				color: #f1f1f1;
+			}
+			.sidenav .closebtn {
+				position: absolute;
+				top: 0;
+				right: 10px;
+				font-size: 36px;
+				margin-left: 50px;
+			}
+			@media screen and (max-height: 450px) {
+				.sidenav {
+					padding-top: 15px;
+				}
+				.sidenav a {
+					font-size: 18px;
+				}
+			}
+			.main-nav.navbar-light .navbar-nav .nav-link {
+				color: #5d5d5d;
+				padding: 3px 16px;
+				line-height: 40px;
+			}
+			.main-nav .navbar-nav .active a {
+				color: #fff !important;
+				background: #c60001;
+				border-radius: 15px;
+				margin: 10px 20px 10px 10px;
+			}
+
+		.hid-web{ display: block}
+
+		}
+
+		@media (min-width: 767.98px) {
+
+		.hid-web {
+			display: none
+			}}
+	</style>
+	<script>
+		var $= jQuery.noConflict();
+	</script>
+
+	<script type='text/javascript'>
+		var mouse_is_insidecc = "";
+
+		function closeLoginPopup() {
+			$( '#light' ).hide();
+			$( "#fade" ).hide();
+			$( 'html,body' ).css( {
+				'overflow': 'auto'
+			} );
+			if ( 0 ) {
+				window.location.href = "https://www.abhibus.com/account/sign_out/";
+			};
+		}
+		$( document ).ready( function () {
+
+			$( ".close" ).click( function () {
+				closeLoginPopup();
+			} );
+			$( ".abhi-pop-title-wrapper" ).click( function () {
+				console.log( "HEllo" );
+				closeLoginPopup();
+
+			} );
+
+			$( '.mainsection' ).click( function () {
+				$( "#bs-example-navbar-collapse-1" ).removeClass( "in" );
+			} );
+			$( '.officeimg' ).click( function () {
+				$( "#bs-example-navbar-collapse-1" ).removeClass( "in" );
+			} );
+			$( '.wrap' ).click( function () {
+				$( "#bs-example-navbar-collapse-1" ).removeClass( "in" );
+			} );
+
+			if ( window.innerWidth <= 800 ) {
+								$( "#datepicker1" ).datepicker( {
+					dateFormat: 'dd-mm-yy',
+					firstDay: 1,
+					numberOfMonths: 1,
+					showButtonPanel: false,
+					minDate: '+0',
+					maxDate: '+2M',
+					onSelect: function ( selectedDate ) {
+														$( "#seo_search_btn" ).trigger( "click" );
+												}
+				} );
+							} else {
+				$( "#datepicker1" ).datepicker( {
+					dateFormat: 'dd-mm-yy',
+					firstDay: 1,
+					numberOfMonths: 2,
+					showButtonPanel: false,
+					minDate: '+0',
+					maxDate: '+2M +0D',
+					onSelect: function ( selectedDate ) {
+						$( "#datepicker2" ).datepicker( "option", "minDate", selectedDate );
+						$( "#datepicker2" ).datepicker( "option", "maxDate", '+2M' );
+						if ( $( "#datepicker2" ).val() ) $( "#datepicker2" ).val( "" );
+						$( "#datepicker2" ).attr( "placeholder", "Date of Return (optional)" );
+						$( "#seo_search_btn" ).trigger( "click" );
+					}
+				} );
+				$("#datepicker2").datepicker( {
+					dateFormat: 'dd-mm-yy',
+					firstDay: 1,
+					numberOfMonths: 2,
+					showButtonPanel: false,
+					minDate: +0,
+					maxDate: '+2M',
+					onSelect: function ( selectedDate ) {
+						$( "#datepicker1" ).datepicker( "option", "maxDate", selectedDate );
+					}
+				} );
+
+			}
+			$( ".close" ).click( function () {
+				$( '#light' ).hide();
+				$( "#fade" ).hide();
+				$( 'html,body' ).css( {
+					'overflow': 'auto',
+					'height': 'auto'
+				} );
+				if ( 0 ) {
+					window.location.href = "https://www.abhibus.com/account/sign_out/";
+				}
+			} );
+			$( "#navbarDropdown" ).click( function () {
+				if ( $( this ).hasClass( "open" ) ) {
+					return false;
+				}
+			} );
+			$( ".open" ).click( function () {
+				if ( !$( ".open" ).hasClass( "open" ) ) {
+					return true;
+				}
+				$( '#light' ).show();
+				$( '#fade' ).show();
+				$( "#login-form" ).load( "https://www.abhibus.com/account/signin" );
+				$( 'html,body' ).css( {
+					'overflow': 'hidden',
+					'height': '100%'
+				} );
+
+			} );
+
+			$( '.selectBoxdcc' ).hover( function () {
+				mouse_is_insidecc = true;
+			}, function () {
+				mouse_is_insidecc = false;
+			} );
+
+			$( "html" ).click( function () {
+				if ( !mouse_is_insidecc ) {
+					$( 'div.selectOptionscc' ).css( 'display', 'none' );
+					$( ".showcc" ).show();
+					$( ".hidecc" ).hide();
+				}
+			} );
+			//$( "#navbarDropdown1" ).trigger( "click" );
+					} );
+	</script>
+
+	<script>var error_messages={"ErrFromcity":"Please enter your Origin City ","ErrTocity":"Please enter your Destination City ","ErrTocity_Fromcity_same":"Origin and Destination city cannot be the same ","Errhmm":"Hmmm! No buses found. We have taken note of your request. Search for more options <a href='\/'>here<\/a>. ","ErrEnterTicketNo":"Please enter booking Id ","ErrEnterPhoneNo":"Please enter phone number ","ErrNorecords":"Please enter valid mobile no. or ticket no. ","ErrEnterMinNo":"Please enter minimum of 10 numbers ","ErrEnterticketorph":"Please enter ticket\/phonenumber ","Errticketcannotcanc":"Your ticket can not be cancelled, please check the details once. ","Errticketcancnotallow":"You are not allowed to cancel this ticket. ","ErrEnterEmail":"Please enter Email Id ","ErrEmptyMobile":"Please enter Mobile No ","ErrEnterMobile":"Please enter valid mobile ","ErrEnterEmergencyEmpty":"Please enter emergency contact ","ErrEnterFirstName":"Please enter name ","ErrEnterLastName":"Please enter last name ","ErrEnterAge":"Please enter age ","ErrTicketcantissue":"Ticket can't be issued for children below 3 years ","ErrProvideCoupon":"Please enter Coupon Code ","ErrNotcatcard":"Coupon is not applicable for Cat Card bookings ","ErrNotgovtcoupon":"Coupon Code is not applicable for Govt. Bus Partners ","ErrValidCardNo":"Please enter valid card number ","ErrSelectcardtype":"Please select card type ","ErrMMYY":"Please select month & year ","ErrCVV":"Please enter valid CVV ","ErrInvalidCoupon":"- invalid coupon ","ErrEmptyCVV":"Please enter CVV ","ErrValidName":"Please enter name on card ","ErrCardType":"Please select card type ","ErrBankNameSelect":"Please select your bank ","ErrCashCardtype":"Please seect cash card type ","ErrCheckbox":"Please accept terms & conditions to proceed ","ErrInsTerms":"Please check Insurance terms ","ErrEmailorMobile":"Please enter Email or Mobile No ","ErrPwd":"Please enter Your Password ","ErrPwdSent":"Reset Password Mail has been sent, please Reset your Password ","ErrEnterEmailid":"Please enter Email ","ErrValidEmail":"Please enter Valid email ","ErrValidMobile":"Please enter valid mobile ","ErrPwdCpwd":"Password and Confirm password does not match ","ErrRegThank":"Thank you for registering. Activation link has been sent to your email id. ","ErrSelectBoarding":"Please Select Boarding Point ","ErrSelectDropping":"Please Select Dropping Point ","ErrCatCardNo":"Please Enter Cat Card Number ","ErrSelectSeatOnward":"Please select seats from Onward Journey ","ErrFirstNameLength":"First Name length should be 3 to 24 characters ","ErrLastNameLength":"Last Name length should be 3 to 24 characters ","ErrEnterAddress":"Please Enter Your Address ","ErrEnterDOB":"Please Enter Your Date of Birth ","ErrSelectGender":"Please Select Gender ","ErrMarriedStatus":"Please Select Married Status ","ErrEnterZip":"Please Enter ZIP ","ErrEnterCPWD":"Please Enter Your Current Password with Max 15 Characters ","ErrEnterNPWD":"Please Enter Your New Password with Max 15 Characters ","ErrEnterCNPWD":"Please Confirm New Password ","ErrEnterPassAge":"Please enter passenger age ","ErrValueNumber":"The value must be a number ","ErrMaxValue":"The maximum value is 100 ","ErrPasFirstName":"Please enter passenger first name ","ErrPasLastName":"Please enter passenger last name ","ErrPasDetailsadded":"Passenger details added Successfully ","ErrAreyousure":"Are you sure you want to delete? ","ErrDeletedSucc":"Passenger details deleted Successfully ","ErrUpdatedSucc":"Passenger details updated Successfully ","ErrUpdatedProfileSucc":"Profile details have updated successfully ","ErrUpdatedNotificationsSucc":"Notifications updated successfully ","Errtkt_cnt_can":"Your ticket can not be cancelled, journey date should not be less than current date. ","Errent_valid_phno":"Please enter valid phone number ","Erraccountmobileempty":"Please enter mobile number ","Err_account_amt_empty":"Please enter amount ","Err_account_amt_notvalid":"Please enter valid amount ","Err_account_topup_empty":"Please enter topup number ","Err_account_pass_firstname":"Please enter passenger first name ","Err_account_pass_age":"Please enter passenger age ","Err_account_value_no":"The value must be a number ","Err_account_max_value":"The maximum value is 100 ","Err_account_last_name":"Please enter passenger last name ","Err_pr_FName":"First Name length should be 3 to 24 characters ","Err_pr_LName":"Last Name length should be 3 to 24 characters ","Err_pr_Addr":"Please Enter Your Address ","Err_pr_DOB":"Please Enter Your Date of Birth ","Err_pr_Gender":"Please Select Gender ","Err_pr_Married":"Please Select Married Status ","Err_pr_ZIP":"Please Enter ZIP ","Err_pr_Profile":"Profile details have updated successfully ","Err_cpwd_updated_succ":"Login Password Updated Successfully ","Err_seatlayout_enter_catcard":"Please Enter Cat Card Number ","Err_sigin_popup_email_empty":"Please enter Email or Mobile No ","Err_sigin_popup_email_notvalid":"Please enter Valid email or mobile no ","Err_sigin_popup_pwd_empty":"Please enter Your Password ","Err_sigin_popup_pwd_Reset":"Reset Password Mail has been sent, please Reset your Password ","Err_sigin_popup_pwd_cpwd":"Password and Confirm password does not match ","Err_sigin_popup_Thankyou_register":"Thank you for registering. Activation link has been sent to your email id. "}</script>	<style>
+.grecaptcha-badge { 
+    visibility: hidden;
+}
+</style>
+<script>
+	if(localStorage.getItem("utmObject") !== null){
+		let utmObject1 = localStorage.getItem("utmObject");
+		utmObject1 = JSON.parse(utmObject1);		
+		let expirationDate = new Date(utmObject1.expiry);		
+        if (new Date() > expirationDate) {
+			localStorage.removeItem("utmObject");
+		}
+	}
+	const queryParams = new URLSearchParams(window.location.search);
+	if(queryParams.get('utm_source') !== undefined && queryParams.get('utm_source') !== null){
+		let utmObject = {
+			utm_source: queryParams.get('utm_source'),
+			utm_medium: queryParams.get('utm_medium'),
+			utm_campaign: queryParams.get('utm_campaign'),
+			expiry:  new Date(new Date().getTime()+1000*60*60*24*1)		
+			};	
+		
+		 	
+	    localStorage.setItem("utmObject",JSON.stringify(utmObject));
+	}
+	let utmObject2 = {};
+	 if(localStorage.getItem("utmObject") !== null){
+			utmObject2 = localStorage.getItem("utmObject");
+			utmObject2 = JSON.parse(utmObject2);
+			delete utmObject2.expiry;
+		
+		}
+    function cleanEventData(eventData) {
+        for (const key in eventData) {
+            if (eventData.hasOwnProperty(key)) {
+                const element = eventData[key];
+                if (element === '' ||
+                    element === undefined ||
+                    element === '') {
+                    delete eventData[key];
+                }
+            }
+        }
+    }
+
+    function keysToLowerCase(obj) {
+        Object.keys(obj).forEach(function(key) {
+            var k = key.toLowerCase();
+            if (k !== key) {
+                obj[k] = obj[key];
+                delete obj[key];
+            }
+        });
+        return (obj);
+    }
+
+    function isNumeric(number) { return !isNaN(number); }
+
+    function pushDataLayer(...vars) { 
+        return;
+    }
+    
+    function pushSignIn(...vars) {
+        return;
+    }
+
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NT8G7XQ');</script>
+<!-- End Google Tag Manager -->
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-6315501-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-6315501-1');
+</script>
+<script type="text/javascript"> 
+function recordOutboundLink(link, category, action) { 
+ } 
+</script> 
+
+<!-- END OF GOOGLE ANALYTICS-->
+<!-- End CleverTap -->
+
+
+
+
+<!-- Start Of Push Events-->
+
+<script>
+	 var Reco_shown = sessionStorage.getItem('Reco_shown');
+	 var Reco_selected = sessionStorage.getItem('Reco_selected');
+	 var Reco_selected_position = sessionStorage.getItem('Reco_selected_position');
+        if(Reco_shown == null){
+			Reco_shown = 'no';
+	   }
+	   if(Reco_selected == null){
+		   Reco_selected =  'no';
+		 }
+
+    var account_details = {}
+    var acInfo={firstname:"",lastname:"",fullname:"",gender:"",mobile_number:"",email:"",isloggedin:"No",isprime:"No"};
+        Object.assign(_conf, acInfo);
+    const RTC_API_KEYS = [154, 238, 557, 400, 521, 588, 395, 16];
+
+    
+        
+    
+    
+    
+</script>
+
+
+
+<script >bazadebezolkohpepadr="1165905611"</script><script type="text/javascript" src="https://www.abhibus.com/akam/13/457e4eed"  defer></script></head>
+
+<body>
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NT8G7XQ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+	<div class="popup-abhicash" id="light">
+		<div class="abhi-pop-title-wrapper">
+			<div class="abhi-pop-title" id="abhi-pop-title">
+				<span>
+					Login/Signup with OTP				</span>
+			</div>
+			<div class="close"><span>X</span>
+			</div>
+		</div>
+		<div class="abhi-pop-content">
+			<div class="abhi-pop-login">
+				<div id="login-form"></div>
+			</div>
+		</div>
+	</div>
+	<div id="fade" class="black_overlay"></div>
+		<!-- Navigation -->
+	<nav class="main-nav navbar navbar-light navbar-expand-lg p-0 ">
+		<div class="container_new  p-0">
+			<div class="navbar-brand p-0">
+				<a href="https://www.abhibus.com/"><img src="https://static.abhibus.com/img/abhilogos/logo1.png" alt="abhibus.com" height="55px"></a>
+			</div>
+			<button class="navbar-toggler navbar-toggler-right border-0" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"> <span style="font-size:30px; cursor:pointer" onclick="openNav()" >&#9776;</span> </button>
+			<div id="mySidenav" class="sidenav">
+
+				<ul class="navbar-nav ml-auto pr-3">
+					<li class="nav-item  hid-web"><a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+					</li>
+					<li class="nav-item active"> <a class="nav-link" href="https://www.abhibus.com/">Bus</a> </li>
+					<li class="nav-item "> <a class="nav-link" href="https://www.abhibus.com/redirect_booking/trainsbooking">Trains</a> </li>
+					<li class="nav-item "> <a class="nav-link" href="https://www.abhibus.com/redirect_booking/hotels">Hotels</a> </li>
+					<li class="nav-item"> <a class="nav-link" href="https://www.abhibus.com/rentals">Rentals</a> </li>
+					<li class="nav-item"> <a class="nav-link" href="https://www.abhibus.com/bus-ticket-offers">Offers</a> </li>
+					<li class="nav-item"> <a class="nav-link" href="https://www.abhibus.com/refer-a-friend">Get Free Rides</a> </li>
+
+								</ul>
+		</div>
+		</div>
+	</nav>
+
+
+
+	<script>
+		function openNav() {
+			document.getElementById( "mySidenav" ).style.width = "300px";
+		}
+
+		function closeNav() {
+			document.getElementById( "mySidenav" ).style.width = "0";
+		}
+	</script>
+
+		
+
+<style>
+.pageheader{height:90px;}
+.operators{margin-top:0px !important;}
+</style>
+<!-- Sub-Header section  -->
+ <div class="container_new">
+	 <div class="sub-header pageheader">
+ <div class="col-md-10 pl-0">
+
+
+ 	 			<h1>OSRTC</h1>
+ 		</div>
+
+	 <div class="col-md-2 pull-right">
+	
+</div>
+ <!-- Sub-Header section  end -->
+</div>
+<style>
+.navbar-inverse .navbar-nav>.open>a,.navbar-inverse .navbar-nav>.open>a:focus,.navbar-inverse .navbar-nav>.open>a:hover{color:#444;background-color:#e6e6e6}.navbar-inverse .navbar-brand{color:#444}@media (min-width:768px){.navbar>.container .navbar-brand,.navbar>.container-fluid .navbar-brand{margin-left:0!important}}#SigninBlock form a{color:#167bd1}.popup-abhicash .social-login .btn-social-new.btn-social-google span{color:#da483e}.popup-abhicash .social-login .btn-social-new.btn-social-facebook span{color:#2e5ca1}#LoginF p{font-size:14px}#SigninBlock form p{margin:10px}#LoginF .preference .label{margin-left:5px}#LoginF .preference .label,#LoginF .preference .signinpreference{float:left;margin-bottom:10px}	
+@media (max-width: 767.98px) {.navbar{min-height: 50px;}}
+.navbar-inverse .navbar-nav>li>a {color: #444;font-size:13px;}
+.navbar-inverse{background:#efefef;height:45px;color:#343a40;border-bottom:1px solid #ccc;z-index:4}.navbar-inverse .navbar-collapse,.navbar-inverse .navbar-form{border-color:#101010;background:0 0}.navbar-nav>li>a{padding-bottom:11px}.dropdown-toggle .caret{margin-left:10px}.navbar{min-height:45px}
+#welcome {color:#929292;font-size:12px;}
+#welcome a{color:#444;}
+.nav-active {color: #CF000B !important; }
+.clientpage .clientpageheader{margin: 5px !important;}
+.home.social{border-top: none !important;}
+.openposition .ui-state-default .ui-icon { background-image: url(//static.abhibus.com/img/logos/sprites-final11.png) !important;}
+p{font-size:13px; padding: 2px 0px 2px 0px}
+.pageheader{height:20px; margin-top: -15px;}
+.operators{margin-top:0px !important;}      
+.col2 p,.travele .col3 p{font-size:12px;padding:5px 10px 0 0!important;margin:0;color:#7a7a7a;font-weight:100}.star{color:red}.opt-routes{border:solid 1px #d2d2d2;padding:10px 10px 20px 10px!important;margin-top:20px;font-size:12px;color:#5b5b5b}  
+#resultsdisp  .col-md-4.col1,#resultsdisp  .col-md-5.col2{padding-top:10px}
+.travele .col3 { text-align: right !important;}
+.btnab { background-color: #CF000B; padding: 4px 24px !important; color: #fff; border: none; margin-bottom: 5px;}
+h5 { font-size: 15px !important;color: #000 !important; font-weight: 600 !important;}
+h3 { font-weight: 600 !important;font-size: 18px !important}
+.clientpage .c-cont .c-right .opt-routes { border: solid 1px #D2D2D2; padding: 10px; margin: 7px 0px 17px 0px !important; font-size: 12px;color: #5b5b5b;}
+.clientpage .c-cont .c-right .opt-routes ul li { background: url(https://static.abhibus.com/img/operator/city-icon.png) no-repeat 1px 7px;
+padding: 8px 0px 10px 26px; border-bottom: solid 1px #eeeeee; margin: 5px 0px 5px 0px; list-style: none; font-size: 13px;} 
+.clientpage .c-cont .c-right .opt-routes1 ul li { background: url(https://static.abhibus.com/img/operator/location-icon-red.png) no-repeat 1px 10px; padding: 8px 0px 10px 22px;border-bottom: solid 1px #eeeeee;margin: 5px 0px 5px 0px; list-style: none; font-size: 13px;}
+.clientpage .c-cont .c-right .opt-routes2 ul li { background: url(https://static.abhibus.com/img/operator/location-icon-black.png) no-repeat 1px 10px; padding: 8px 0px 10px 22px;border-bottom: solid 1px #eeeeee;margin: 5px 0px 5px 0px; list-style: none; font-size: 13px;}   
+.opt-routes {border:solid 1px #d2d2d2; padding:0px 10px 0px 10px!important; margin-top:8px;font-size:12px;color:#5b5b5b; } .opt-routes1 {border:solid 1px #d2d2d2; padding:0px 10px 0px 10px!important; margin-top:8px;font-size:12px;color:#5b5b5b;} 
+.opt-routes2 {border:solid 1px #d2d2d2; padding:0px 10px 0px 10px!important; margin-top:8px;font-size:12px;color:#5b5b5b;} 
+.list-fnl-none{margin: 0px !important; padding-bottom: 11px !important; border: 0px !important;}	
+.opt-routes3 ul {  padding: 7px 0px 10px 12px; margin: 5px 0px 5px 10px; font-size: 13px; }
+.opt-routes3 ul li { list-style: none; }
+.opt-routes3 ul li::before {
+content: "\2022"; color: red; font-weight: bold; display: inline-block; width: 1em; margin-left: -1em;font-size: 16px; line-height: 0; padding: 0px 0px 0px 5px;
+}
+.left-title{font-weight: bold; margin-top: 17px; text-transform: uppercase1; font-size:13px;}
+h4{color: #000;font-weight: 600; padding: 5px 0px;}
+.modelvisible{ visibility:visible !important; z-index:9999 !important;}
+.travele-head{ background-color: #ededed; margin-top: 15px; padding: 10px 10px 6px 0px;}    
+#resultsdisp .col-md-4.col1, #resultsdisp .col-md-5.col2 { padding-top: 22px !important;}
+.city-title{padding: 25px 0px 0px 0px !important ;}
+.modal-body h3{ font-size: 18px;  padding-left:20px;}
+.offersHead { font-size: 16px; padding-left: 16px; }
+.pointer {cursor: pointer;}
+.searchFields h2 { font-size: 16px !important; font-weight: 700 !important;}
+.op-logo{ height:70px; float:right; padding: 0px 0px 0px 0px;}
+.clientpage .c-cont .c-right .opt-routes ul li a {color:#5b5b5b; text-decoration:none;}
+.mt-50{margin-top:50px;}
+.pa-0{padding:0px;}
+.pa-2 {    padding: 0px 2px 0px 10px !important;}
+.pat-60 {padding-top:60px}
+.two-way{ position: absolute;}
+.br-none{ border:solid 1px #ccc; border-radius:0px;}
+.searchFields h2{ color: #232323; font-size: 24px; font-weight:300; margin: 0px 0px 20px 0px; padding: 0; text-align: center;}
+.serch-box{ overflow: hidden; padding: 20px 0px 5px 0px !important; width: 96%; border-radius: 0px; margin-left: 15px !important; border: solid 1px #D2D2D2;}
+.left-title-1{ margin: 17px 0px 5px 18px;}
+
+.clientpage .c-cont .c-left .about { color: #333 !important; }
+.small-text { font-size: 11px; color: #7A7A7A; font-weight: 100;}
+.city-title-sub { padding: 17px 0px 0px 0px !important; }
+.headTitle {padding: 0px 0px !important; font-weight: bold !important; margin-top: 17px; font-size: 18px !important;}
+.maiHeadTitle {padding: 0px 0px !important;font-weight: bold !important;margin-top: 17px;font-size: 18px !important;}
+
+
+@media only screen and (max-width: 600px) {
+.pa-0{padding:0px;}
+.pa-1 {padding:5px 2px;}
+.pa-2 {    padding: 5px 2px 5px 2px !important;}
+.two-way{   position: absolute; bottom: 0px !important; left: 285px; width: 50px; top: 30px;}
+.flex{display:flex;}
+.w-0{ width:0px;}
+.sm-date{cursor: pointer;margin-right: 15px;}
+.city-title{ padding:5px !important ; margin:0px !important;}
+.mt-15{margin-top: 15px;}
+.mt-10{margin-top: 10px;}  
+.serch-box{ border: none !important; margin-left: 8px !important;}  
+.twowaychang {margin-top:55px !important; left: 126px !important;}
+.mt-0{margin-top:0px  !important;}    
+.op-logo-1 { height: 60px; padding: 0px 0px 0px 0px; display: flex; margin: 0px auto !important;float: none;}
+.clientpage .clientpageheader { overflow: hidden; background-color: #e0e0e0; padding: 0px !important;}
+.pad-5 {padding:5px !important; float:left; width:100%;}    
+.city-title-sub { padding: 0px 0px 0px 0px !important;}
+.img-100 { width:100%;}
+.btnab{ padding: 4px 2px !important };
+}
+.offerTitle{font-weight: bold;margin-top: 17px;text-transform: uppercase; font-size: 13px;}
+.breadcrumb { padding: 11px 15px 11px 15px; margin-bottom: 20px; list-style: none; background-color: #f5f5f5; border-radius: 4px; margin-left: 14px; margin-right: 14px;}
+.col-md-10 h1{display:none;}
+.newOffers{display:none;}
+.mob-img-mob{ display: none}
+@media (max-width: 600px) {
+.mob-img-mob{ display: block}
+.container_new { padding-right: 0px; padding-left: 0px;	margin-right: auto; margin-left: auto; }
+.mo-css { background: url(https://static.abhibus.com/img/operator/bg-mobile.png); background-position: top center; background-repeat: no-repeat; margin-top: -20px;}
+	.hid{ display:none;}
+	.h1-mo{font-size:30px; font-weight: 700; color: #c41400 ;display: block; width: 220px; text-align: left; margin:0px!important; }
+	.h1-mo h2{margin:0px!important;}
+	.h1-mo .sp-mo{font-size:18px; font-weight: 300; color: #000 ;display: block;}	
+	.headTitle{display: block; font-size: 16px !important;}	
+	.clientpage .clientpageheader{ background: #fff !important; border-radius:20px !important; margin: 0px 5px 5px 5px !important;  }
+	.clientpage .clientpageheader{margin-top: 15px !important; padding: 10px !important;}
+	.searchFields{ background:#fff; padding: 10px;border-radius: 20px; margin: 5px; box-shadow:2px 2px 5px #ccc;}
+	.btnab{background: #df695d; border-radius: 10px; color: #fff; padding: 5px !important;}
+	.col-md-10 h1{display:none;}
+	.pageheader{height:30px;}
+	.navbar{ margin-bottom:0px !important;}
+	.sub-header pageheader{display:none}
+	.headTitle {margin: 8px 5px 10px 5px;}
+	.navbar-light .navbar-toggler-icon {background-image: url(https://static.abhibus.com/img/operator/nav-icon.jpeg);}
+	.searchFields .twowaychang { left: 298px !important; top: -10px !important; transform: rotate(90deg);}	
+	.clientpage .c-cont .c-left { margin: 10px 10px; }
+	.breadcrumb{display:none;}
+	.newOffers{display:block;}
+	.webOffers{display:none;}
+	.rating-big{text-align: center}
+	.rating-big span{font-size: 10px;}
+}
+.app-sec h2{ margin-bottom: 10px!important; font-weight: 500!important; font-size:26px !important}
+.app-sec h3{ font-size: 20px!important; font-weight: 600!important}
+.app-sec p{ font-size: 16px; font-weight: 500!important}
+.app-text{ border-left: solid 5px #dc635b; padding-left: 20px; min-height: 82px}
+	
+	.rating{padding:0px; }
+	
+	.rating .p-0{ margin: 0px ;padding: 0px;}
+	.rating .rat-txt{ padding: 10px; text-align: center; font-size: 18px; font-weight: bold; color: #ffffff; border-radius: 10px; width: 70px;}
+	.rat-txt-big{ padding: 10px; text-align: center; font-size: 18px;font-weight: bold; color: #ffffff; border-radius: 10px;  width: 70px;}
+
+	.green{ background: #507d03}
+	.red{ background: #b93024}
+	.orange{ background: #c95c36}
+	.brd-bot{border-bottom: solid 1px #dddddd ;padding-bottom: 10px!important; padding-top: 10px!important}
+	.brd-bot-none{padding-bottom: 10px!important; padding-top: 10px!important}
+	.brd-bg{ background: #dddddd}
+	.rating-big{ padding: 10px; border-radius: 10px;}
+	.rating-s{ padding: 5px; border-radius: 10px;}
+	.h2-new{ font-size: 18px; margin-top: 36px; font-weight: bold; }
+
+.breadcrumb>li+li:before {
+	padding: 0 5px;
+	color: #5b5b5b;
+	content: ">\00a0";
+}
+	
+	
+</style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script>
+
+function toggleModel(){	 
+	$(".modal").addClass('modelvisible');		
+}
+</script>
+<script data-react-helmet="true" type="application/ld+json">
+			{
+			"@context": "http://schema.org",
+			"@type": "BreadcrumbList",
+			"itemListElement": [{"@type":"ListItem","position":"1","item":{"@type":"WebPage","@id":"https://www.abhibus.com/","name":"Home"}},{"@type":"ListItem","position":"2","item":{"@type":"WebPage","@id":"https://www.abhibus.com/operators/","name":"Bus Operators"}}]
+			}
+</script> 
+      <!-- About section  strat -->
+      <div class="mainsection about mo-css">
+		<ul class="breadcrumb">
+		  <li><a href="https://www.abhibus.com/">Home</a></li>
+		  <li><a href="https://www.abhibus.com/operators/">Bus Operators</a></li>
+		  <li>OSRTC</li>
+		</ul>
+         <div class="wrap clearfix">
+            <div class="container_new">
+               <div class="operators">
+                  <div class="clientpage">
+                     <div class="row clientpageheader">
+						<div class="col-md-12" style="overflow: hidden">
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tbody>
+							<tr>
+								<td> <h1 class="h1-mo">OSRTC </h1></td>
+								 <td><img src="https://static.abhibus.com//content-pages/op-logos/osrtc.png" class="op-logo op-logo-1" alt="OSRTC"> </td>								
+							</tr>
+							  </tbody>
+							</table>                 
+						</div>						 
+                     </div>
+                     
+                     <div style="clear:both"></div>
+                     <div class="c-cont">
+						 
+                        <div class="row m-0">                                                     
+                           <div class="col-md-8">
+                              <div class="c-left">
+                                 <div class="route-details">									 									
+									  
+									<style>
+.errorMsg{text-align:center !important;width:100% !important;overflow:hidden;margin-top:10px;font-weight:bold;}
+.twowaychang{ padding: 12px 10px 10px 42px !important;border:none !important; background:none !important; left: 217px !important; top: 45px!important ; margin-left: 0px;}
+.buttons a.btnab {/*padding-left: 25px;*/padding-top: 5px !important;}
+ .icosearch2{background: #CF000B url(https://static.abhibus.com/img/logos/sprites-final11.png) no-repeat !important;display: inline-block !important; background-position: -380px -1px !important;}
+ .ui-datepicker .ui-datepicker-header{border:none !important;} 
+a.btnab { width: 112px !important; display: block; margin: 0 auto; font-size: 18px; font-weight: 300; border: 1px solid #C40000; margin-top: 0px !important; text-align: center; padding: 9px 0px !important; }
+.icosearch2 { background: #CF000B url(https://static.abhibus.com/img/logos/sprites-final11.png) no-repeat !important; display: inline-block !important; background-position: -404px 5px !important;}    
+#datepicker2{display:black !important;}
+.w-170{ width:170px;}
+.w-135{ width:149px;}
+.w-126{ width:126px;}
+.search-head { margin: 10px;}
+.searchText{padding: 0px 18px; font-weight: bold; margin-top: 17px; font-size: 18px;}
+.box{margin-top: 18px;}
+@media only screen and (max-width: 600px) {	
+.w-170{ width:100%;}
+.w-135{ width:100%;}
+.w-126{ width:100%;}
+.pat-60 {padding-top:0px !important;}
+.twowaychang { left: 160px !important; top: -10px;}
+.travele-head { display: none;}
+.ml-95{margin-left: 95px;}
+.box{margin-top: 0px !important;}
+.errorMsg{margin-top:10px !important;}
+.maiHeadTitle{color: #fff; display: block; text-align: center; font-size: 16px !important;}	
+}
+.operators .twowaychang { height: 50px;}
+	.pa{padding:0px; }
+	.searchFields{ margin: 0px;}
+	.searchFields .textBox{ width: 100% !important}
+</style>
+<form action="https://www.abhibus.com/register" accept-charset="utf-8" name="frmFinal" id="frmFinal" method="POST">
+<div class="box">	<h2 class="maiHeadTitle" id="searchHeadTitle">
+	Search For Bus Tickets	
+ </h2>													
+<div class="row searchFields ">	
+				 
+					 <div class="col-md-4 pa">
+						 <input type="text" autocapitalize="off" autocorrect="off" autocomplete="none" name="source" id="source" class="textBox fromTxt ico form-control br-none" tabindex="1" value="Leaving from" onFocus="if(this.value=='Leaving from')this.value='';"
+						onblur="if(this.value=='')this.value='Leaving from';">
+						<input type="hidden" id="source_id" name="source_id" value="">						
+					 </div>
+					  <div class="col-md-4 pa"> 
+						   <input type="text" autocapitalize="off" autocorrect="off" autocomplete="none" name="destination" id="destination" class="textBox toTxt ico form-control br-none" tabindex="2" value="Going to" onFocus="if(this.value=='Going to')this.value='';"
+							onblur="if(this.value=='')this.value='Going to';">
+							<input type="hidden" id="destination_id" name="destination_id" value="">
+					  </div>
+					 <div class="col-md-2 pa"> 
+						 <input type="text" name="journey_date"  id="datepicker1" class="calendar1 form-control br-none" tabindex="3" placeholder="Date of Journey" autocomplete="off" readonly>
+					 </div>
+<input type="hidden" name="journey_rdate" id="datepicker2" class="calendar2 form-control br-none" tabindex="4" placeholder="Date of Return" autocomplete="off" readonly>
+										 <div class="col-md-2" style="padding:0px;"> 
+						 <a onclick="javascript:validateSearch();" title="Search" id="seo_search_btn" tabindex="6" href="javascript:void(0)" class="btnab">Search</a> 
+					 </div>
+					 <input type="hidden" id="reference" value="cms"/>
+					<input type="hidden" id="ops" value="OSRTC"/>
+						<span href="javascript:" class="two-way twowaychang"><img src="https://static.abhibus.com/img/operator/twoway.png" width="25" alt="twoway"></span>
+				</div>			
+			 			                             
+</div>
+<div id="errormsgHome" class="errorMsg">&nbsp;</div>
+
+											   
+    </form> 
+  
+									<input type="hidden" name="oprId" id="oprId" value="111316">
+                                    <div class="clear-fix"></div>
+									    <!-- Seo Offers Banner Display -->
+										<section class="mob-img-mob">
+    <!-- <div>
+        <a href="https://app.adjust.net.in/bfhh7z6?adgroup=APPNEW&creative=APPNEW" style="text-decoration:none" aria-label="appdownload">
+        <img fetchpriority="high"  alt="offer500" width="100%" height="100%" src="https://static.abhibus.com/img/app-new-user-offer500.png"> </a>
+    </div> -->
+
+    <div style="width:100%;margin-left: auto;margin-right: auto;">
+        <a href="https://app.adjust.net.in/bfhh7z6?adgroup=APPNEW&creative=APPNEW" style="text-decoration:none" aria-label="appdownload">
+        <img  alt="Abhibus Offers Banners"  width="100%"  src="https://static.abhibus.com/img/250Off.png"> </a>
+    </div>
+</section>
+                     					<!-- Seo Offers Banner End -->
+							 </div>
+						 <div style="clear:both; margin-top:30px;"></div>
+						 <div class="newOffers">
+							 <div style="clear:both; margin-top:30px;"></div>
+							 <!-- <div class="left-title1"><h2 class="offerTitle">Bus Booking Offers</h2></div>  -->
+							 						 </div>	
+						  					 
+						 <h2 class="headTitle" style="padding:0px !important; color:#000">OSRTC Bus Top Routes & Timings </h2>						
+						 <div class="travele-head clearfix" >                   
+							   <div class=" col-md-5 col1">
+								   <h4>Bus Routes</h4>										  
+							   </div>
+							   <div class="col-md-4 col2 flex ">
+								   <div class="col-md-12 p-0 text-left"><h4>Bus Timings</h4></div>
+							   </div>									   
+							   <div class="col-md-3 col3 clearfix"> <h4>Bus Fare</h4> </div>
+							   <div style="clear:both;"></div>
+						 </div>
+												 <div id="resultsdisp" style="margin-top: 15px;" class="resultsdisp">                                    
+															
+							<div class="travele clearfix rSet" id="result_0" bt="" tn="" brdp="BRDPNTS" drpp="DRPPNTS">                   
+							   <div class=" col-md-5 col1">
+								   <h2 class="city-title">
+									  										Bhubaneswar <span> → <span class="ArvTm"> Cuttack								  </h2>										  
+							   </div>
+							   <div class="col-md-4 col2 flex mt-10">
+								<div class="col-md-6 p-0 text-left w-0"><h2 class="city-title-sub "><span class="small-text">First Bus </span><br>13:00</h2></div>
+								   <div class="col-md-6 p-0 text-right w-0"><h2 class="city-title-sub "><span class="small-text">Last Bus</span> <br>19:45</h2></div>  								   
+							   </div>									   
+							   <div class="col-md-3 col3 clearfix paddd"> 
+								                                            
+									<h2><span class="WebRupee"></span><strong class="TickRate">₹26</strong> <span>onwards</span></h2>
+								  								  <br>
+								  <input type="button" class="btnab sm-date" style="cursor:pointer" id="bookdatepicker0" value="Select Date" url="https://www.abhibus.com/bus_search/Bhubaneswar/215/Cuttack/214/BUSROUTEDATE/O?refine=OSRTC"/>
+							   </div>
+							   <div style="clear:both;"></div>
+							</div>
+							
+															
+							<div class="travele clearfix rSet" id="result_1" bt="" tn="" brdp="BRDPNTS" drpp="DRPPNTS">                   
+							   <div class=" col-md-5 col1">
+								   <h2 class="city-title">
+									  										Berhampur (Orissa) <span> → <span class="ArvTm"> Cuttack								  </h2>										  
+							   </div>
+							   <div class="col-md-4 col2 flex mt-10">
+								<div class="col-md-6 p-0 text-left w-0"><h2 class="city-title-sub "><span class="small-text">First Bus </span><br>00:27</h2></div>
+								   <div class="col-md-6 p-0 text-right w-0"><h2 class="city-title-sub "><span class="small-text">Last Bus</span> <br>23:45</h2></div>  								   
+							   </div>									   
+							   <div class="col-md-3 col3 clearfix paddd"> 
+								                                            
+									<h2><span class="WebRupee"></span><strong class="TickRate">₹184</strong> <span>onwards</span></h2>
+								  								  <br>
+								  <input type="button" class="btnab sm-date" style="cursor:pointer" id="bookdatepicker1" value="Select Date" url="https://www.abhibus.com/bus_search/Berhampur (Orissa)/178/Cuttack/214/BUSROUTEDATE/O?refine=OSRTC"/>
+							   </div>
+							   <div style="clear:both;"></div>
+							</div>
+							
+															
+							<div class="travele clearfix rSet" id="result_2" bt="" tn="" brdp="BRDPNTS" drpp="DRPPNTS">                   
+							   <div class=" col-md-5 col1">
+								   <h2 class="city-title">
+									  										Cuttack <span> → <span class="ArvTm"> Bhubaneswar								  </h2>										  
+							   </div>
+							   <div class="col-md-4 col2 flex mt-10">
+								<div class="col-md-6 p-0 text-left w-0"><h2 class="city-title-sub "><span class="small-text">First Bus </span><br>09:14</h2></div>
+								   <div class="col-md-6 p-0 text-right w-0"><h2 class="city-title-sub "><span class="small-text">Last Bus</span> <br>23:49</h2></div>  								   
+							   </div>									   
+							   <div class="col-md-3 col3 clearfix paddd"> 
+								                                            
+									<h2><span class="WebRupee"></span><strong class="TickRate">₹26</strong> <span>onwards</span></h2>
+								  								  <br>
+								  <input type="button" class="btnab sm-date" style="cursor:pointer" id="bookdatepicker2" value="Select Date" url="https://www.abhibus.com/bus_search/Cuttack/214/Bhubaneswar/215/BUSROUTEDATE/O?refine=OSRTC"/>
+							   </div>
+							   <div style="clear:both;"></div>
+							</div>
+							
+															
+							<div class="travele clearfix rSet" id="result_3" bt="" tn="" brdp="BRDPNTS" drpp="DRPPNTS">                   
+							   <div class=" col-md-5 col1">
+								   <h2 class="city-title">
+									  										Jeypore (Orissa) <span> → <span class="ArvTm"> Cuttack								  </h2>										  
+							   </div>
+							   <div class="col-md-4 col2 flex mt-10">
+								<div class="col-md-6 p-0 text-left w-0"><h2 class="city-title-sub "><span class="small-text">First Bus </span><br>15:00</h2></div>
+								   <div class="col-md-6 p-0 text-right w-0"><h2 class="city-title-sub "><span class="small-text">Last Bus</span> <br>18:00</h2></div>  								   
+							   </div>									   
+							   <div class="col-md-3 col3 clearfix paddd"> 
+								                                            
+									<h2><span class="WebRupee"></span><strong class="TickRate">₹680</strong> <span>onwards</span></h2>
+								  								  <br>
+								  <input type="button" class="btnab sm-date" style="cursor:pointer" id="bookdatepicker3" value="Select Date" url="https://www.abhibus.com/bus_search/Jeypore (Orissa)/4688/Cuttack/214/BUSROUTEDATE/O?refine=OSRTC"/>
+							   </div>
+							   <div style="clear:both;"></div>
+							</div>
+							
+															
+							<div class="travele clearfix rSet" id="result_4" bt="" tn="" brdp="BRDPNTS" drpp="DRPPNTS">                   
+							   <div class=" col-md-5 col1">
+								   <h2 class="city-title">
+									  										Jeypore (Orissa) <span> → <span class="ArvTm"> Koraput								  </h2>										  
+							   </div>
+							   <div class="col-md-4 col2 flex mt-10">
+								<div class="col-md-6 p-0 text-left w-0"><h2 class="city-title-sub "><span class="small-text">First Bus </span><br>18:30</h2></div>
+								   <div class="col-md-6 p-0 text-right w-0"><h2 class="city-title-sub "><span class="small-text">Last Bus</span> <br>07:00</h2></div>  								   
+							   </div>									   
+							   <div class="col-md-3 col3 clearfix paddd"> 
+								                                            
+									<h2><span class="WebRupee"></span><strong class="TickRate">₹14</strong> <span>onwards</span></h2>
+								  								  <br>
+								  <input type="button" class="btnab sm-date" style="cursor:pointer" id="bookdatepicker4" value="Select Date" url="https://www.abhibus.com/bus_search/Jeypore (Orissa)/4688/Koraput/4839/BUSROUTEDATE/O?refine=OSRTC"/>
+							   </div>
+							   <div style="clear:both;"></div>
+							</div>
+							
+															
+							<div class="travele clearfix rSet" id="result_5" bt="" tn="" brdp="BRDPNTS" drpp="DRPPNTS">                   
+							   <div class=" col-md-5 col1">
+								   <h2 class="city-title">
+									  										Cuttack <span> → <span class="ArvTm"> Berhampur (Orissa)								  </h2>										  
+							   </div>
+							   <div class="col-md-4 col2 flex mt-10">
+								<div class="col-md-6 p-0 text-left w-0"><h2 class="city-title-sub "><span class="small-text">First Bus </span><br>06:00</h2></div>
+								   <div class="col-md-6 p-0 text-right w-0"><h2 class="city-title-sub "><span class="small-text">Last Bus</span> <br>22:30</h2></div>  								   
+							   </div>									   
+							   <div class="col-md-3 col3 clearfix paddd"> 
+								                                            
+									<h2><span class="WebRupee"></span><strong class="TickRate">₹184</strong> <span>onwards</span></h2>
+								  								  <br>
+								  <input type="button" class="btnab sm-date" style="cursor:pointer" id="bookdatepicker5" value="Select Date" url="https://www.abhibus.com/bus_search/Cuttack/214/Berhampur (Orissa)/178/BUSROUTEDATE/O?refine=OSRTC"/>
+							   </div>
+							   <div style="clear:both;"></div>
+							</div>
+							
+															
+							<div class="travele clearfix rSet" id="result_6" bt="" tn="" brdp="BRDPNTS" drpp="DRPPNTS">                   
+							   <div class=" col-md-5 col1">
+								   <h2 class="city-title">
+									  										Sambalpur <span> → <span class="ArvTm"> Bargarh (Orissa)								  </h2>										  
+							   </div>
+							   <div class="col-md-4 col2 flex mt-10">
+								<div class="col-md-6 p-0 text-left w-0"><h2 class="city-title-sub "><span class="small-text">First Bus </span><br>04:55</h2></div>
+								   <div class="col-md-6 p-0 text-right w-0"><h2 class="city-title-sub "><span class="small-text">Last Bus</span> <br>04:55</h2></div>  								   
+							   </div>									   
+							   <div class="col-md-3 col3 clearfix paddd"> 
+								                                            
+									<h2><span class="WebRupee"></span><strong class="TickRate">₹132</strong> <span>onwards</span></h2>
+								  								  <br>
+								  <input type="button" class="btnab sm-date" style="cursor:pointer" id="bookdatepicker6" value="Select Date" url="https://www.abhibus.com/bus_search/Sambalpur/5401/Bargarh (Orissa)/4276/BUSROUTEDATE/O?refine=OSRTC"/>
+							   </div>
+							   <div style="clear:both;"></div>
+							</div>
+							
+															
+							<div class="travele clearfix rSet" id="result_7" bt="" tn="" brdp="BRDPNTS" drpp="DRPPNTS">                   
+							   <div class=" col-md-5 col1">
+								   <h2 class="city-title">
+									  										Bhubaneswar <span> → <span class="ArvTm"> Koraput								  </h2>										  
+							   </div>
+							   <div class="col-md-4 col2 flex mt-10">
+								<div class="col-md-6 p-0 text-left w-0"><h2 class="city-title-sub "><span class="small-text">First Bus </span><br>14:00</h2></div>
+								   <div class="col-md-6 p-0 text-right w-0"><h2 class="city-title-sub "><span class="small-text">Last Bus</span> <br>19:00</h2></div>  								   
+							   </div>									   
+							   <div class="col-md-3 col3 clearfix paddd"> 
+								                                            
+									<h2><span class="WebRupee"></span><strong class="TickRate">₹616</strong> <span>onwards</span></h2>
+								  								  <br>
+								  <input type="button" class="btnab sm-date" style="cursor:pointer" id="bookdatepicker7" value="Select Date" url="https://www.abhibus.com/bus_search/Bhubaneswar/215/Koraput/4839/BUSROUTEDATE/O?refine=OSRTC"/>
+							   </div>
+							   <div style="clear:both;"></div>
+							</div>
+							
+															
+							<div class="travele clearfix rSet" id="result_8" bt="" tn="" brdp="BRDPNTS" drpp="DRPPNTS">                   
+							   <div class=" col-md-5 col1">
+								   <h2 class="city-title">
+									  										Koraput <span> → <span class="ArvTm"> Bhubaneswar								  </h2>										  
+							   </div>
+							   <div class="col-md-4 col2 flex mt-10">
+								<div class="col-md-6 p-0 text-left w-0"><h2 class="city-title-sub "><span class="small-text">First Bus </span><br>18:45</h2></div>
+								   <div class="col-md-6 p-0 text-right w-0"><h2 class="city-title-sub "><span class="small-text">Last Bus</span> <br>18:45</h2></div>  								   
+							   </div>									   
+							   <div class="col-md-3 col3 clearfix paddd"> 
+								                                            
+									<h2><span class="WebRupee"></span><strong class="TickRate">₹616</strong> <span>onwards</span></h2>
+								  								  <br>
+								  <input type="button" class="btnab sm-date" style="cursor:pointer" id="bookdatepicker8" value="Select Date" url="https://www.abhibus.com/bus_search/Koraput/4839/Bhubaneswar/215/BUSROUTEDATE/O?refine=OSRTC"/>
+							   </div>
+							   <div style="clear:both;"></div>
+							</div>
+							
+															
+							<div class="travele clearfix rSet" id="result_9" bt="" tn="" brdp="BRDPNTS" drpp="DRPPNTS">                   
+							   <div class=" col-md-5 col1">
+								   <h2 class="city-title">
+									  										Bhubaneswar <span> → <span class="ArvTm"> Jeypore (Orissa)								  </h2>										  
+							   </div>
+							   <div class="col-md-4 col2 flex mt-10">
+								<div class="col-md-6 p-0 text-left w-0"><h2 class="city-title-sub "><span class="small-text">First Bus </span><br>14:00</h2></div>
+								   <div class="col-md-6 p-0 text-right w-0"><h2 class="city-title-sub "><span class="small-text">Last Bus</span> <br>19:00</h2></div>  								   
+							   </div>									   
+							   <div class="col-md-3 col3 clearfix paddd"> 
+								                                            
+									<h2><span class="WebRupee"></span><strong class="TickRate">₹644</strong> <span>onwards</span></h2>
+								  								  <br>
+								  <input type="button" class="btnab sm-date" style="cursor:pointer" id="bookdatepicker9" value="Select Date" url="https://www.abhibus.com/bus_search/Bhubaneswar/215/Jeypore (Orissa)/4688/BUSROUTEDATE/O?refine=OSRTC"/>
+							   </div>
+							   <div style="clear:both;"></div>
+							</div>
+							
+															
+							<div class="travele clearfix rSet" id="result_10" bt="" tn="" brdp="BRDPNTS" drpp="DRPPNTS">                   
+							   <div class=" col-md-5 col1">
+								   <h2 class="city-title">
+									  										Cuttack <span> → <span class="ArvTm"> Jeypore (Orissa)								  </h2>										  
+							   </div>
+							   <div class="col-md-4 col2 flex mt-10">
+								<div class="col-md-6 p-0 text-left w-0"><h2 class="city-title-sub "><span class="small-text">First Bus </span><br>14:00</h2></div>
+								   <div class="col-md-6 p-0 text-right w-0"><h2 class="city-title-sub "><span class="small-text">Last Bus</span> <br>18:00</h2></div>  								   
+							   </div>									   
+							   <div class="col-md-3 col3 clearfix paddd"> 
+								                                            
+									<h2><span class="WebRupee"></span><strong class="TickRate">₹680</strong> <span>onwards</span></h2>
+								  								  <br>
+								  <input type="button" class="btnab sm-date" style="cursor:pointer" id="bookdatepicker10" value="Select Date" url="https://www.abhibus.com/bus_search/Cuttack/214/Jeypore (Orissa)/4688/BUSROUTEDATE/O?refine=OSRTC"/>
+							   </div>
+							   <div style="clear:both;"></div>
+							</div>
+							
+															
+							<div class="travele clearfix rSet" id="result_11" bt="" tn="" brdp="BRDPNTS" drpp="DRPPNTS">                   
+							   <div class=" col-md-5 col1">
+								   <h2 class="city-title">
+									  										Bhubaneswar <span> → <span class="ArvTm"> Kolkata								  </h2>										  
+							   </div>
+							   <div class="col-md-4 col2 flex mt-10">
+								<div class="col-md-6 p-0 text-left w-0"><h2 class="city-title-sub "><span class="small-text">First Bus </span><br>20:40</h2></div>
+								   <div class="col-md-6 p-0 text-right w-0"><h2 class="city-title-sub "><span class="small-text">Last Bus</span> <br>20:40</h2></div>  								   
+							   </div>									   
+							   <div class="col-md-3 col3 clearfix paddd"> 
+								                                            
+									<h2><span class="WebRupee"></span><strong class="TickRate">₹909</strong> <span>onwards</span></h2>
+								  								  <br>
+								  <input type="button" class="btnab sm-date" style="cursor:pointer" id="bookdatepicker11" value="Select Date" url="https://www.abhibus.com/bus_search/Bhubaneswar/215/Kolkata/163/BUSROUTEDATE/O?refine=OSRTC"/>
+							   </div>
+							   <div style="clear:both;"></div>
+							</div>
+							
+																																								
+						 </div>
+						 									   
+							<h3>Frequently Asked Questions Of OSRTC Bus Booking</h3>
+
+<div itemscope itemtype="http://schema.org/FAQPage">
+
+
+	<div itemprop="mainEntity" itemscope itemtype="http://schema.org/Question">
+			<strong itemprop="name">Q - What is the full form of OSRTC? </strong>
+		<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+		<div itemprop="text">
+			<p>A - OSRTC stands for Odisha State Road Transport Corporation is a public transport operator in the state of Odisha, India. OSRTC provides bus services to cities and towns within Odisha, India. </p>
+		  </div>
+		</div>
+	</div>
+	<div itemprop="mainEntity" itemscope itemtype="http://schema.org/Question">
+			<strong itemprop="name">Q - Is OSRTC a government? </strong>
+		<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+		<div itemprop="text">
+			<p>A - Odisha State Road Transport Corporation operates under the Transport & Commerce Department of Govt. of Odisha. </p>
+		  </div>
+		</div>
+	</div>
+	<div itemprop="mainEntity" itemscope itemtype="http://schema.org/Question">
+			<strong itemprop="name">Q - What is OSRTC bus? </strong>
+		<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+		<div itemprop="text">
+			<p>A - OSRTC refers to Odisha State Road Transport Corporation is the state owned road transport corporation in the eastern Indian state of Odisha. </p>
+		  </div>
+		</div>
+	</div>
+	<div itemprop="mainEntity" itemscope itemtype="http://schema.org/Question">
+			<strong itemprop="name">Q - Who is the chairman of OSRTC? </strong>
+		<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+		<div itemprop="text">
+			<p>A - Shri Arun Bothra, IPS Chairman Cum Managing Director of Odisha State Road Transport Corporation (OSRTC) </p>
+		  </div>
+		</div>
+	</div>
+	<div itemprop="mainEntity" itemscope itemtype="http://schema.org/Question">
+			<strong itemprop="name">Q - How do I track my OSRTC ticket? </strong>
+		<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+		<div itemprop="text">
+			<p>A - You will get an AbhiBus Booking ID after booking OSRTC ticket through AbhiBus. You can track OSRTC ticket status by entering AbhiBus booking ID in My Ticket Status tracking page. </p>
+		  </div>
+		</div>
+	</div>
+	<div itemprop="mainEntity" itemscope itemtype="http://schema.org/Question">
+			<strong itemprop="name">Q - How can I cancel my OSRTC E-ticket? </strong>
+		<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+		<div itemprop="text">
+			<p>A - AbhiBus customers can cancel the OSRTC bus tickets booking made through a registered account, login and cancel the bus tickets at https://www.abhibus.com/cancellation page location. The OSRTC bus ticket cancellation charges will be applicable as per the cancellation/refund policy at the time of ticket cancellation. </p>
+		  </div>
+		</div>
+	</div>
+	<div itemprop="mainEntity" itemscope itemtype="http://schema.org/Question">
+			<strong itemprop="name">Q - How can I know my OSRTC bus time? </strong>
+		<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+		<div itemprop="text">
+			<p>A - Visit AbhiBus OSRTC page to know the bus timings, OSRTC ticket fares and more details. </p>
+		  </div>
+		</div>
+	</div>
+	<div itemprop="mainEntity" itemscope itemtype="http://schema.org/Question">
+			<strong itemprop="name">Q - Are private buses running in Orissa? </strong>
+		<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+		<div itemprop="text">
+			<p>A - Yes, private buses have started running in Orissa state. </p>
+		  </div>
+		</div>
+	</div>
+	<div itemprop="mainEntity" itemscope itemtype="http://schema.org/Question">
+			<strong itemprop="name">Q - Is buses running in Odisha today? </strong>
+		<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+		<div itemprop="text">
+			<p>A - Yes, the public transport bus services are resuming operation. </p>
+		  </div>
+		</div>
+	</div>
+	<div itemprop="mainEntity" itemscope itemtype="http://schema.org/Question">
+			<strong itemprop="name">Q - Can we track OSRTC buses online? </strong>
+		<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+		<div itemprop="text">
+			<p>A - Travellers can use AbhiBus live tracking tool for tracking OSRTC buses. This live tracking tool is useful for AbhiBus passengers who are booked tickets and they can check for live status of OSRTC bus details information.  </p>
+		  </div>
+		</div>
+	</div>
+	<div itemprop="mainEntity" itemscope itemtype="http://schema.org/Question">
+			<strong itemprop="name">Q - Can I travel to Orissa now? </strong>
+		<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+		<div itemprop="text">
+			<p>A -  Yes, you can travel to Orissa.  Private and SRTc buses started running buses to Orissa post COVID-19. Passengers have started traveling to the state of Orissa.  </p>
+		  </div>
+		</div>
+	</div>
+	<div itemprop="mainEntity" itemscope itemtype="http://schema.org/Question">
+			<strong itemprop="name">Q - Do I have to create an account on AbhiBus to make a OSRTC online booking? </strong>
+		<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+		<div itemprop="text">
+			<p>A - No, it is not mandatory to create an account on AbhiBus platform to book OSRTC bus tickets online. You can book OSRTC bus tickets as a guest user as well. </p>
+		  </div>
+		</div>
+	</div>
+	<div itemprop="mainEntity" itemscope itemtype="http://schema.org/Question">
+			<strong itemprop="name">Q - Do I have to carry an identity proof with me while travelling on a OSRTC bus? </strong>
+		<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+		<div itemprop="text">
+			<p>A - Yes, it is mandatory to carry your identity proof while travelling on a OSRTC bus service. Travellers have to show identity proof to the conductor while boarding OSRTC bus along with your e-ticket or mTicket. </p>
+		  </div>
+		</div>
+	</div>
+	<div itemprop="mainEntity" itemscope itemtype="http://schema.org/Question">
+			<strong itemprop="name">Q - What are the benefits of booking my OSRTC bus ticket on AbhiBus? </strong>
+		<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+		<div itemprop="text">
+			<p>A - Travellers can avail several benefits when booking OSRTC bus online booking of your ticket on AbhiBus. AbhiBus offers various bus booking discount coupon codes to the customers so that travellers can save money on OSRTC ticket booking online through AbhiBus. Users can book your OSRTC bus ticket from anywhere and at any time with secure online payment options withs AbhiBus. It is an easy, quick and convenient way to book OSRTC online ticket booking on AbhiBus portal or Mobile App. </p>
+		  </div>
+		</div>
+	</div>
+	<div itemprop="mainEntity" itemscope itemtype="http://schema.org/Question">
+			<strong itemprop="name">Q - What are the types of buses provided by OSRTC? </strong>
+		<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+		<div itemprop="text">
+			<p>A - OSRTC operates various types of buses such as High-end Luxury Bus - 2/2 Volvo Coach, AC-Deluxe - 2/2 AC Coach, HI COMF - 3/2 Comfortable Coach, Deluxe / HI TECH - 2/2 Luxury Coach LCV Coach - 2/2 </p>
+		  </div>
+		</div>
+	</div>
+	<div itemprop="mainEntity" itemscope itemtype="http://schema.org/Question">
+			<strong itemprop="name">Q - How many buses does OSRTC have? </strong>
+		<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+		<div itemprop="text">
+			<p>A - Odisha State Road Transport Corporation OSRTC operates more than 460 buses with 23 depots including Angul, Cuttack, Rourkela, Bargarh, Rayagada, and Jeypore </p>
+		  </div>
+		</div>
+	</div>
+	
+	
+
+		
+
+</div>
+<h2 class="headTitle"><strong>About OSRTC : Odisha State Road Transport Corporation</strong></h2>
+
+<p><strong>Founded: </strong>1974<br />
+<strong>Number of employees:</strong> 1,599 (As of 31 March 2015)<br />
+<strong>Headquarters: </strong>Paribahan Bhavan, Sachivalaya Marg, Bhubaneswar, India<br />
+<strong>Key people:</strong> Diptesh Pattanayak, IPS Chairman and Managing Director<br />
+<strong>Areas served:</strong> Odisha, Andhra Pradesh, West Bengal<br />
+<strong>OSRTC Bus Types : </strong>AC Deluxe, Deluxe/Hi-Tech, Hi-Comf, LCV Coach, High-end Luxury Bus</p>
+
+<h2 class="headTitle"><strong>OSRTC Online Bus Ticket Booking</strong></h2>
+
+<p>OSRTC (Odisha State Road Transport Corporation) is the state-owned road transport corporation in the eastern Indian state of Odisha. In 1948 the government of Odisha State took over the operation of bus services run by former princely states under State Transport Services (STS). OSRTC has a fleet of 462 buses including AC to Non-AC Category buses such as Multi-axle Volvo, Sleeper and Semi-Sleeper buses, AC Deluxe, Deluxe/Hi-Tech, Hi-Comf, LCV Coach, High-end Luxury Bus etc. &nbsp;<br />
+&nbsp;<br />
+OSRTC buses operate for all the major routes in numerous states including Odisha, Andhra Pradesh, West Bengal, Chhattisgarh, and Telangana. OSRTC bus service maintains a good reputation with their punctuality, staff behavior, and hygiene. Some important routes provided by OSRTC operators includes Hyderabad to Jeypore, Bhubaneswar to Koraput, Brahmapura to Cuttack, Cuttack to Jagdalpur, Jeypore to Visakhapatnam, Koraput to Bhubaneswar, Cuttack to Bhawanipatna, Kolkata to Bhubaneswar, Rourkela to Cuttack, Bhubaneswar to Kolkata, Sambalpur to Bhubaneswar etc.</p>
+
+<p>OSRTC bus operator is one of the best leading public transport service providers in India. Passengers&rsquo; safety and comfort on bus journey is a high priority for them. Travellers can find all the OSRTC available bus services across India on AbhiBus. You can book OSRTC bus tickets online as per your affordable budget for your hassle-free bus journey.&nbsp;</p>
+
+<p>Travellers can reserve their OSRTC online ticket booking by using AbhiBus. There are various online payment methods such as Credit Cards, Debit Cards, Net banking, UPI, Wallet payment options available on AbhiBus to reserve your OSRTC bus ticket booking online. AbhiBus consumers have a safe, secure and convenient payment experience for OSRTC booking online.&nbsp;</p>
+
+<p>AbhiBus customer support is available on Ph: 040 61656789 for 24/7 support for any queries related to OSRTC bus booking online, OSRTC bus timings, schedules, OSRTC bus service enquiry and more.&nbsp;</p>
+
+<h2 class="headTitle"><strong>OSRTC Bus Booking</strong>&nbsp;</h2>
+
+<p>Booking OSRTC bus tickets online is simple with the AbhiBus portal or Mobile App for <a href="https://www.abhibus.com/bus-ticket-booking">bus booking online</a> because of its user-friendly design and step by step easy flow to booking OSRTC bus. Travellers can find OSRTC bus timings, departure, arrival bus timings, boarding and drop points of OSRTC buses for all the OSRTC buses operating bus routes on AbhiBus. Moreover, AbhiBus offers <a href="https://www.abhibus.com/bus-offers/assured-cashback">assured cashback on bus ticket booking</a> and check for more <a href="https://www.abhibus.com/bus-ticket-offers">best bus booking offers</a>. Avail amazing cashback offers when you book OSRTC online bus tickets using AbhiBus.&nbsp;</p>
+
+<h2 class="headTitle"><strong>How to Book OSRTC Bus Tickets With AbhiBus?</strong></h2>
+
+<p>Travellers can reserve their OSRTC bus booking online with AbhiBus by using online payment modes such as Credit Cards, Debit Cards, Net banking or UPI payment options. AbhiBus is an official <a href="https://www.abhibus.com/bus-ticket-booking">bus ticket booking</a> platform for OSRTC (Odisha State Road Transport Corporation) bus operator in India.</p>
+
+<p>Enjoy the OSRTC online bus booking at the lowest fare every time you travel. Follow these steps to book OSRTC tickets on the AbhiBus:</p>
+
+<ul>
+	<li>Visit <a href="https://www.abhibus.com/">www.abhibus.com</a> website.</li>
+	<li>Enter the origin, destination, date of bus travel details before clicking on the &lsquo;Search&rsquo; button.</li>
+	<li>Select your preferred OSRTC bus and the best bus ticket price option.</li>
+	<li>Choose your bus seat for reservation.&nbsp;</li>
+	<li>Enter your details for your bus journey.</li>
+	<li>Apply the discount coupon code and pay for your OSRTC booking online.</li>
+</ul>
+
+<p>AbhiBus will send booked OSRTC tickets by Mobile e-Ticket (SMS, WhatsApp & Email) once the payment is complete.</p>
+
+<h2 class="headTitle"><strong>OSRTC Bus Live Tracking</strong></h2>
+
+<p>Are you looking for OSRTC Bus Live Tracking? You are at the right place to check real-time OSRTC bus tracking on AbhiBus. You can use our live bus tracking feature to know exactly where the bus is and when it is estimated to arrive at the bus stop. AbhiBus&nbsp;<a href="https://www.abhibus.com/live-bus-tracking"><strong>Live Bus Track</strong></a>&nbsp;tool can help you plan how to reach the boarding point in a few minutes before the bus arrives at your bus stop or boarding point. In this way, you can avoid the waiting time of 40 to 60 minutes at your boarding point.&nbsp;</p>
+
+<p>Book your OSRTC Bus tickets online in advance and reserve your seats. AbhiBus also gives you benefits of bus ticket discount offers to save money on OSRTC ticket booking online for your hassle-free bus journeys. With <a href="https://www.abhibus.com/">ABhiBus</a>,&nbsp;book your OSRTC online bus ticket booking at lowest ticket fare and check your booked bus tickets status on AbhiBus live bus tracking tool&nbsp;online.&nbsp;&nbsp;</p>
+
+<h2 class="headTitle"><strong>OSRTC News | Latest News on OSRTC Bus Ticket Services</strong></h2>
+
+<p><strong>Last Updated: October 26, 2023</strong></p>
+
+<ul>
+	<li>Odisha State Road Transport Corporation (OSRTC) to introduce 1,745 BS-6 environment-friendly diesel buses.</li>
+	<li>Odisha state government initiates to provide free bus services to Kolkata for stranded passengers.</li>
+	<li>Odisha Chief Minister Naveen Patnaik inaugurated the Jagannath Express AC bus service between Seragarh in Ganjam district and Puri. The bus service, initiated by OSRTC (Odisha State Road Transport Corporation), was launched by the Chief Minister via video conference on Wednesday.</li>
+	<li>OSRTC is planning to launch&nbsp;New Volvo Bus Service From Bhubaneswar To Rourkela</li>
+	<li>OSRTC suspends bus services in Odisha&rsquo;s Rayagada, Jeypore and other districts, Check details</li>
+</ul>
+
+<h2 class="headTitle"><strong>Top OSRTC Bus Ticket Booking | OSRTC&nbsp;Top Routes, Bus Ticket Fare&nbsp;</strong></h2>
+
+<p>You can check here a few OSRTC bus routes, OSRTC bus ticket price and bus journey duration information on AbhiBus. OSRTC operates various buses round the clock in multiple routes of the state of OSRTC and its neighboring states in India.<br />
+&nbsp;</p>
+
+<table class="table table-bordered">
+	<tbody>
+		<tr>
+			<th>OSRTC Bus Routes</th>
+			<th>Avg. OSRTC Bus Ticket Price</th>
+			<th>Avg. OSRTC Bus Duration</th>
+		</tr>
+		<tr>
+			<td><strong><a href="https://www.abhibus.com/buses/39252/Bhubaneswar-Jeypore">Bhubaneswar to Jeypore Bus</a></strong></td>
+			<td>INR 644</td>
+			<td>12 hrs</td>
+		</tr>
+		<tr>
+			<td><a href="https://www.abhibus.com/buses/18918/Cuttack-Jeypore"><strong>Cuttack to Jeypore Bus</strong></a></td>
+			<td>INR 680</td>
+			<td>13 hrs</td>
+		</tr>
+		<tr>
+			<td><a href="https://www.abhibus.com/buses/909/Bhubaneswar-Kolkata"><strong>Bhubaneswar to Kolkata Bus</strong></a></td>
+			<td>INR 909</td>
+			<td>9 hrs</td>
+		</tr>
+		<tr>
+			<td><a href="https://www.abhibus.com/buses/51806/Bhubaneswar-Koraput"><strong>Bhubaneswar to Koraput Bus</strong></a></td>
+			<td>INR 616</td>
+			<td>12 hrs</td>
+		</tr>
+		<tr>
+			<td><a href="https://www.abhibus.com/buses/74584/Koraput-Bhubaneswar"><strong>Koraput to Bhubaneswar Bus </strong></a></td>
+			<td>INR 616</td>
+			<td>9 hrs</td>
+		</tr>
+		<tr>
+			<td><a href="https://www.abhibus.com/buses/40118/Bhubaneswar-Sunabeda"><strong>Bhubaneswar to Sunabeda Bus </strong></a></td>
+			<td>INR 722</td>
+			<td>11 hrs</td>
+		</tr>
+		<tr>
+			<td><a href="https://www.abhibus.com/buses/18450/Bhubaneswar-Bhawanipatna"><strong>Bhubaneswar to Bhawanipatna Bus</strong></a></td>
+			<td>INR 525</td>
+			<td>11 hrs</td>
+		</tr>
+		<tr>
+			<td><a href="https://www.abhibus.com/buses/73720/Bhawanipatna-Bhubaneswar"><strong>Bhawanipatna to Bhubaneswar Bus</strong></a></td>
+			<td>INR 525</td>
+			<td>11 hrs 30 min</td>
+		</tr>
+		<tr>
+			<td><a href="https://www.abhibus.com/buses/36066/Jeypore-Berhampur"><strong>Jeypore to Berhampur Bus</strong></a></td>
+			<td>INR 418</td>
+			<td>11 hrs</td>
+		</tr>
+		<tr>
+			<td><a href="https://www.abhibus.com/buses/40143/Jeypore-Bhubaneswar"><strong>Jeypore to Bhubaneswar Bus </strong></a></td>
+			<td>INR 644</td>
+			<td>12 hrs</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>OSRTC online ticket booking through AbhiBus portal, or Mobile App allows travellers to check the various types of buses, OSRTC bus timings, popular routes of OSRTC buses and customers avail OSRTC bus ticket offer to save money. Travelling by bus is affordable, cost-effective, and more flexible compared with flights and train journeys. OSRTC (Odisha State Road Transport Corporation) bus journey is safe and secure. Book an OSRTC bus ticket online at AbhiBus today!</p>
+
+<h2 class="headTitle"><strong>OSRTC Bus Timings</strong></h2>
+
+<p>OSRTC (Odisha State Road Transport Corporation) operates buses round the clock (24/7) in the various routes in the state of Odisha. Travellers can find OSRTC bus timing and OSRTC buses schedules on AbhiBus. Travellers make their choice to book OSRTC bus booking online.&nbsp;</p>
+
+<h2 class="headTitle"><strong>OSRTC Bus Types</strong></h2>
+
+<p>Travellers can find a wide range of bus services offered by OSRTC AC Seater, Non-AC Seater on AbhiBus. Check the below various types of buses offered by OSRTC.&nbsp;</p>
+
+<ul>
+	<li>High-end Luxury Bus - 2/2 Volvo Coach.</li>
+	<li>AC-Deluxe - 2/2 AC Coach.</li>
+	<li>HI COMF - 3/2 Comfortable Coach.</li>
+	<li>Deluxe / HI TECH - 2/2 Luxury Coach.</li>
+	<li>LCV Coach - 2/2.</li>
+	<li>NON A/C Seater (2+2)</li>
+	<li>A/C Seater (2+2)</li>
+	<li>NON A/C Seater (2+3)</li>
+	<li>A/C Seater (2+3)</li>
+	<li>Volvo (2+2)</li>
+	<li>A/C Seater (2+2)</li>
+	<li>NON A/C Seater (2+2)</li>
+</ul>
+
+<h2 class="headTitle"><strong>OSRTC Bus Amenities</strong></h2>
+
+<p>Odisha State Road Transport Corporation (OSRTC) provides various top amenities to passengers on the OSRTC bus services. The OSRTC bus ticket price may vary based on the facilities provided in the bus services. You can find here some of the amenities provided by the Odisha State Road Transport Corporation such as:</p>
+
+<ul>
+	<li>Televisions</li>
+	<li>Blankets</li>
+	<li>First Aid Kits</li>
+	<li>Water Bottles</li>
+	<li>Reading lights</li>
+	<li>Bottle holders</li>
+	<li>Air-Conditioners</li>
+	<li>Charging points</li>
+	<li>Arm and leg-rests</li>
+	<li>Luggage racks</li>
+	<li>Hand rest</li>
+	<li>Reclining seats</li>
+	<li>Window curtains</li>
+	<li>Emergency exits</li>
+</ul>
+
+<p>Travellers can check OSRTC buses amenities on AbhiBus during the OSRTC bus online booking.&nbsp;</p>
+
+<h2 class="headTitle"><strong>Popular Cities Covered by OSRTC</strong></h2>
+
+<p>Check out all the lists of popular OSRTC cities here:</p>
+
+<ul>
+	<li><a href="https://www.abhibus.com/bus/bhubaneswar-bus-tickets">Bubaneswar Bus Tckets</a></li>
+	<li><a href="https://www.abhibus.com/bus/cuttack-bus-tickets">Cuttak Bus Tickets</a></li>
+	<li><a href="https://www.abhibus.com/bus/bhanjanagar-bus-tickets">Bhanjanagar&nbsp;Bus Tickets</a></li>
+	<li><a href="https://www.abhibus.com/bus/jharsuguda-bus-tickets">Jharsuguda Bus Tickets</a></li>
+	<li><a href="https://www.abhibus.com/bus/sunabeda-bus-tickets">Sunabeda Bus Tickets</a></li>
+</ul>
+
+<h2 class="headTitle"><strong>Popular State Road Bus Operators</strong></h2>
+
+<ul dir="ltr">
+	<li><b id="docs-internal-guid-be2dc431-7fff-db53-c71d-983cb8bb0164"><a href="https://www.abhibus.com/operator/923/TSRTC">Telangana State Road Transport Corporation (TSRTC)</a></b></li>
+	<li><b id="docs-internal-guid-be2dc431-7fff-db53-c71d-983cb8bb0164"><a href="https://www.abhibus.com/operator/919/APSRTC">Andhra Pradesh State Road Transport Corporation (APSRTC)</a></b></li>
+	<li><b id="docs-internal-guid-be2dc431-7fff-db53-c71d-983cb8bb0164"><a href="https://www.abhibus.com/operator/784/HRTC">Himachal Road Transport Corporation (HRTC)</a></b></li>
+	<li><b id="docs-internal-guid-be2dc431-7fff-db53-c71d-983cb8bb0164"><a href="https://www.abhibus.com/operator/781/GSRTC">Gujarat State Road Transport Corporation (GSRTC)</a></b></li>
+	<li><b id="docs-internal-guid-be2dc431-7fff-db53-c71d-983cb8bb0164"><a href="https://www.abhibus.com/operator/778/RSRTC">Rajasthan State Road Transport Corporation (RSRTC)</a></b></li>
+	<li><b id="docs-internal-guid-be2dc431-7fff-db53-c71d-983cb8bb0164"><a href="https://www.abhibus.com/operator/780/MSRTC">Maharashtra State Road Transport Corporation (MSRTC)</a></b></li>
+	<li><b id="docs-internal-guid-be2dc431-7fff-db53-c71d-983cb8bb0164"><a href="https://www.abhibus.com/operator/1486/Kerala-RTC">Kerala Road Transport Corporation (Kerala RTC)</a></b></li>
+	<li><b id="docs-internal-guid-be2dc431-7fff-db53-c71d-983cb8bb0164"><a href="https://www.abhibus.com/operator/1567/BSRTC">Bihar State Transport Corporation (BSRTC)</a></b></li>
+	<li><b id="docs-internal-guid-be2dc431-7fff-db53-c71d-983cb8bb0164"><a href="https://www.abhibus.com/operator/786/TNSTC">Tamil Nadu State Transport Corporation (TNSTC)</a></b></li>
+</ul>
+
+<h2 class="headTitle"><strong>OSRTC Pilgrimage Destinations</strong></h2>
+
+<p>Here is a list of some popular pilgrimage destinations covered by OSRTC.</p>
+
+<ul>
+	<li>Konark</li>
+	<li>Puri</li>
+	<li>Rayagada</li>
+	<li>Simhachalam</li>
+	<li>Bhadrak</li>
+</ul>
+
+<h2 class="headTitle"><strong>OSRTC Bus Booking Cancellation Charges</strong></h2>
+
+<p>The cancellation of an e-ticket is only permitted until one hour before the bus starts. If a customer cancels the bus ticket, then partial cancellation charges are applicable with terms and conditions. Below are the details of partial cancellation charges&nbsp;</p>
+	
+							
+							</div>
+							
+															<div class="opt-routes3">
+								<ul>
+									<li>Between 0-1 Hrs of Bus Departure Time .0%</li><li>Between 1-4 Hrs of Bus Departure Time .25%</li><li>Between 4-12 Hrs of Bus Departure Time .50%</li><li>Between 12-24 Hrs of Bus Departure Time .75%</li><li>Above 24 Hrs of Bus Departure Time .90%</li>									
+								</ul>
+								</div>
+							 
+							                               
+						 <p></p>
+						 
+						 <div class="clear-fix"></div>  <p></p>
+						 							                                 
+							<div class="clearfix"></div>
+							<br />
+
+						
+						<div>&nbsp;</div>
+
+						 
+														<div class="table-bordered  rating">
+								<table width="100%" border="0" cellpadding="5" cellspacing="10" class="brd-bg">
+									<tbody>
+										<tr>
+											<td><h4 class="p-2">OSRTC Ratings & Reviews</h4></td>
+											<td align="right">
+
+												<p class=" rat-txt-big green " style="text-align:right; margin-right: 10px; margin-top: 10px;">4.0 
+													<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 69.366 66.474" fill="#ffffff">
+													<path id="star" d="M69.184,25.613a3.682,3.682,0,0,0-3.171-2.532L45.99,21.263,38.076,2.736a3.688,3.688,0,0,0-6.784,0L23.379,21.263,3.352,23.081a3.691,3.691,0,0,0-2.1,6.451L16.393,42.8,11.93,62.461a3.686,3.686,0,0,0,5.486,3.986L34.683,56.123,51.946,66.447a3.69,3.69,0,0,0,5.489-3.986L52.972,42.8,68.109,29.532A3.691,3.691,0,0,0,69.184,25.613ZM35.015,55.923" transform="translate(0 -0.496)"/>
+													</svg>
+												</p>
+												<span style="display: block; padding: 0px 10px 10px 10px ">(8480 reviews)</span>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+								<div class="row p-0 brd-bg" style="overflow: hidden">
+								  	<div class="col-md-9"></div>
+									<div class="col-md-3" style="text-align: right"></div>
+								</div>
+							  								<div class="row p-0  brd-bot" id="ratingLess">
+									<div class="col-md-10">  
+										<h4>Soumya Ranjan swain</h4> 
+										<p>Verry good services  </p>
+									</div>
+									<div class="col-md-2"> 
+										<div class="rating-big "> 
+										  <p class=" rat-txt green text-right">5												<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 69.366 66.474" fill="#ffffff">
+													<path id="star" d="M69.184,25.613a3.682,3.682,0,0,0-3.171-2.532L45.99,21.263,38.076,2.736a3.688,3.688,0,0,0-6.784,0L23.379,21.263,3.352,23.081a3.691,3.691,0,0,0-2.1,6.451L16.393,42.8,11.93,62.461a3.686,3.686,0,0,0,5.486,3.986L34.683,56.123,51.946,66.447a3.69,3.69,0,0,0,5.489-3.986L52.972,42.8,68.109,29.532A3.691,3.691,0,0,0,69.184,25.613ZM35.015,55.923" transform="translate(0 -0.496)"/>
+												</svg>
+											</p>
+											<span>02-11-2023</span>
+										</div>
+									</div>
+								</div>
+
+																<div class="row p-0  brd-bot" id="ratingLess">
+									<div class="col-md-10">  
+										<h4>K Divya Teja</h4> 
+										<p>Safe and completly super driving  </p>
+									</div>
+									<div class="col-md-2"> 
+										<div class="rating-big "> 
+										  <p class=" rat-txt green text-right">5												<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 69.366 66.474" fill="#ffffff">
+													<path id="star" d="M69.184,25.613a3.682,3.682,0,0,0-3.171-2.532L45.99,21.263,38.076,2.736a3.688,3.688,0,0,0-6.784,0L23.379,21.263,3.352,23.081a3.691,3.691,0,0,0-2.1,6.451L16.393,42.8,11.93,62.461a3.686,3.686,0,0,0,5.486,3.986L34.683,56.123,51.946,66.447a3.69,3.69,0,0,0,5.489-3.986L52.972,42.8,68.109,29.532A3.691,3.691,0,0,0,69.184,25.613ZM35.015,55.923" transform="translate(0 -0.496)"/>
+												</svg>
+											</p>
+											<span>01-11-2023</span>
+										</div>
+									</div>
+								</div>
+
+																<div class="row p-0  brd-bot" id="ratingLess">
+									<div class="col-md-10">  
+										<h4>ARUN KUMAR MAHAPATRA</h4> 
+										<p>Brand new bus and a pleasant journey experience with OSRTC </p>
+									</div>
+									<div class="col-md-2"> 
+										<div class="rating-big "> 
+										  <p class=" rat-txt green text-right">5												<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 69.366 66.474" fill="#ffffff">
+													<path id="star" d="M69.184,25.613a3.682,3.682,0,0,0-3.171-2.532L45.99,21.263,38.076,2.736a3.688,3.688,0,0,0-6.784,0L23.379,21.263,3.352,23.081a3.691,3.691,0,0,0-2.1,6.451L16.393,42.8,11.93,62.461a3.686,3.686,0,0,0,5.486,3.986L34.683,56.123,51.946,66.447a3.69,3.69,0,0,0,5.489-3.986L52.972,42.8,68.109,29.532A3.691,3.691,0,0,0,69.184,25.613ZM35.015,55.923" transform="translate(0 -0.496)"/>
+												</svg>
+											</p>
+											<span>26-10-2023</span>
+										</div>
+									</div>
+								</div>
+
+																	<div class="row p-0  brd-bot ratingMore" style="display:none;" >
+									<div class="col-md-10">  
+										<h4>Sabyasachi Mohanta</h4> 
+										<p>Experience is good  </p>
+									</div>
+									<div class="col-md-2"> 
+										<div class="rating-big "> 
+											<p class=" rat-txt green">5												<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 69.366 66.474" fill="#ffffff">
+													<path id="star" d="M69.184,25.613a3.682,3.682,0,0,0-3.171-2.532L45.99,21.263,38.076,2.736a3.688,3.688,0,0,0-6.784,0L23.379,21.263,3.352,23.081a3.691,3.691,0,0,0-2.1,6.451L16.393,42.8,11.93,62.461a3.686,3.686,0,0,0,5.486,3.986L34.683,56.123,51.946,66.447a3.69,3.69,0,0,0,5.489-3.986L52.972,42.8,68.109,29.532A3.691,3.691,0,0,0,69.184,25.613ZM35.015,55.923" transform="translate(0 -0.496)"/>
+												</svg>
+											</p>
+											<span>25-10-2023</span>
+										</div>
+									</div>
+								</div>
+																	<div class="row p-0  brd-bot ratingMore" style="display:none;" >
+									<div class="col-md-10">  
+										<h4>Nishant Dange</h4> 
+										<p>Very good experience  </p>
+									</div>
+									<div class="col-md-2"> 
+										<div class="rating-big "> 
+											<p class=" rat-txt green">5												<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 69.366 66.474" fill="#ffffff">
+													<path id="star" d="M69.184,25.613a3.682,3.682,0,0,0-3.171-2.532L45.99,21.263,38.076,2.736a3.688,3.688,0,0,0-6.784,0L23.379,21.263,3.352,23.081a3.691,3.691,0,0,0-2.1,6.451L16.393,42.8,11.93,62.461a3.686,3.686,0,0,0,5.486,3.986L34.683,56.123,51.946,66.447a3.69,3.69,0,0,0,5.489-3.986L52.972,42.8,68.109,29.532A3.691,3.691,0,0,0,69.184,25.613ZM35.015,55.923" transform="translate(0 -0.496)"/>
+												</svg>
+											</p>
+											<span>25-10-2023</span>
+										</div>
+									</div>
+								</div>
+																	<div class="row p-0  brd-bot ratingMore" style="display:none;" >
+									<div class="col-md-10">  
+										<h4>Anita Rath</h4> 
+										<p>Overall bus experience was good but if the bus number and bus staff phone number SMS come 30 minutes before the journey started then it would have been better to find the bus at the bus stand. </p>
+									</div>
+									<div class="col-md-2"> 
+										<div class="rating-big "> 
+											<p class=" rat-txt green">5												<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 69.366 66.474" fill="#ffffff">
+													<path id="star" d="M69.184,25.613a3.682,3.682,0,0,0-3.171-2.532L45.99,21.263,38.076,2.736a3.688,3.688,0,0,0-6.784,0L23.379,21.263,3.352,23.081a3.691,3.691,0,0,0-2.1,6.451L16.393,42.8,11.93,62.461a3.686,3.686,0,0,0,5.486,3.986L34.683,56.123,51.946,66.447a3.69,3.69,0,0,0,5.489-3.986L52.972,42.8,68.109,29.532A3.691,3.691,0,0,0,69.184,25.613ZM35.015,55.923" transform="translate(0 -0.496)"/>
+												</svg>
+											</p>
+											<span>24-10-2023</span>
+										</div>
+									</div>
+								</div>
+																	<div class="row p-0  brd-bot ratingMore" style="display:none;" >
+									<div class="col-md-10">  
+										<h4>sarada dash</h4> 
+										<p>Timing was perfect for the first time  </p>
+									</div>
+									<div class="col-md-2"> 
+										<div class="rating-big "> 
+											<p class=" rat-txt green">5												<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 69.366 66.474" fill="#ffffff">
+													<path id="star" d="M69.184,25.613a3.682,3.682,0,0,0-3.171-2.532L45.99,21.263,38.076,2.736a3.688,3.688,0,0,0-6.784,0L23.379,21.263,3.352,23.081a3.691,3.691,0,0,0-2.1,6.451L16.393,42.8,11.93,62.461a3.686,3.686,0,0,0,5.486,3.986L34.683,56.123,51.946,66.447a3.69,3.69,0,0,0,5.489-3.986L52.972,42.8,68.109,29.532A3.691,3.691,0,0,0,69.184,25.613ZM35.015,55.923" transform="translate(0 -0.496)"/>
+												</svg>
+											</p>
+											<span>24-10-2023</span>
+										</div>
+									</div>
+								</div>
+																	<div class="row p-0  brd-bot ratingMore" style="display:none;" >
+									<div class="col-md-10">  
+										<h4>BIKASH SINGH</h4> 
+										<p>Good service with proper manner  </p>
+									</div>
+									<div class="col-md-2"> 
+										<div class="rating-big "> 
+											<p class=" rat-txt green">5												<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 69.366 66.474" fill="#ffffff">
+													<path id="star" d="M69.184,25.613a3.682,3.682,0,0,0-3.171-2.532L45.99,21.263,38.076,2.736a3.688,3.688,0,0,0-6.784,0L23.379,21.263,3.352,23.081a3.691,3.691,0,0,0-2.1,6.451L16.393,42.8,11.93,62.461a3.686,3.686,0,0,0,5.486,3.986L34.683,56.123,51.946,66.447a3.69,3.69,0,0,0,5.489-3.986L52.972,42.8,68.109,29.532A3.691,3.691,0,0,0,69.184,25.613ZM35.015,55.923" transform="translate(0 -0.496)"/>
+												</svg>
+											</p>
+											<span>23-10-2023</span>
+										</div>
+									</div>
+								</div>
+																	<div class="row p-0  brd-bot ratingMore" style="display:none;" >
+									<div class="col-md-10">  
+										<h4>Satya Narayana Das</h4> 
+										<p>Timeing is good. </p>
+									</div>
+									<div class="col-md-2"> 
+										<div class="rating-big "> 
+											<p class=" rat-txt green">5												<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 69.366 66.474" fill="#ffffff">
+													<path id="star" d="M69.184,25.613a3.682,3.682,0,0,0-3.171-2.532L45.99,21.263,38.076,2.736a3.688,3.688,0,0,0-6.784,0L23.379,21.263,3.352,23.081a3.691,3.691,0,0,0-2.1,6.451L16.393,42.8,11.93,62.461a3.686,3.686,0,0,0,5.486,3.986L34.683,56.123,51.946,66.447a3.69,3.69,0,0,0,5.489-3.986L52.972,42.8,68.109,29.532A3.691,3.691,0,0,0,69.184,25.613ZM35.015,55.923" transform="translate(0 -0.496)"/>
+												</svg>
+											</p>
+											<span>31-07-2023</span>
+										</div>
+									</div>
+								</div>
+																	<div class="row p-0  brd-bot ratingMore" style="display:none;" >
+									<div class="col-md-10">  
+										<h4>Laxman Anugulia</h4> 
+										<p>Very good ..... punctuality and also staff behaviour </p>
+									</div>
+									<div class="col-md-2"> 
+										<div class="rating-big "> 
+											<p class=" rat-txt green">5												<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 69.366 66.474" fill="#ffffff">
+													<path id="star" d="M69.184,25.613a3.682,3.682,0,0,0-3.171-2.532L45.99,21.263,38.076,2.736a3.688,3.688,0,0,0-6.784,0L23.379,21.263,3.352,23.081a3.691,3.691,0,0,0-2.1,6.451L16.393,42.8,11.93,62.461a3.686,3.686,0,0,0,5.486,3.986L34.683,56.123,51.946,66.447a3.69,3.69,0,0,0,5.489-3.986L52.972,42.8,68.109,29.532A3.691,3.691,0,0,0,69.184,25.613ZM35.015,55.923" transform="translate(0 -0.496)"/>
+												</svg>
+											</p>
+											<span>25-07-2023</span>
+										</div>
+									</div>
+								</div>
+																	<div class="row p-0  brd-bot ratingMore" style="display:none;" >
+									<div class="col-md-10">  
+										<h4>Jitendra pallar</h4> 
+										<p>On time and happy with the travel. </p>
+									</div>
+									<div class="col-md-2"> 
+										<div class="rating-big "> 
+											<p class=" rat-txt green">5												<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 69.366 66.474" fill="#ffffff">
+													<path id="star" d="M69.184,25.613a3.682,3.682,0,0,0-3.171-2.532L45.99,21.263,38.076,2.736a3.688,3.688,0,0,0-6.784,0L23.379,21.263,3.352,23.081a3.691,3.691,0,0,0-2.1,6.451L16.393,42.8,11.93,62.461a3.686,3.686,0,0,0,5.486,3.986L34.683,56.123,51.946,66.447a3.69,3.69,0,0,0,5.489-3.986L52.972,42.8,68.109,29.532A3.691,3.691,0,0,0,69.184,25.613ZM35.015,55.923" transform="translate(0 -0.496)"/>
+												</svg>
+											</p>
+											<span>08-07-2023</span>
+										</div>
+									</div>
+								</div>
+																	<div class="row p-0  brd-bot ratingMore" style="display:none;" >
+									<div class="col-md-10">  
+										<h4>Srabani Mohapatra</h4> 
+										<p>The best service on time,panctuality and behaviour. </p>
+									</div>
+									<div class="col-md-2"> 
+										<div class="rating-big "> 
+											<p class=" rat-txt green">5												<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 69.366 66.474" fill="#ffffff">
+													<path id="star" d="M69.184,25.613a3.682,3.682,0,0,0-3.171-2.532L45.99,21.263,38.076,2.736a3.688,3.688,0,0,0-6.784,0L23.379,21.263,3.352,23.081a3.691,3.691,0,0,0-2.1,6.451L16.393,42.8,11.93,62.461a3.686,3.686,0,0,0,5.486,3.986L34.683,56.123,51.946,66.447a3.69,3.69,0,0,0,5.489-3.986L52.972,42.8,68.109,29.532A3.691,3.691,0,0,0,69.184,25.613ZM35.015,55.923" transform="translate(0 -0.496)"/>
+												</svg>
+											</p>
+											<span>19-06-2023</span>
+										</div>
+									</div>
+								</div>
+																	<div class="row p-0  brd-bot ratingMore" style="display:none;" >
+									<div class="col-md-10">  
+										<h4>Rakesh Bhanja</h4> 
+										<p>Awesome service  </p>
+									</div>
+									<div class="col-md-2"> 
+										<div class="rating-big "> 
+											<p class=" rat-txt green">5												<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 69.366 66.474" fill="#ffffff">
+													<path id="star" d="M69.184,25.613a3.682,3.682,0,0,0-3.171-2.532L45.99,21.263,38.076,2.736a3.688,3.688,0,0,0-6.784,0L23.379,21.263,3.352,23.081a3.691,3.691,0,0,0-2.1,6.451L16.393,42.8,11.93,62.461a3.686,3.686,0,0,0,5.486,3.986L34.683,56.123,51.946,66.447a3.69,3.69,0,0,0,5.489-3.986L52.972,42.8,68.109,29.532A3.691,3.691,0,0,0,69.184,25.613ZM35.015,55.923" transform="translate(0 -0.496)"/>
+												</svg>
+											</p>
+											<span>19-06-2023</span>
+										</div>
+									</div>
+								</div>
+																	<div class="row p-0  brd-bot ratingMore" style="display:none;" >
+									<div class="col-md-10">  
+										<h4>Sayad nisha</h4> 
+										<p>Excellent experience  </p>
+									</div>
+									<div class="col-md-2"> 
+										<div class="rating-big "> 
+											<p class=" rat-txt green">5												<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 69.366 66.474" fill="#ffffff">
+													<path id="star" d="M69.184,25.613a3.682,3.682,0,0,0-3.171-2.532L45.99,21.263,38.076,2.736a3.688,3.688,0,0,0-6.784,0L23.379,21.263,3.352,23.081a3.691,3.691,0,0,0-2.1,6.451L16.393,42.8,11.93,62.461a3.686,3.686,0,0,0,5.486,3.986L34.683,56.123,51.946,66.447a3.69,3.69,0,0,0,5.489-3.986L52.972,42.8,68.109,29.532A3.691,3.691,0,0,0,69.184,25.613ZM35.015,55.923" transform="translate(0 -0.496)"/>
+												</svg>
+											</p>
+											<span>18-06-2023</span>
+										</div>
+									</div>
+								</div>
+																	<div class="row p-0  brd-bot ratingMore" style="display:none;" >
+									<div class="col-md-10">  
+										<h4>Divya swarupa</h4> 
+										<p>Good journey  </p>
+									</div>
+									<div class="col-md-2"> 
+										<div class="rating-big "> 
+											<p class=" rat-txt green">5												<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 69.366 66.474" fill="#ffffff">
+													<path id="star" d="M69.184,25.613a3.682,3.682,0,0,0-3.171-2.532L45.99,21.263,38.076,2.736a3.688,3.688,0,0,0-6.784,0L23.379,21.263,3.352,23.081a3.691,3.691,0,0,0-2.1,6.451L16.393,42.8,11.93,62.461a3.686,3.686,0,0,0,5.486,3.986L34.683,56.123,51.946,66.447a3.69,3.69,0,0,0,5.489-3.986L52.972,42.8,68.109,29.532A3.691,3.691,0,0,0,69.184,25.613ZM35.015,55.923" transform="translate(0 -0.496)"/>
+												</svg>
+											</p>
+											<span>16-06-2023</span>
+										</div>
+									</div>
+								</div>
+																	<div class="row p-0  brd-bot ratingMore" style="display:none;" >
+									<div class="col-md-10">  
+										<h4>Ganesh Padhy</h4> 
+										<p>Good bus </p>
+									</div>
+									<div class="col-md-2"> 
+										<div class="rating-big "> 
+											<p class=" rat-txt green">5												<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 69.366 66.474" fill="#ffffff">
+													<path id="star" d="M69.184,25.613a3.682,3.682,0,0,0-3.171-2.532L45.99,21.263,38.076,2.736a3.688,3.688,0,0,0-6.784,0L23.379,21.263,3.352,23.081a3.691,3.691,0,0,0-2.1,6.451L16.393,42.8,11.93,62.461a3.686,3.686,0,0,0,5.486,3.986L34.683,56.123,51.946,66.447a3.69,3.69,0,0,0,5.489-3.986L52.972,42.8,68.109,29.532A3.691,3.691,0,0,0,69.184,25.613ZM35.015,55.923" transform="translate(0 -0.496)"/>
+												</svg>
+											</p>
+											<span>30-01-2023</span>
+										</div>
+									</div>
+								</div>
+																	<div class="row p-0  brd-bot ratingMore" style="display:none;" >
+									<div class="col-md-10">  
+										<h4>Chandra Sekhar</h4> 
+										<p>Time Punctuality  </p>
+									</div>
+									<div class="col-md-2"> 
+										<div class="rating-big "> 
+											<p class=" rat-txt green">5												<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 69.366 66.474" fill="#ffffff">
+													<path id="star" d="M69.184,25.613a3.682,3.682,0,0,0-3.171-2.532L45.99,21.263,38.076,2.736a3.688,3.688,0,0,0-6.784,0L23.379,21.263,3.352,23.081a3.691,3.691,0,0,0-2.1,6.451L16.393,42.8,11.93,62.461a3.686,3.686,0,0,0,5.486,3.986L34.683,56.123,51.946,66.447a3.69,3.69,0,0,0,5.489-3.986L52.972,42.8,68.109,29.532A3.691,3.691,0,0,0,69.184,25.613ZM35.015,55.923" transform="translate(0 -0.496)"/>
+												</svg>
+											</p>
+											<span>04-08-2022</span>
+										</div>
+									</div>
+								</div>
+																	<div class="row p-0  brd-bot ratingMore" style="display:none;" >
+									<div class="col-md-10">  
+										<h4>Bijayalaxmi Behera</h4> 
+										<p>Time Punctuality  </p>
+									</div>
+									<div class="col-md-2"> 
+										<div class="rating-big "> 
+											<p class=" rat-txt green">4												<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 69.366 66.474" fill="#ffffff">
+													<path id="star" d="M69.184,25.613a3.682,3.682,0,0,0-3.171-2.532L45.99,21.263,38.076,2.736a3.688,3.688,0,0,0-6.784,0L23.379,21.263,3.352,23.081a3.691,3.691,0,0,0-2.1,6.451L16.393,42.8,11.93,62.461a3.686,3.686,0,0,0,5.486,3.986L34.683,56.123,51.946,66.447a3.69,3.69,0,0,0,5.489-3.986L52.972,42.8,68.109,29.532A3.691,3.691,0,0,0,69.184,25.613ZM35.015,55.923" transform="translate(0 -0.496)"/>
+												</svg>
+											</p>
+											<span>04-08-2022</span>
+										</div>
+									</div>
+								</div>
+																	<div class="row p-0  brd-bot ratingMore" style="display:none;" >
+									<div class="col-md-10">  
+										<h4>BIJOY OJHA</h4> 
+										<p>Good </p>
+									</div>
+									<div class="col-md-2"> 
+										<div class="rating-big "> 
+											<p class=" rat-txt green">4												<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 69.366 66.474" fill="#ffffff">
+													<path id="star" d="M69.184,25.613a3.682,3.682,0,0,0-3.171-2.532L45.99,21.263,38.076,2.736a3.688,3.688,0,0,0-6.784,0L23.379,21.263,3.352,23.081a3.691,3.691,0,0,0-2.1,6.451L16.393,42.8,11.93,62.461a3.686,3.686,0,0,0,5.486,3.986L34.683,56.123,51.946,66.447a3.69,3.69,0,0,0,5.489-3.986L52.972,42.8,68.109,29.532A3.691,3.691,0,0,0,69.184,25.613ZM35.015,55.923" transform="translate(0 -0.496)"/>
+												</svg>
+											</p>
+											<span>03-08-2022</span>
+										</div>
+									</div>
+								</div>
+															</div>
+																<div class="text-center mt-2" style="margin-top:10px">  <a href="javascript:void(0)" id="DpHref" class="btn btn-danger"> More reviews</a></div> 
+																				 <div class="text-center mt-2" style="margin-top:10px;display:none;"  id="DpShowLess">  <a href="javascript:void(0)" class="btn btn-danger"> Less reviews</a></div> 
+
+							
+			<div class="row rounded-0 shadow-sm covid m-0 p-0 mt-4 aos-init" data-aos="fade-up" data-aos-delay="400">									
+		  		<div class="col-md-12 p-5 app-sec">
+					<h2 class="mb-4 mt-2">Install AbhiBus App to Book OSRTC Bus Tickets Online </h2>															
+					<div class="row">					
+					<div class="col-md-6 p-3"> 
+					  <div class="app-text">
+						<h3> Get Notified</h3>
+							<p>When the bus starts and is <br>about to reach you.</p>												
+						</div>												
+						</div>
+					
+						<div class="col-md-6 p-3"> 
+							<div class="app-text">
+							<h3> Lightning Fast</h3>
+								<p>Book in 30 seconds even on<br>Low Network.</p>											
+							</div>												
+						</div>
+						
+						<div class="col-md-6 p-3"> 
+							<div class="app-text">
+							<h3> Trusted by Millions</h3>
+								<p>Over 100,000 reviews from our customers.</p>											
+							</div>												
+						</div>
+						<div class="col-md-6 p-3"> 
+							<div class="app-text">
+							<h3> Enjoy Other Stuffs</h3>
+								<p>Games, offers, Free Rides and <br>a lot more.</p>												
+							</div>											
+						</div>									
+					</div>
+					
+					<div class="row">					
+					<div class="col-md-6"> <a href="https://play.google.com/store/apps/details?id=com.app.abhibus&referrer=utm_source%3DWeb%26utm_medium%3DHomepage%26utm_campaign%3DAppDL" target="_blank"><img src="https://static.abhibus.com/img/homepage/android.png" class="img-fluid pt-5" alt="AbhiBus Android App" title="AbhiBus Android App"></a> <a href="https://apps.apple.com/in/app/apsrtc-bus-booking-abhibus/id778605614" target="_blank"><img src="https://static.abhibus.com/img/homepage/ios-1.png" alt="AbhiBus iOS App" title="AbhiBus iOS App" class="img-fluid pt-5"></a></div>
+						<div class="col-md-6"> <img src="https://static.abhibus.com/img/homepage/star.png" class="img-fluid pt-5" alt="Apps Rating" title="Apps Rating"><p><strong>4.6/5</strong> based on 210260 reviews</p>
+						<script type="application/ld+json">{"@context":"http://schema.org/","@type":"MobileApplication","name":"AbhiBus Ticket Booking App","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.6/5","reviewCount":"210260"},"sameAs":["https://twitter.com/abhibus","https://www.facebook.com/abhibus","https://in.linkedin.com/company/abhibus","https://www.instagram.com/abhibusindia/"],"applicationCategory":"Travel","operatingSystem":"Android, iOS","URL":"https://www.abhibus.com"}</script>
+						</div>
+					</div> 					
+				</div>				
+			</div>
+							
+						 </div>
+						  <div class="col-md-4">
+                              <div class="c-right">                                
+								  <div class="webOffers">
+									<div class="left-title1"><h2 class="offerTitle">Bus Booking Offers</h2></div>                          
+																			
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+
+
+
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script> -->
+
+
+<style>
+.modal-wrap { background: rgba(0, 0, 0, 0.7); height: 100%; left: 0; opacity: 0; overflow: auto; position: fixed; top: 0; visibility: hidden; width: 100%; z-index: 10; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; -webkit-transition: all 0.3s ease-in-out; transition: all 0.3s ease-in-out;}
+.modal-wrap.visible { opacity: 1; visibility: visible;}
+.modal-wrap .modal-container { background: #fff; margin: 1em; max-width: 100%; width: 760px; z-index: 100;}
+.modal-wrap .modal-container .modal-header,  .modal-wrap .modal-container .modal-footer { background: red; float: left; width: 100%; height: 45px;}
+.modal-wrap .modal-header .modal-title { color: #fff; float: left; font-size: 2em; margin: 0; padding: 15px 30px;}
+.modal-wrap .modal-header .close-modal { background: transparent; border: 0; color: #fff; cursor: pointer; float: right; font-size: 30px; opacity: 0.8; -webkit-transition: all 0.3s ease-in-out; transition: all 0.3s ease-in-out;}
+.modal-wrap .modal-header .close-modal:hover { opacity: 1;}
+.modal-wrap .modal-content {float: left; margin: 0; padding: 15px 30px; width: 100%;}
+.modal-wrap .modal-content p:last-child { margin-bottom: 0; }
+.modal-wrap .modal-footer { text-align: center; }
+.modal-wrap .modal-footer p { color: #ccc; font-size: 12px; font-style: italic; margin: 10px;}
+.modal-wrap .modal-footer a { color: #fff; }
+</style>
+<div id="myCarousel" class="carousel slide pl-0 pr-0" data-ride="carousel">  
+  <ol class="carousel-indicators">
+	   
+	      	 
+	      	 
+	      	  </ol>	
+  				 
+  <div class="carousel-inner">
+	  	    	<div class="item active" id="open-modal145" class="triger-modal" data-triger="modal-demo0" onclick="openModal(0)" >
+		<img class="pointer" src="https://static.abhibus.com/busgallery/offerbanners/Oct2023/31/1698763290-372x254.webp" alt="Win Gold Coins" title ="Win Gold Coins" style="width:100%"> 
+	  <div class="carousel-caption"></div>
+	</div>
+	
+		    	<div class="item " id="open-modal145" class="triger-modal" data-triger="modal-demo1" onclick="openModal(1)" >
+		<img class="pointer" src="https://static.abhibus.com/busgallery/offerbanners/Mar2023/02/1677706766-372x254.webp" alt="Get Upto Rs.350 Cashback" title ="Get Upto Rs.350 Cashback" style="width:100%"> 
+	  <div class="carousel-caption"></div>
+	</div>
+	
+		    	<div class="item " id="open-modal145" class="triger-modal" data-triger="modal-demo2" onclick="openModal(2)" >
+		<img class="pointer" src="https://static.abhibus.com/busgallery/offerbanners/Aug2022/06/1659764672-372x254.webp" alt="Travel Party: Rs.250 off on group bookings" title ="Travel Party: Rs.250 off on group bookings" style="width:100%"> 
+	  <div class="carousel-caption"></div>
+	</div>
+	
+	  </div>	
+</div>
+
+<div class="modal-wrap" id="modal-demo0">
+  <div class="modal-container">
+    <div class="modal-header">
+      <h5 class="modal-title">Win Gold Coins</h5>
+      <button class="close-modal" onclick="closeModal(0)">&times;</button>
+    </div>
+    <div class="modal-content">
+       <ul><li>Apply code WINGOLD and get a chance to win gold coins </li><li>One lucky winner will win a 1gm gold coin every day</li><li>Additionally, one grand winner will win a 10gm gold coin during the campaign period</li><li>The winner who receives the 10 gm gold coin will be subjected to the applicable gift tax</li><li>No minimum transaction value</li><li>This offer is valid till 30th November 2023</li><li>Eligible users will enter a lucky draw that will determine the winners</li><li>Users should be logged in to AbhiBus to avail the offer</li><li>Offer valid only for Private Bus bookings, and select Govt SRTCs</li><li>This offer cannot be combined with any other offer</li><li>AbhiBus reserves the right to disqualify any transaction or discontinue the offer promotion at any time without notice or liability of whatsoever nature</li></ul>    </div>
+  </div>
+</div> 
+<div class="modal-wrap" id="modal-demo1">
+  <div class="modal-container">
+    <div class="modal-header">
+      <h5 class="modal-title">Get Upto Rs.350 Cashback</h5>
+      <button class="close-modal" onclick="closeModal(1)">&times;</button>
+    </div>
+    <div class="modal-content">
+       <ul><li>Apply Coupon code GET350 at bus checkout and get 100% upto Rs.350 Promo Cashback. </li><li>This offer is valid on a minimum transaction value of Rs.350.</li><li>Offer valid only for private bus bookings, not on SRTCs.</li><li>All customers who have applied GET350 and successfully completed the transaction will receive the cashback post journey completion.</li><li>Users should be logged in to AbhiBus to avail the offer.</li><li>This offer is valid for all AbhiBus users, once per user.</li><li>Users can redeem 5% upto Rs.25 on their future bookings with the Promo Cashback on bus bookings.</li><li>This offer cannot be combined with any other offer.</li><li>AbhiBus reserves the right to disqualify any transaction or discontinue the offer promotion at any time without notice or liability of whatsoever nature. </li></ul>    </div>
+  </div>
+</div> 
+<div class="modal-wrap" id="modal-demo2">
+  <div class="modal-container">
+    <div class="modal-header">
+      <h5 class="modal-title">Travel Party: Rs.250 off on group bookings</h5>
+      <button class="close-modal" onclick="closeModal(2)">&times;</button>
+    </div>
+    <div class="modal-content">
+       <ul><li>Apply coupon code ABHIPARTY and get an instant discount of Rs.250</li><li>A minimum of 3 seats must be booked to avail the offer</li><li>The minimum transaction value must be Rs.1500</li><li>This offer is valid once per user during this offer period.</li><li>Offer valid only for private bus bookings, not on SRTCs</li><li>Users should be logged in to AbhiBus to avail the offer</li><li>This offer is valid for all AbhiBus users, once per user</li><li>This offer cannot be combined with any other offer</li><li>AbhiBus reserves the right to disqualify any transaction or discontinue the offer promotion at any time without notice or liability of whatsoever nature </li></ul>    </div>
+  </div>
+</div> 
+
+<script>
+function openModal(id){
+	var modal = document.getElementById('modal-demo'+id);
+	 modal.classList.toggle('visible');
+}
+function closeModal(id){
+	var modal = document.getElementById('modal-demo'+id);
+	 modal.classList.remove('visible');
+}
+</script>
+ 
+									 
+								  </div>                        
+                                                                  <div class="left-title">Popular Cities for OSRTC Buses</div>
+                                 <div class="opt-routes">
+                                    <ul style="margin: 0px !important; padding: 0px !important;">
+                                       										   <li class=""><a href="https://www.abhibus.com/bus/visakhapatnam-bus-tickets">Visakhapatnam Bus Tickets</a></li>
+
+																				   <li class=""><a href="https://www.abhibus.com/bus/berhampur-bus-tickets">Berhampur (Orissa) Bus Tickets</a></li>
+
+																				   <li class=""><a href="https://www.abhibus.com/bus/bhawanipatna-bus-tickets">Bhawanipatna Bus Tickets</a></li>
+
+																				   <li class=""><a href="https://www.abhibus.com/bus/bolangir-bus-tickets">Balangir(Orissa) Bus Tickets</a></li>
+
+																				   <li class=""><a href="https://www.abhibus.com/bus/koraput-bus-tickets">Koraput Bus Tickets</a></li>
+
+																				   <li class=""><a href="https://www.abhibus.com/bus/sunabeda-bus-tickets">Sunabeda Bus Tickets</a></li>
+
+																				   <li class="list-fnl-none"><a href="https://www.abhibus.com/bus/bhanjanagar-bus-tickets">Bhanjanagar Bus Tickets</a></li>
+
+										                                    </ul>
+                                 </div>
+                                                                                                   <div class="left-title">OSRTC Major Boarding Points in Visakhapatnam</div>  
+                                 <div class="opt-routes1">
+                                    <ul style="margin: 0px !important; padding: 0px !important;">
+                                       										   <li class="list-fnl-none">Visakhapatnam</li>
+									                                       </ul>
+                                 </div>
+                                                                  <div class="left-title">OSRTC Major Boarding Points in Berhampur (Orissa)</div>  
+                                 <div class="opt-routes1">
+                                    <ul style="margin: 0px !important; padding: 0px !important;">
+                                       										   <li class="list-fnl-none">BERHAMPUR NEW BUS STAND</li>
+									                                       </ul>
+                                 </div>
+                                                                  <div class="left-title">OSRTC Major Boarding Points in Bhawanipatna</div>  
+                                 <div class="opt-routes1">
+                                    <ul style="margin: 0px !important; padding: 0px !important;">
+                                       										   <li class="list-fnl-none">BHAWANIPATNA</li>
+									                                       </ul>
+                                 </div>
+                                                                  <div class="left-title">OSRTC Major Boarding Points in Balangir(Orissa)</div>  
+                                 <div class="opt-routes1">
+                                    <ul style="margin: 0px !important; padding: 0px !important;">
+                                       										   <li class="list-fnl-none">BOLANGIR BUS STOP</li>
+									                                       </ul>
+                                 </div>
+                                                                  <div class="left-title">OSRTC Major Boarding Points in Koraput</div>  
+                                 <div class="opt-routes1">
+                                    <ul style="margin: 0px !important; padding: 0px !important;">
+                                       										   <li class="list-fnl-none">KORAPUT</li>
+									                                       </ul>
+                                 </div>
+                                                                  <div class="left-title">OSRTC Major Boarding Points in Sunabeda</div>  
+                                 <div class="opt-routes1">
+                                    <ul style="margin: 0px !important; padding: 0px !important;">
+                                       										   <li class="list-fnl-none">SUNABEDA</li>
+									                                       </ul>
+                                 </div>
+                                                                  <div class="left-title">OSRTC Major Boarding Points in Bhanjanagar</div>  
+                                 <div class="opt-routes1">
+                                    <ul style="margin: 0px !important; padding: 0px !important;">
+                                       										   <li class="list-fnl-none">BHANJANAGAR BUS STOP</li>
+									                                       </ul>
+                                 </div>
+                                                                  
+                                                                  <div class="left-title">OSRTC Major Dropping Points in Visakhapatnam</div>  
+                                 <div class="opt-routes2">
+                                    <ul style="margin: 0px !important; padding: 0px !important;">
+                                       										   <li class="list-fnl-none">Visakhapatnam</li>
+									                                       </ul>
+                                 </div>
+                                                                  <div class="left-title">OSRTC Major Dropping Points in Berhampur (Orissa)</div>  
+                                 <div class="opt-routes2">
+                                    <ul style="margin: 0px !important; padding: 0px !important;">
+                                       										   <li class="list-fnl-none">BERHAMPUR NEW BUS STAND</li>
+									                                       </ul>
+                                 </div>
+                                                                  <div class="left-title">OSRTC Major Dropping Points in Bhawanipatna</div>  
+                                 <div class="opt-routes2">
+                                    <ul style="margin: 0px !important; padding: 0px !important;">
+                                       										   <li class="list-fnl-none">BHAWANIPATNA</li>
+									                                       </ul>
+                                 </div>
+                                                                  <div class="left-title">OSRTC Major Dropping Points in Balangir(Orissa)</div>  
+                                 <div class="opt-routes2">
+                                    <ul style="margin: 0px !important; padding: 0px !important;">
+                                       										   <li class="list-fnl-none">BOLANGIR BUS STOP</li>
+									                                       </ul>
+                                 </div>
+                                                                  <div class="left-title">OSRTC Major Dropping Points in Koraput</div>  
+                                 <div class="opt-routes2">
+                                    <ul style="margin: 0px !important; padding: 0px !important;">
+                                       										   <li class="list-fnl-none">KORAPUT</li>
+									                                       </ul>
+                                 </div>
+                                                                  <div class="left-title">OSRTC Major Dropping Points in Sunabeda</div>  
+                                 <div class="opt-routes2">
+                                    <ul style="margin: 0px !important; padding: 0px !important;">
+                                       										   <li class="list-fnl-none">SUNABEDA</li>
+									                                       </ul>
+                                 </div>
+                                                                  <div class="left-title">OSRTC Major Dropping Points in Bhanjanagar</div>  
+                                 <div class="opt-routes2">
+                                    <ul style="margin: 0px !important; padding: 0px !important;">
+                                       										   <li class="list-fnl-none">BHANJANAGAR BUS STOP</li>
+									                                       </ul>
+                                 </div>
+                                          
+                              </div>
+                           </div>
+                           
+					  </div>
+				   </div>
+				   <div style="clear:both; height:10px;"></div>
+				</div>
+			</div>
+		  </div>
+	   </div>
+	</div>
+ </div>
+
+<script type="text/javascript">	 
+$(document).ready(function(){
+	var isMobile = false;
+	if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|ipad|iris|kindle|Android|Silk|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(navigator.userAgent) 
+     || /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(navigator.userAgent.substr(0,4))){ 
+		isMobile = true;
+	}
+	var no_months = 2;
+	if(isMobile == true){
+		no_months = 1;
+	}
+		var obj = new Array(215-214,178-214,214-215,4688-214,4688-4839,214-178,5401-4276,215-4839,4839-215,215-4688,214-4688,215-163);
+	$.each(obj, function(i, item) {
+			$("#bookdatepicker"+i).datepicker({dateFormat: 'dd-mm-yy', firstDay: 1, numberOfMonths: no_months, showButtonPanel: false, minDate: +0, maxDate: '+1M +15D',
+			onSelect: function(selectedDate) {
+				var strr = $(this).attr("url");
+				strr = strr.replace("BUSROUTEDATE", selectedDate);
+				strr = strr.replace(/[() ]/g, '');
+				var parameters = strr.split("bus_search");				
+				var paramvalues =  parameters[1].split("/");
+				var refineParam = "";
+
+				if (paramvalues[6] != '') {
+					var refine = paramvalues[6].split("?");
+					refine = refine[1];
+					refineParam = '&'+refine;
+				}
+				setCookie("source_id", paramvalues[2], 2);
+				setCookie("destination_id", paramvalues[4], 2);
+				setCookie("source", paramvalues[1], 2);
+				setCookie("destination", paramvalues[3], 2);
+		
+			if(isMobile == true){
+				var url = parameters[0]+"mobile/search?action=search&jdate="+selectedDate+"&srcid="+paramvalues[2]+"&destid="+paramvalues[4]+"&srcname="+paramvalues[1]+"&destname="+paramvalues[3]+refineParam+"&landedFrom=operatordescnew";
+					
+
+					url +='&refineid='+111316;
+								
+				window.location= url;
+				return; 
+			}
+
+				strr +='&refineid='+111316;
+				
+
+				window.location= strr;
+			}
+			}).click(function () { $(this).focus(); });
+		});
+		var HeadTxt = "OSRTC"
+	$('#searchHeadTitle').html('Search '+HeadTxt+' Bus Tickets'); 	     
+});
+
+function setCookie(cname, cvalue, exdays) {
+  var d = new Date();
+  d.setTime(d.getTime() + (exdays*24*60*60*1000));
+  var expires = "expires="+ d.toUTCString();
+  document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+}
+
+$("#DpHref").on('click', function() {
+		$('.ratingMore').show();
+		$('#DpHref').hide();
+		$('#DpShowLess').show();
+	});
+$("#DpShowLess").on('click', function() {
+		$('.ratingMore').hide();
+		$('#DpShowLess').hide();
+		$('#DpHref').show();
+});
+
+
+</script> 
+<script src="https://www.abhibus.com/jscript/validation_0_1_0.js" type="text/javascript" language="JavaScript"></script>
+<script src="https://www.abhibus.com/js/stations_script_0_0_4.js" type="text/javascript" language="JavaScript"></script>
+<script type="text/javascript">
+var base_url = 'https://www.abhibus.com/';
+	$(document).ready(function(){
+		$('#slider-code').tinycarousel({ axis: 'y' });
+		$('#slider-banner').tinycarousel({ axis: 'x' });
+			});
+</script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+<style>
+.fade:not(.show) {
+    opacity: 1;
+}
+.fot-ul ul {
+    padding: 20px;
+}
+.fot-ul ul li {
+    line-height: 30px;
+    width: 19%;
+    display: inline-block;
+}
+.fot-ul .row {
+    background:none;
+    min-height: 210px;
+    border-radius: 3px;
+    border: none;
+}
+	.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active{
+    color: #555;
+    cursor: default;
+    background-color: #e5e5e5!important;
+    border: none;
+    border-bottom: solid 3px #cf000b;
+    padding-bottom: 8px;
+}
+.nav-tabs li {
+    margin-bottom: -1px;
+    border-radius: 4px 4px 0px 0px;
+}
+.nav-tabs a {
+    font-size: 16px;
+    font-weight: bold;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+    color: #b50000;
+    border-radius: 0px;
+}
+.nav>li>a:focus, .nav>li>a:hover {
+    color: #b50000;
+    border-radius: 0px;
+}
+.nav-tabs>li+li {
+    margin-left: 0px;
+}
+
+</style>
+<!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
+
+<style>
+.fade { opacity: 1; -webkit-transition: opacity .15s linear; -o-transition: opacity .15s linear; transition: opacity .15s linear;}
+.fot-ul ul { padding: 0px;}
+.fot-ul ul li { line-height: 30px; width: 19%; display: inline-block;}	
+.fot-ul ul li::before{ content: "\f111"; font-family: FontAwesome; font-size: 14px; color: #dc635b; font-size: 10px; margin-right: 8px; } 	
+.fot-ul .row { min-height: 192px; border-radius: 3px; border:none; padding: 20px 0px 0px 20px}
+footer .nav-pills { border-bottom: solid 1px #ffffff;}
+footer .nav-tabs {border-bottom: solid 1px #a3a3a3;}
+footer .nav-tabs a { font-size: 16px; font-weight: bold;}
+footer .nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover { color: #b50000; border-bottom: solid 2px #b50000; background: none!important; border-radius: 0px;}
+footer .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover { color: #555; cursor: default; background-color:#e5e5e5!important; border: none; border-bottom: solid 3px #cf000b;}
+
+footer .nav>li>a:focus, .nav>li>a:hover { color: #b50000; border-radius: 0px; background: #eeeeee; border-radius: 5px 5px 0px 0px; padding: 10px 20px;}
+footer .nav-pills>li+li { margin-left: 100px;}
+footer .nav-tabs>li>a{ border: none; padding: 10px 20px;cursor: pointer;}
+.border-top{ background: #c6c6c6; }
+.border-top-bot{ background: #4f4f4f; color: #ffffff; }
+.border-top-bot a{ color: #ffffff; }
+	footer p{ margin: 0px; }
+footer .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+    color: #555;
+    cursor: default;
+    background-color: #e5e5e5!important;
+    border: none;
+    border-bottom: solid 3px #cf000b;
+    padding-bottom: 7px;
+}
+	
+@media only screen and (max-width: 600px) {
+.fot-ul ul {padding-left: 30px;}
+.fot-web{ display: none !important;}
+.fot-mob{ display: block !important; margin-top: 20px;}	
+.fot-mob .card-header{ padding: 0px; margin: 0px; background: none; border-bottom: none;}
+.fot-mob .bs-example h2{ margin-top:0px !important;}
+.fot-mob footer a { font-size: 14px; color: #212529 !important; font-weight: 500 !important;}
+.fot-mob p { margin-left: 21px !important; margin-right: 14px !important;}
+.colo-red{padding: 10px 0px 0px 0px}
+	footer .card{background: none; }
+	footer .card-body{ padding: 0px }
+}	
+.fot-web{ display: block;}
+.fot-mob{ display: none;}
+.fot-mob .bs-example{margin-bottom: 20px;}
+.fot-mob .accordion .fa{ margin-right: 0.5rem;font-size: 24px;font-weight: bold;position: relative;top: 2px; }	
+.fot-mob .bs-example h2{ margin-top: 10px;}
+.fot-mob .bs-example .card{ margin-bottom: 0px;}	
+.fot-mob .bs-example .btn{  width: 100%; text-align: left; outline: none!important; text-decoration: none; font-size: 16px; font-weight: bold; color: #000;}
+.fot-mob .card-body ul li{ line-height: 30px;}
+.container {
+    max-width: 1200px !important;
+}
+	
+footer a{ font-weight: normal;}
+</style>
+</div>
+
+
+<script>
+   $(document).ready(function(){
+        // Add down arrow icon for collapse element which is open by default
+        $(".collapse.show").each(function(){
+        	$(this).prev(".card-header").find(".fa").addClass("fa-angle-down").removeClass("fa-angle-right");
+        });        
+        // Toggle right and down arrow icon on show hide of collapse element
+        $(".collapse").on('show.bs.collapse', function(){
+        	$(this).prev(".card-header").find(".fa").removeClass("fa-angle-right").addClass("fa-angle-down");
+        }).on('hide.bs.collapse', function(){
+        	$(this).prev(".card-header").find(".fa").removeClass("fa-angle-down").addClass("fa-angle-right");
+        });
+    });
+</script>
+
+</div>
+<footer>
+	<div class="container py-3"> 
+		<div class="row aos-init" data-aos="fade-up" data-aos-delay="300"> 
+			<div class="home wrap social w-100 text-center"> 
+					<div class="social-header pb-2 pr-2">
+						<span>We're Social!</span> Connect with us on 
+					</div> 
+					<div> 
+						<a href="http://www.facebook.com/abhibus" target="_blank" onclick="recordOutboundLink(this, 'OutboundLinks', 'Facebook.com/abhibus');window.open(this.href);return false;" title="Abhibus.com on Facebook" class="facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a> 
+						<a href="http://twitter.com/abhibus" target="_blank" onclick="recordOutboundLink(this, 'OutboundLinks', 'Twitter.com/abhibus'); window.open(this.href); return false;" title="Abhibus.com on Twitter" class="twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a> 
+						<a href="http://www.youtube.com/user/abhibus" target="_blank" onclick="window.open(this.href); return false;" title="Abhibus.com on YouTube" class="youtube"><i class="fa fa-youtube-play" aria-hidden="true"></i></a> 
+						<a href="https://www.instagram.com/abhibusindia/" target="_blank" onclick="window.open(this.href); return false;" title="Abhibus.com on Instagram" class="instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a> 
+						<a href="https://abhibus.tumblr.com/" target="_blank" onclick="window.open(this.href); return false;" title="Abhibus.com on Tumblr" class="tumblr"><i class="fa fa-tumblr" aria-hidden="true"></i></a> 
+						<!-- <a href="https://www.reddit.com/user/abhibus" target="_blank" onclick="window.open(this.href); return false;" title="Abhibus.com on reddit" class="reddit"><i class="fa fa-reddit-alien" aria-hidden="true"></i></a> -->
+						<a href="https://www.pinterest.com/abhibusindia/pins/" target="_blank" onclick="window.open(this.href); return false;" title="Abhibus.com on Pinterest" class="printrest"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a> 
+					</div> 
+			</div> 
+		</div> 
+	</div>
+	<section class="border-top" style="background: #e5e5e5; aos-init" data-aos="fade-in" data-aos-delay="200">	
+		
+		<div class="container fot-mob">
+ <div class="bs-example">
+    <div class="accordion" id="accordionExample">
+        <div class="card">
+            <div class="card-header" id="headingOne">
+                <h2 class="mb-0">
+                    <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false"><i class="fa fa-angle-right"></i> Top Bus Routes</button>									
+                </h2>
+            </div>
+            <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample" style="height: 0px;" aria-expanded="false">
+                <div class="card-body">
+                   <ul>
+					<li><a href="https://www.abhibus.com/buses/1/Hyderabad-Bangalore"> Hyderabad to Bangalore Bus</a></li>
+					<li><a href="https://www.abhibus.com/buses/7/Hyderabad-Vijayawada">Hyderabad to Vijayawada Bus</a></li>
+					<li><a href="https://www.abhibus.com/buses/9/Hyderabad-Mumbai">Hyderabad to Mumbai Bus</a></li>
+					<li><a href="https://www.abhibus.com/buses/77/Vijayawada-Bangalore">Vijayawada to Bangalore Bus</a></li>
+					<li><a href="https://www.abhibus.com/buses/79/Vijayawada-Hyderabad">Vijayawada to Hyderabad Bus</a></li>
+					<li><a href="https://www.abhibus.com/buses/10/Bangalore-Hyderabad">Bangalore to Hyderabad Bus</a></li>
+					<li><a href="https://www.abhibus.com/buses/2/Bangalore-Chennai">Bangalore to Chennai Bus</a></li>
+				
+					<li><a href="https://www.abhibus.com/buses/23/Chennai-Bangalore">Chennai to Bangalore Bus</a></li>
+					<li><a href="https://www.abhibus.com/buses/30/Chennai-Madurai">Chennai to Madurai Bus</a></li>
+					<li><a href="https://www.abhibus.com/buses/24/Chennai-Coimbatore">Chennai to Coimbatore Bus</a></li>
+					<li><a href="https://www.abhibus.com/buses/47/Mumbai-Pune">Mumbai to Pune Bus</a></li>
+					<li><a href="https://www.abhibus.com/buses/46/Mumbai-Hyderabad">Mumbai to Hyderabad Bus</a></li>
+					<li><a href="https://www.abhibus.com/buses/43/Mumbai-Ahmedabad">Mumbai to Ahmedabad Bus</a></li>
+					<li><a href="https://www.abhibus.com/buses/139/Indore-Bhopal">Indore to Bhopal Bus</a></li>
+				
+					<li><a href="https://www.abhibus.com/buses/141/Indore-Ahmedabad">Indore to Ahmedabad Bus</a></li>
+					<li><a href="https://www.abhibus.com/buses/106/Ahmedabad-Jaipur">Ahmedabad to Jaipur Bus</a></li>
+					<li><a href="https://www.abhibus.com/buses/103/Ahmedabad-Rajkot">Ahmedabad to Rajkot Bus</a></li>
+					<li><a href="https://www.abhibus.com/buses/312/Ahmedabad-Indore">Ahmedabad to Indore Bus</a></li>
+					<li><a href="https://www.abhibus.com/buses/914/Udaipur-Jaipur">Udaipur to Jaipur Bus</a></li>
+					<li><a href="https://www.abhibus.com/buses/120/Jaipur-Delhi">Jaipur to Delhi Bus</a></li>
+					<li><a href="https://www.abhibus.com/buses/94/Jaipur-Ahmedabad">Jaipur to Ahmedabad Bus</a></li>
+				
+					<li><a href="https://www.abhibus.com/buses/107/Delhi-Lucknow">Delhi to Lucknow Bus</a></li>
+					<li><a href="https://www.abhibus.com/buses/6116/Delhi-Gorakhpur">Delhi to Gorakhpur Bus</a></li>
+					<li><a href="https://www.abhibus.com/buses/415/Delhi-Shimla">Delhi to Shimla Bus</a></li>
+					<li><a href="https://www.abhibus.com/buses/39/Delhi-Jaipur">Delhi to Jaipur Bus</a></li>
+				</ul>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-header" id="headingTwo">
+                <h2 class="mb-0">
+                    <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo"><i class="fa fa-angle-right"></i> Buses from Top Cities</button>
+                </h2>
+            </div>
+            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                <div class="card-body">
+                  <ul>
+					<li><a href="https://www.abhibus.com/bus/hyderabad-bus-tickets">Hyderabad Bus Tickets</a></li>
+					<li><a href="https://www.abhibus.com/bus/vijayawada-bus-tickets">Vijayawada Bus Tickets</a></li>
+					<li><a href="https://www.abhibus.com/bus/tirupathi-bus-tickets">Tirupathi Bus Tickets</a></li>
+					<li><a href="https://www.abhibus.com/bus/bangalore-bus-tickets">Bangalore Bus Ticket</a></li>
+					<li><a href="https://www.abhibus.com/bus/mangalore-bus-tickets">Mangalore Bus Tickets</a></li>
+					<li><a href="https://www.abhibus.com/bus/bellary-bus-tickets">Bellary Bus Tickets</a></li>
+					<li><a href="https://www.abhibus.com/bus/chennai-bus-tickets">Chennai Bus Tickets</a></li>
+				
+					<li><a href="https://www.abhibus.com/bus/madurai-bus-tickets">Madurai Bus Tickets</a></li>
+					<li><a href="https://www.abhibus.com/bus/coimbatore-bus-tickets">Coimbatore Bus Tickets</a></li>
+					<li><a href="https://www.abhibus.com/bus/goa-bus-tickets">Goa Bus Tickets</a></li>
+					<li><a href="https://www.abhibus.com/bus/mumbai-bus-tickets">Mumbai Bus Tickets</a></li>
+					<li><a href="https://www.abhibus.com/bus/pune-bus-tickets">Pune Bus Tickets</a></li>
+					<li><a href="https://www.abhibus.com/bus/indore-bus-tickets">Indore Bus Tickets</a></li>
+					<li><a href="https://www.abhibus.com/bus/bhopal-bus-tickets">Bhopal Bus Tickets</a></li>
+				
+					<li><a href="https://www.abhibus.com/bus/surat-bus-tickets">Surat Bus Tickets</a></li>
+					<li><a href="https://www.abhibus.com/bus/ahmedabad-bus-tickets">Ahmedabad Bus Tickets</a></li>
+					<li><a href="https://www.abhibus.com/bus/rajkot-bus-tickets">Rajkot Bus Tickets</a></li>
+					<li><a href="https://www.abhibus.com/bus/udaipur-bus-tickets">Udaipur Bus Tickets</a></li>
+					<li><a href="https://www.abhibus.com/bus/jodhpur-bus-tickets">Jodhpur Bus Tickets</a></li>
+					<li><a href="https://www.abhibus.com/bus/jaipur-bus-tickets">Jaipur Bus Tickets</a></li>
+					<li><a href="https://www.abhibus.com/bus/gorakhpur-bus-tickets">Gorakhpur Bus Tickets</a></li>
+
+					<li><a href="https://www.abhibus.com/bus/lucknow-bus-tickets">Lucknow Bus Tickets</a></li>
+					<li><a href="https://www.abhibus.com/bus/chandigarh-bus-tickets">Chandigarh Bus Tickets</a></li>
+					<li><a href="https://www.abhibus.com/bus/manali-bus-tickets">Manali Bus Tickets</a></li>
+					<li><a href="https://www.abhibus.com/bus/shimla-bus-tickets">Shimla Bus Tickets</a></li>
+				</ul>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-header" id="headingThree">
+                <h2 class="mb-0">
+                    <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree"><i class="fa fa-angle-right"></i> Top RTC Buses</button>                     
+                </h2>
+            </div>
+            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                <div class="card-body">
+                  <ul>
+					<li><a href="https://www.abhibus.com/operator/919/APSRTC">APSRTC</a></li>
+					<li><a href="https://www.abhibus.com/operator/923/TSRTC">TSRTC</a></li>
+					<li><a href="https://www.abhibus.com/operator/781/GSRTC">GSRTC</a></li>
+					<li><a href="https://www.abhibus.com/operator/780/MSRTC">MSRTC</a></li>
+					<li><a href="https://www.abhibus.com/operator/1486/Kerala-RTC">Kerala RTC</a></li>
+					<li><a href="https://www.abhibus.com/operator/784/HRTC">HRTC</a></li>
+				  
+					<li><a href="https://www.abhibus.com/operator/786/TNSTC">TNSTC</a></li>
+					<li><a href="https://www.abhibus.com/operator/778/RSRTC">RSRTC</a></li>
+					<li><a href="https://www.abhibus.com/operator/1320/OSRTC">OSRTC</a></li>
+			   
+					<li><a href="https://www.abhibus.com/operator/779/UPSRTC">UPSRTC</a></li>
+					<li><a href="https://www.abhibus.com/operator/1567/BSRTC">BSRTC</a></li>
+					<li><a href="https://www.abhibus.com/operator/1487/Pepsu-prtc">PRTC</a></li>
+				</ul>      
+			</div>
+            </div>
+        </div>
+		      <div class="card">
+            <div class="card-header" id="headingfour">
+                <h2 class="mb-0">
+                    <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapsefour"><i class="fa fa-angle-right"></i> Top Bus Services</button>                     
+                </h2>
+            </div>
+            <div id="collapsefour" class="collapse" aria-labelledby="headingfour" data-parent="#accordionExample">
+                <div class="card-body">
+                   <ul>
+					<li><a href="https://www.abhibus.com/operator/29/Orange-Tours-And-Travels">Orange Tours and Travels</a></li>
+					<li><a href="https://www.abhibus.com/operator/36/Morning-Star-Travels">Morning Star Travels</a></li>
+					<li><a href="https://www.abhibus.com/operator/77/Sri-Krishna-Travels">Sri Krishna Travels </a></li>
+					<li><a href="https://www.abhibus.com/operator/34/Gujarat-Travels">Gujarat Travels</a></li>
+					<li><a href="https://www.abhibus.com/operator/170/Patel-Tours-Travels">Patel Tours and Travels</a></li>
+					<li><a href="https://www.abhibus.com/operator/97/Shrinath-Travels">Shrinath Travels</a></li>
+					<li><a href="https://www.abhibus.com/operator/35/Hans-Travels">Hans Travels</a></li>
+				 
+					<li><a href="https://www.abhibus.com/operator/1539/V-Kaveri-Travels">V Kaveri Travels</a></li>
+					<li><a href="https://www.abhibus.com/operator/39/Raj-Ratan-Travels">Raj Ratan Tours and Travels</a></li>
+					<li><a href="https://www.abhibus.com/operator/217/Dolphin-Travel-House">Dolphin Travels House</a></li>
+					<li><a href="https://www.abhibus.com/operator/146/Kanker-Roadways">Kanker Roadways</a></li>
+					<li><a href="https://www.abhibus.com/operator/20/VRL-Travels">VRL Travels</a></li>
+					<li><a href="https://www.abhibus.com/operator/48/SRS-Travels">SRS Travels</a></li>
+					<li><a href="https://www.abhibus.com/operator/79/Greenline-Travels">Greenline Travels</a></li>
+				 
+					<li><a href="https://www.abhibus.com/operator/1365/Swamy-Ayyappa-Travels">Swamy Ayyappa Travels</a></li>
+					<li><a href="https://www.abhibus.com/operator/1240/YBM-Travels">YBM Travels</a></li>
+					<li><a href="https://www.abhibus.com/operator/1569/intr-city-smart-bus-booking">Intrcity SmartBus</a></li>
+					<li><a href="https://www.abhibus.com/operator/3048/zingbus">Zing Bus</a></li>
+
+					<li><a href="https://www.abhibus.com/operator/243/M-R-Travels">M.R Travels</a></li>
+					<li><a href="https://www.abhibus.com/operator/254/Jakhar-Travels">Jakhar Travels</a></li>
+
+					<li><a href="https://www.abhibus.com/operator/280/Dashmesh-Travels">Dashmesh Travels</a></li>
+					<li><a href="https://www.abhibus.com/operator/658/Royal-Safari-Travels">Royal Safari</a></li>
+					<li><a href="https://www.abhibus.com/operator/412/Samay-Travels">Samay Shatabdi</a></li>
+					<li><a href="https://www.abhibus.com/operator/83/Kalpana-Travels">Kalpana Travels</a></li>
+					<li><a href="https://www.abhibus.com/operator/579/Maha-Laxmi-Travels">Mahalaxmi Travels</a></li>					
+				</ul>
+	</div>
+            </div>
+        </div>
+		      <div class="card">
+            <div class="card-header" id="headingfive">
+                <h2 class="mb-0">
+                    <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapsefive"><i class="fa fa-angle-right"></i> Quick Links</button>                     
+                </h2>
+            </div>
+            <div id="collapsefive" class="collapse" aria-labelledby="headingfive" data-parent="#accordionExample">
+                <div class="card-body">
+                   <ul>
+         <li><a href="https://www.abhibus.com/bus-ticket-booking">Bus Ticket Booking </a></li>
+		<li><a href="https://www.abhibus.com/bus-ticket-offers">Bus Booking Offers  </a> </li>
+		<li><a href="https://www.abhibus.com/myticket">Check Bus Ticket Status </a> </li>
+		<li><a href="https://www.abhibus.com/live-bus-tracking">Live Bus Tracking</a> </li>
+		<li><a href="https://www.abhibus.com/cancellation">Cancel Booking</a> </li>
+		<li><a href="https://www.abhibus.com/refer-a-friend	">Refer A Friend</a> </li>                
+		<li><a href="https://www.abhibus.com/in-the-news">News </a> </li>				  
+		<li><a href="https://www.abhibus.com/abhi-assured">Abhi Assured</a></li>
+		<li><a href="https://www.abhibus.com/mobileapps">Download Mobile App</a></li>
+		<li><a href="https://www.abhibus.com/blog/">AbhiBus Travel Blog</a></li>
+		<li><a href="https://www.ixigo.com/buses">ixigo bus booking</a></li>
+		
+      </ul></div>
+            </div>
+        </div>
+    </div>
+</div>
+   
+</div>
+
+		
+		
+		<div class="container pt-3 fot-web">
+			
+	
+			
+			<ul class="nav nav-tabs" id="myTab" role="tablist">
+				<li class="nav-item"><a class="nav-link active" id="home-tab" data-toggle="tab" data-target="#home"  role="tab" aria-controls="home" aria-selected="true">Top Bus Routes</a></li>
+				<li><a class="nav-link" id="profile-tab" data-toggle="tab" data-target="#profile"  role="tab" aria-controls="profile" aria-selected="false">Buses from Top Cities</a></li>
+				<li><a class="nav-link" id="contact-tab" data-toggle="tab" data-target="#contact"  role="tab" aria-controls="contact" aria-selected="false">Top RTC Buses</a></li>
+				<li><a class="nav-link" id="top-services-tab" data-toggle="tab" data-target="#top-services"  role="tab" aria-controls="top-services" aria-selected="false">Top Bus Services</a></li>
+				<li><a class="nav-link" id="q-links-tab" data-toggle="tab" data-target="#q-links"  role="tab" aria-controls="q-links" aria-selected="false">Quick Links</a></li>
+				
+								
+			</ul>
+			<div class="tab-content fot-ul" id="myTabContent"> 
+				<div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+ 					 <div class="row">
+    					<div class="col-md-12">
+							<ul>
+								<li><a href="https://www.abhibus.com/buses/1/Hyderabad-Bangalore">Hyderabad to Bangalore Bus</a></li>
+								<li><a href="https://www.abhibus.com/buses/7/Hyderabad-Vijayawada">Hyderabad to Vijayawada Bus</a></li>
+								<li><a href="https://www.abhibus.com/buses/9/Hyderabad-Mumbai">Hyderabad to Mumbai Bus</a></li>
+								<li><a href="https://www.abhibus.com/buses/77/Vijayawada-Bangalore">Vijayawada to Bangalore Bus</a></li>
+								<li><a href="https://www.abhibus.com/buses/79/Vijayawada-Hyderabad">Vijayawada to Hyderabad Bus</a></li>
+								<li><a href="https://www.abhibus.com/buses/10/Bangalore-Hyderabad">Bangalore to Hyderabad Bus</a></li>
+								<li><a href="https://www.abhibus.com/buses/2/Bangalore-Chennai">Bangalore to Chennai Bus</a></li>
+							
+								<li><a href="https://www.abhibus.com/buses/23/Chennai-Bangalore">Chennai to Bangalore Bus</a></li>
+								<li><a href="https://www.abhibus.com/buses/30/Chennai-Madurai">Chennai to Madurai Bus</a></li>
+								<li><a href="https://www.abhibus.com/buses/24/Chennai-Coimbatore">Chennai to Coimbatore Bus</a></li>
+								<li><a href="https://www.abhibus.com/buses/47/Mumbai-Pune">Mumbai to Pune Bus</a></li>
+								<li><a href="https://www.abhibus.com/buses/46/Mumbai-Hyderabad">Mumbai to Hyderabad Bus</a></li>
+								<li><a href="https://www.abhibus.com/buses/43/Mumbai-Ahmedabad">Mumbai to Ahmedabad Bus</a></li>
+								<li><a href="https://www.abhibus.com/buses/139/Indore-Bhopal">Indore to Bhopal Bus</a></li>
+							
+								<li><a href="https://www.abhibus.com/buses/141/Indore-Ahmedabad">Indore to Ahmedabad Bus</a></li>
+								<li><a href="https://www.abhibus.com/buses/106/Ahmedabad-Jaipur">Ahmedabad to Jaipur Bus</a></li>
+								<li><a href="https://www.abhibus.com/buses/103/Ahmedabad-Rajkot">Ahmedabad to Rajkot Bus</a></li>
+								<li><a href="https://www.abhibus.com/buses/312/Ahmedabad-Indore">Ahmedabad to Indore Bus</a></li>
+								<li><a href="https://www.abhibus.com/buses/914/Udaipur-Jaipur">Udaipur to Jaipur Bus</a></li>
+								<li><a href="https://www.abhibus.com/buses/120/Jaipur-Delhi">Jaipur to Delhi Bus</a></li>
+								<li><a href="https://www.abhibus.com/buses/94/Jaipur-Ahmedabad">Jaipur to Ahmedabad Bus</a></li>
+							
+								<li><a href="https://www.abhibus.com/buses/107/Delhi-Lucknow">Delhi to Lucknow Bus</a></li>
+								<li><a href="https://www.abhibus.com/buses/6116/Delhi-Gorakhpur">Delhi to Gorakhpur Bus</a></li>
+								<li><a href="https://www.abhibus.com/buses/415/Delhi-Shimla">Delhi to Shimla Bus</a></li>
+								<li><a href="https://www.abhibus.com/buses/39/Delhi-Jaipur">Delhi to Jaipur Bus</a></li>
+							</ul>
+    					</div>
+  					</div>
+				</div>
+				<div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+					<div class="row">
+						<div class="col-md-12">
+							<ul>
+								<li><a href="https://www.abhibus.com/bus/hyderabad-bus-tickets">Hyderabad Bus Tickets</a></li>
+								<li><a href="https://www.abhibus.com/bus/vijayawada-bus-tickets">Vijayawada Bus Tickets</a></li>
+								<li><a href="https://www.abhibus.com/bus/tirupathi-bus-tickets">Tirupathi Bus Tickets</a></li>
+								<li><a href="https://www.abhibus.com/bus/bangalore-bus-tickets">Bangalore Bus Ticket</a></li>
+								<li><a href="https://www.abhibus.com/bus/mangalore-bus-tickets">Mangalore Bus Tickets</a></li>
+								<li><a href="https://www.abhibus.com/bus/bellary-bus-tickets">Bellary Bus Tickets</a></li>
+								<li><a href="https://www.abhibus.com/bus/chennai-bus-tickets">Chennai Bus Tickets</a></li>
+							
+								<li><a href="https://www.abhibus.com/bus/madurai-bus-tickets">Madurai Bus Tickets</a></li>
+								<li><a href="https://www.abhibus.com/bus/coimbatore-bus-tickets">Coimbatore Bus Tickets</a></li>
+								<li><a href="https://www.abhibus.com/bus/goa-bus-tickets">Goa Bus Tickets</a></li>
+								<li><a href="https://www.abhibus.com/bus/mumbai-bus-tickets">Mumbai Bus Tickets</a></li>
+								<li><a href="https://www.abhibus.com/bus/pune-bus-tickets">Pune Bus Tickets</a></li>
+								<li><a href="https://www.abhibus.com/bus/indore-bus-tickets">Indore Bus Tickets</a></li>
+								<li><a href="https://www.abhibus.com/bus/bhopal-bus-tickets">Bhopal Bus Tickets</a></li>
+							
+								<li><a href="https://www.abhibus.com/bus/surat-bus-tickets">Surat Bus Tickets</a></li>
+								<li><a href="https://www.abhibus.com/bus/ahmedabad-bus-tickets">Ahmedabad Bus Tickets</a></li>
+								<li><a href="https://www.abhibus.com/bus/rajkot-bus-tickets">Rajkot Bus Tickets</a></li>
+								<li><a href="https://www.abhibus.com/bus/udaipur-bus-tickets">Udaipur Bus Tickets</a></li>
+								<li><a href="https://www.abhibus.com/bus/jodhpur-bus-tickets">Jodhpur Bus Tickets</a></li>
+								<li><a href="https://www.abhibus.com/bus/jaipur-bus-tickets">Jaipur Bus Tickets</a></li>
+								<li><a href="https://www.abhibus.com/bus/gorakhpur-bus-tickets">Gorakhpur Bus Tickets</a></li>
+
+								<li><a href="https://www.abhibus.com/bus/lucknow-bus-tickets">Lucknow Bus Tickets</a></li>
+								<li><a href="https://www.abhibus.com/bus/chandigarh-bus-tickets">Chandigarh Bus Tickets</a></li>
+								<li><a href="https://www.abhibus.com/bus/manali-bus-tickets">Manali Bus Tickets</a></li>
+								<li><a href="https://www.abhibus.com/bus/shimla-bus-tickets">Shimla Bus Tickets</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
+					<div class="row">
+						<div class="col-md-12">
+							<ul>
+								<li><a href="https://www.abhibus.com/operator/919/APSRTC">APSRTC</a></li>
+								<li><a href="https://www.abhibus.com/operator/923/TSRTC">TSRTC</a></li>
+								<li><a href="https://www.abhibus.com/operator/781/GSRTC">GSRTC</a></li>
+								<li><a href="https://www.abhibus.com/operator/780/MSRTC">MSRTC</a></li>
+								<li><a href="https://www.abhibus.com/operator/1486/Kerala-RTC">Kerala RTC</a></li>
+								<li><a href="https://www.abhibus.com/operator/784/HRTC">HRTC</a></li>
+							
+								<li><a href="https://www.abhibus.com/operator/786/TNSTC">TNSTC</a></li>
+								<li><a href="https://www.abhibus.com/operator/778/RSRTC">RSRTC</a></li>
+								<li><a href="https://www.abhibus.com/operator/1320/OSRTC">OSRTC</a></li>
+						
+								<li><a href="https://www.abhibus.com/operator/779/UPSRTC">UPSRTC</a></li>
+								<li><a href="https://www.abhibus.com/operator/1567/BSRTC">BSRTC</a></li>
+								<li><a href="https://www.abhibus.com/operator/1487/Pepsu-prtc">PRTC</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div  class="tab-pane fade" id="top-services" role="tabpanel" aria-labelledby="top-services-tab">
+					<div class="row">
+						<div class="col-md-12">
+							<ul>
+							<li><a href="https://www.abhibus.com/operator/29/Orange-Tours-And-Travels">Orange Tours and Travels</a></li>
+							<li><a href="https://www.abhibus.com/operator/36/Morning-Star-Travels">Morning Star Travels</a></li>
+							<li><a href="https://www.abhibus.com/operator/77/Sri-Krishna-Travels">Sri Krishna Travels</a></li>
+							<li><a href="https://www.abhibus.com/operator/34/Gujarat-Travels">Gujarat Travels</a></li>
+							<li><a href="https://www.abhibus.com/operator/170/Patel-Tours-Travels">Patel Tours and Travels</a></li>
+							<li><a href="https://www.abhibus.com/operator/97/Shrinath-Travels">Shrinath Travels</a></li>
+							<li><a href="https://www.abhibus.com/operator/35/Hans-Travels">Hans Travels</a></li>
+
+							<li><a href="https://www.abhibus.com/operator/1539/V-Kaveri-Travels">V Kaveri Travels</a></li>
+							<li><a href="https://www.abhibus.com/operator/39/Raj-Ratan-Travels">Raj Ratan Tours and Travels</a></li>
+							<li><a href="https://www.abhibus.com/operator/217/Dolphin-Travel-House">Dolphin Travels House</a></li>
+							<li><a href="https://www.abhibus.com/operator/146/Kanker-Roadways">Kanker Roadways</a></li>
+							<li><a href="https://www.abhibus.com/operator/20/VRL-Travels">VRL Travels</a></li>
+							<li><a href="https://www.abhibus.com/operator/48/SRS-Travels">SRS Travels</a></li>
+							<li><a href="https://www.abhibus.com/operator/79/Greenline-Travels">Greenline Travels</a></li>
+
+							<li><a href="https://www.abhibus.com/operator/1365/Swamy-Ayyappa-Travels">Swamy Ayyappa Travels</a></li>
+							<li><a href="https://www.abhibus.com/operator/1240/YBM-Travels">YBM Travels</a></li>
+							<li><a href="https://www.abhibus.com/operator/1569/intr-city-smart-bus-booking">Intrcity SmartBus</a></li>
+							<li><a href="https://www.abhibus.com/operator/3048/zingbus">Zing Bus</a></li>
+
+							<li><a href="https://www.abhibus.com/operator/243/M-R-Travels">M.R Travels</a></li>
+							<li><a href="https://www.abhibus.com/operator/254/Jakhar-Travels">Jakhar Travels</a></li>
+
+							<li><a href="https://www.abhibus.com/operator/280/Dashmesh-Travels">Dashmesh Travels</a></li>
+							<li><a href="https://www.abhibus.com/operator/658/Royal-Safari-Travels">Royal Safari</a></li>
+							<li><a href="https://www.abhibus.com/operator/412/Samay-Travels">Samay Shatabdi</a></li>
+							<li><a href="https://www.abhibus.com/operator/83/Kalpana-Travels">Kalpana Travels</a></li>
+
+							<li><a href="https://www.abhibus.com/operator/579/Maha-Laxmi-Travels" style="font-size: 13px;">Mahalaxmi Travels</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div  class="tab-pane fade" id="q-links" role="tabpanel" aria-labelledby="q-links-tab">
+					<div class="row">
+						<div class="col-md-12">
+							<ul>
+								<li><a href="https://www.abhibus.com/bus-ticket-booking">Bus Ticket Booking </a></li>
+								<li><a href="https://www.abhibus.com/bus-ticket-offers">Bus Booking Offers  </a> </li>
+								<li><a href="https://www.abhibus.com/myticket">Check Bus Ticket Status </a> </li>
+								<li><a href="https://www.abhibus.com/live-bus-tracking">Live Bus Tracking</a> </li>
+								<li><a href="https://www.abhibus.com/cancellation">Cancel Booking</a> </li>
+								<li><a href="https://www.abhibus.com/refer-a-friend	">Refer A Friend</a> </li>                
+								<li><a href="https://www.abhibus.com/in-the-news">News </a> </li>				  
+								<li><a href="https://www.abhibus.com/abhi-assured">Abhi Assured</a></li>
+								<li><a href="https://www.abhibus.com/mobileapps">Download Mobile App</a></li>
+								<li><a href="https://www.abhibus.com/blog/">AbhiBus Travel Blog</a></li>
+								<li><a href="https://www.ixigo.com/buses">ixigo bus booking</a></li>
+								
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+<section class="border-top py-2">
+	<div class="container">
+		<div class="row no-gutters">
+		<div class="col-md-10" style="line-height: 34px">
+			
+			<ul class="nav">
+				<li class="nav-item px-0 text-gray py-2">
+					<p>	 <a href="https://www.abhibus.com/operators/"> Operators </a> |   <a href="https://www.abhibus.com/routes/">Routes</a> |   <a href="https://www.abhibus.com/about">About</a> |   <a href="https://www.abhibus.com/contact">Contact</a> |  <a href="https://www.abhibus.com/mobile/	">Mobile Version</a> |  <a href="https://www.abhibus.com/careers	">Careers</a> |  <a href="https://www.abhibus.com/bus-ticket-offers">Offers</a> | <a href="https://www.abhibus.com/faq">FAQs</a> |  <a href="https://www.abhibus.com/terms">Terms </a> |   <a href="https://www.abhibus.com/privacy">Privacy</a> |  <a href="https://agent.abhibus.com/">Agent Login</a> </p>
+				</li>
+			</ul>
+			</div>
+			<div class="col-md-2"><img src="https://static.abhibus.com/img/bus-booking/pci-dss-logo.png" alt=""/></div>
+     
+
+		</div>
+	</div>
+</section>
+
+	
+<section class="border-top-bot py-3">
+    <div class="container">
+      <div class="row no-gutters">
+        <div class="col-md-8 nav">
+            <p><a href="https://www.abhibus.com/" target="_blank" style="color: #ffffff">AbhiBus</a> | <a href="https://www.ixigo.com/" target="_blank" style="color: #ffffff">ixigo</a> | <a  style="color: #ffffff" href="https://www.confirmtkt.com/" target="_blank">ConfirmTkt</a></p>
+        </div>
+        <div class=" col-md-4 nav ml-auto">          
+            <p style="font-size: 13px;">Copyright @ Le Travenues Technology Ltd. All Right Reserved.</p>      
+      </div>
+    </div>
+</section>
+
+</footer>
+</div>
+
+<script src="https://static.abhibus.com/js/cs_det.js" type="text/javascript" language="JavaScript"></script>
+ 
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories.
+--------------------------------------------------->
+
+<script>
+ </script>
+ 
+
+<!-- Bootstrap core JavaScript --> 
+<!--<script src="https://static.abhibus.com/assets/vendor/jquery/jquery.min.js"></script> -->
+ 		<script src="https://static.abhibus.com/assets/js/owl.carousel.js"></script>
+	<script src="https://static.abhibus.com/assets/js/aos.js"></script>
+	
+	<script>
+			$(window).scroll(function() {    
+			var scroll = $(window).scrollTop();
+			if (scroll >= 150) {
+				$(".main-nav").addClass("sticky-top");
+			} else {
+				$(".main-nav").removeClass("sticky-top");
+			}
+		});
+	</script>
+	<script>
+		 $(document).ready(function() {
+            var carouselCount = 0;
+			$(".owl-two").each(function () {
+				$(this).attr("id", "owl-two" + carouselCount);
+				$('#owl-two' + carouselCount).owlCarousel({
+                loop: true,
+                margin: 10,
+				dots: false,
+                responsiveClass: true,
+			/*	autoplay: true,
+                autoplayTimeout: 2000,
+                autoplayHoverPause: true,*/
+				navText: [
+					'<img src="https://static.abhibus.com/assets/img/arrow-left.png" alt="arrow left">',
+					'<img src="https://static.abhibus.com/assets/img/arrow-right.png" alt="arrow left">'
+				],
+                responsive: {
+                  0: {
+                    items: 1,
+                    nav: true,
+					loop: false,
+					margin: 0
+                  },
+                  600: {
+                    items: 3,
+                    nav: true,
+                    loop: true,
+                    margin: 10
+                  },
+                  1000: {
+                    items: 3,
+                    nav: true,
+                    loop: true,
+                    margin: 10
+                  }
+                }
+              })
+				carouselCount++;
+			});
+			});
+        </script>
+		<script>
+		  AOS.init({
+				easing: 'ease-in-out-sine'
+			  });
+		</script>
+			  <!-- JavaScript at the bottom for fast page loading -->
+  <!-- <script src="https://www.abhibus.com/js/stations_script_online.js" type="text/javascript" language="JavaScript"></script>   -->
+   
+	<!--------------------------------------------------
+	Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories.
+	--------------------------------------------------->
+		
+	<script type="text/javascript">
+	var google_tag_params = {
+	flight_pagetype: 'home'
+	};
+	</script>
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	var google_conversion_id = 529511181;
+	var google_conversion_label = "Mrl2CIOSyg0Q9eDC1wM";
+	var google_custom_params = window.google_tag_params;
+	var google_remarketing_only = true;
+	/* ]]> */
+	</script>
+	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+	<noscript>
+	<div style="display:inline;">
+	<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/529511181/?value=0&amp;label=Mrl2CIOSyg0Q9eDC1wM&amp;guid=ON&amp;script=0"/>
+	</div>
+	</noscript>
+  <!-- /.container -->
+  <script src="https://www.abhibus.com/js/libs/jquery-ui.min.js"></script>
+	
+   	   	<script src="https://www.abhibus.com/js/common.script.js" type="text/javascript" language="JavaScript"></script>
+    <!-- <script src="https://www.abhibus.com/js/modified.datepicker.js" type="text/javascript" language="JavaScript"></script> -->
+       <script src="https://www.abhibus.com/js/plugins.js"></script>
+	<script src="https://static.abhibus.com/js/cs_det.js" type="text/javascript" language="JavaScript"></script>
+	  
+	<style>
+.chat_now {position: fixed;bottom: 0px;right: 5px;z-index: 2147483647;cursor: pointer;transition: all 200ms ease-in-out;transform: none;opacity: 1;}
+.verloop-container{bottom: 0px !important;}
+.dragon { width: 226px; height: 115px; transform-origin: 50% 80%; position: fixed;bottom:25px;right: 45px;z-index: 2147483647;cursor: pointer;transition: all 200ms ease-in-out;transform: none;opacity: 1;}
+.body{position:absolute;top:33px;right:-6px;width:80px;height:80px;background:red;border-radius:50% 50%;background-size:contain;z-index:10;opacity:.5;animation:zoomIn .5s cubic-bezier(.47,0,.75,.72) infinite alternate}
+.body2{position:absolute;top:23px;right:-16px;width:100px;height:100px;background:red;border-radius:50% 50%;background-size:contain;z-index:9;opacity:.2;animation:zoomIn .3s cubic-bezier(.47,0,.75,.72) infinite alternate}
+.dragon .eye{position:absolute;top:39px;width:68px;height:68px;background:url(//static.abhibus.com/chatbot/chat-pop.png) no-repeat;background-size:contain;z-index:12}
+.dragon .eye.left {right: 0px;}
+.dragon .mouth{position:absolute;top:40px;left:26px;width:126px;height:57px;background:url(//static.abhibus.com/chatbot/chat-box-v1.png) no-repeat;background-size:100%;z-index:11;animation:openMouth 3s alternate 1}
+@keyframes zoomIn {100% { transform: scale(1.16, 1.16);}}
+@keyframes openMouth { from {left:-10px; opacity: 0} to {left: 30px;}}
+.chat-close{background: url(//static.abhibus.com/mobile_web/img/close.png) no-repeat;height:20px;width:29px;background-size: 12px;position:absolute;top:26px;right:-35px;}
+.verloop-button {
+  display:none;
+}
+</style>		
+<noscript><img src="https://www.abhibus.com/akam/13/pixel_457e4eed?a=dD00MjVkMmUxMDhlYjdkMDkxMzQ1OGZlYmVlZDQzZmRmOTg0MTZmZWRmJmpzPW9mZg==" style="visibility: hidden; position: absolute; left: -999px; top: -999px;" /></noscript></body>
+</html>
